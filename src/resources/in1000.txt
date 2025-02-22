@@ -1,0 +1,10000 @@
+limit sell 214.34 245
+limit buy 215.4 214
+limit bid sell 384
+peg bid sell 177
+limit buy 227.96 125
+peg offer sell 239
+peg bid sell 361
+limit buy 219.55 110
+market sell 166
+limit buy 210.15 358
+limit buy 216.98 216
+market buy 139
+market buy 355
+limit sell 226.0 239
+market buy 98
+market buy 265
+market buy 172
+market sell 318
+market sell 101
+market sell 117
+market sell 133
+limit buy 192.34 352
+market sell 17
+limit sell 235.46 81
+market sell 233
+peg bid buy 298
+limit sell 218.4 290
+market sell 184
+limit buy 205.29 61
+peg offer sell 145
+limit offer sell 246
+limit sell 205.87 191
+limit buy 220.34 374
+limit bid buy 230
+peg bid buy 388
+market buy 325
+limit sell 220.12 97
+limit sell 228.28 245
+limit sell 223.44 338
+limit bid sell 39
+limit sell 220.03 19
+market sell 317
+peg offer sell 102
+peg offer sell 333
+market buy 192
+limit sell 224.49 355
+limit offer sell 220
+peg bid buy 182
+peg bid sell 234
+limit sell 231.79 366
+market sell 287
+limit bid sell 290
+limit sell 229.97 189
+limit buy 232.1 265
+limit bid sell 52
+limit bid sell 73
+market sell 208
+limit sell 232.6 166
+market sell 249
+peg bid buy 166
+limit bid sell 35
+limit sell 212.35 363
+limit offer sell 208
+peg offer sell 296
+limit offer buy 35
+limit sell 226.82 215
+limit buy 209.59 331
+market sell 367
+limit bid buy 116
+limit buy 230.49 348
+market buy 131
+limit buy 198.86 170
+limit buy 222.31 127
+limit offer buy 51
+market buy 20
+limit sell 228.28 271
+market buy 275
+peg offer buy 87
+peg bid buy 278
+peg bid sell 120
+limit bid sell 334
+peg offer sell 397
+peg bid buy 290
+limit sell 217.71 243
+peg offer sell 290
+limit buy 220.97 307
+limit sell 223.4 156
+limit buy 218.02 347
+peg offer sell 130
+limit buy 210.01 301
+market sell 349
+limit bid sell 276
+market buy 276
+market sell 174
+limit buy 200.05 252
+market sell 325
+peg bid sell 143
+limit sell 230.26 216
+market buy 278
+peg offer sell 283
+peg offer sell 151
+market buy 86
+peg offer sell 366
+market buy 138
+peg offer buy 236
+limit sell 225.39 123
+limit sell 213.47 142
+limit sell 222.77 30
+market sell 148
+limit buy 208.79 143
+peg offer buy 101
+market buy 77
+market sell 211
+limit sell 231.36 347
+limit sell 215.95 197
+market buy 78
+limit buy 210.07 364
+market buy 208
+limit sell 229.18 393
+peg offer sell 251
+market sell 396
+market sell 374
+limit sell 218.8 222
+limit sell 225.74 218
+peg offer sell 324
+limit sell 217.44 170
+limit sell 221.21 276
+limit bid sell 241
+limit sell 226.6 367
+limit buy 211.12 50
+limit sell 217.63 392
+limit buy 208.69 215
+market buy 147
+peg bid buy 327
+market sell 30
+peg bid sell 236
+peg bid buy 52
+market buy 311
+limit sell 223.94 284
+limit sell 220.43 220
+limit sell 218.42 218
+limit sell 227.27 285
+peg offer sell 190
+market buy 328
+market buy 219
+limit buy 209.86 214
+limit sell 237.51 55
+limit sell 217.28 312
+limit offer buy 345
+limit bid sell 355
+market sell 145
+limit buy 207.54 75
+limit buy 209.32 113
+market buy 338
+limit buy 207.72 317
+limit buy 230.77 290
+limit sell 230.39 395
+market sell 52
+limit offer sell 234
+peg bid buy 277
+limit buy 202.17 241
+market sell 377
+peg offer buy 153
+limit bid sell 211
+limit buy 211.24 74
+peg bid buy 140
+market buy 188
+market buy 314
+limit buy 217.96 312
+market sell 164
+market buy 214
+market buy 191
+limit buy 226.92 228
+limit buy 224.74 284
+limit buy 227.31 246
+peg offer buy 394
+peg offer sell 311
+peg offer buy 309
+peg bid buy 308
+market buy 344
+limit buy 212.2 29
+limit sell 229.35 225
+peg offer sell 294
+market sell 119
+limit sell 236.73 103
+market buy 317
+limit sell 232.86 135
+limit sell 240.26 146
+limit buy 202.46 54
+limit sell 223.08 249
+limit sell 226.46 169
+market sell 176
+peg offer sell 297
+limit buy 230.64 323
+market buy 169
+limit offer buy 98
+limit buy 219.7 230
+limit sell 247.3 61
+peg bid buy 205
+market sell 187
+limit sell 215.38 103
+peg bid buy 162
+peg offer buy 162
+market sell 236
+limit sell 219.14 47
+limit sell 215.3 219
+market buy 16
+limit sell 223.36 192
+limit sell 232.88 358
+market sell 365
+limit buy 220.09 214
+limit buy 217.09 325
+peg bid buy 374
+limit sell 215.39 293
+peg offer sell 263
+limit sell 201.41 377
+limit sell 216.03 376
+limit buy 213.34 44
+market sell 91
+peg bid buy 171
+limit buy 216.46 325
+market sell 312
+market sell 44
+market sell 84
+market sell 124
+limit buy 210.54 146
+limit sell 208.34 272
+market sell 231
+limit sell 228.04 395
+limit sell 215.66 280
+limit buy 204.37 192
+limit bid sell 152
+market buy 55
+limit buy 219.92 362
+limit buy 221.05 153
+limit sell 222.71 289
+peg bid buy 169
+market buy 275
+limit buy 227.88 149
+limit bid buy 350
+peg offer buy 385
+market sell 331
+limit offer sell 87
+market sell 262
+peg bid sell 164
+limit sell 220.7 322
+limit buy 217.71 344
+limit sell 218.5 156
+peg offer buy 42
+limit sell 237.77 71
+market sell 197
+market sell 305
+peg offer sell 372
+limit sell 223.22 96
+limit buy 212.8 144
+market sell 43
+market buy 198
+limit sell 230.06 280
+limit offer buy 293
+market buy 189
+market buy 313
+limit sell 227.91 381
+limit buy 213.69 361
+limit buy 232.19 114
+limit bid buy 151
+peg bid buy 70
+peg offer sell 249
+market sell 162
+peg offer buy 69
+peg bid buy 339
+market sell 131
+market buy 17
+market buy 231
+peg bid sell 137
+limit sell 213.46 26
+market buy 35
+peg offer sell 368
+market sell 54
+limit offer sell 213
+limit buy 202.73 21
+limit sell 225.82 83
+peg bid sell 288
+market sell 228
+market sell 372
+limit buy 214.62 305
+limit buy 207.21 88
+limit buy 218.15 81
+peg bid buy 311
+market buy 234
+market buy 86
+market buy 115
+limit offer sell 30
+market buy 364
+limit sell 231.49 210
+limit buy 210.89 106
+limit sell 222.33 168
+limit buy 228.75 329
+limit buy 211.16 337
+peg bid buy 315
+limit buy 234.68 211
+market sell 381
+market sell 382
+limit buy 213.55 329
+limit offer buy 298
+market sell 155
+market buy 154
+limit sell 229.31 216
+peg offer sell 139
+limit bid sell 241
+limit buy 225.75 199
+limit buy 213.32 105
+peg offer sell 255
+limit sell 230.22 219
+peg offer sell 216
+limit buy 205.27 91
+market sell 157
+limit sell 218.26 281
+peg bid sell 308
+market buy 185
+limit buy 222.16 263
+peg offer buy 186
+market sell 16
+peg bid sell 89
+peg bid buy 177
+peg bid buy 189
+peg bid sell 47
+market buy 150
+market buy 160
+market sell 53
+market sell 151
+limit buy 219.95 65
+limit buy 193.19 119
+peg bid buy 166
+peg bid buy 201
+peg offer buy 228
+market sell 35
+market sell 337
+peg offer buy 116
+limit sell 222.08 249
+limit buy 221.5 340
+limit bid sell 297
+limit buy 217.59 285
+limit buy 217.27 349
+limit offer sell 312
+limit bid buy 68
+market sell 332
+peg offer buy 190
+limit offer sell 268
+peg offer sell 296
+peg offer sell 393
+market sell 245
+market buy 152
+market sell 303
+market buy 291
+limit buy 204.37 197
+limit buy 220.25 238
+limit buy 225.66 292
+market buy 22
+limit buy 222.06 358
+peg bid sell 368
+limit buy 228.97 273
+market sell 169
+limit buy 212.74 52
+peg bid buy 36
+market sell 139
+market buy 333
+limit sell 226.24 269
+limit buy 215.68 277
+limit offer sell 295
+market buy 174
+market sell 73
+market sell 397
+market sell 150
+limit offer sell 278
+market buy 39
+peg bid buy 46
+limit bid sell 32
+market buy 24
+market sell 255
+limit buy 212.19 122
+limit buy 220.31 182
+limit offer buy 109
+limit buy 223.89 241
+limit buy 211.36 241
+limit bid buy 42
+market buy 395
+limit buy 215.57 31
+market sell 181
+limit buy 223.47 362
+limit buy 233.0 73
+limit sell 216.85 186
+market buy 248
+limit buy 217.41 169
+limit sell 225.53 249
+market buy 97
+limit sell 224.41 257
+limit buy 233.81 50
+market buy 32
+peg bid sell 197
+market buy 196
+peg offer sell 355
+limit bid sell 153
+peg offer sell 46
+limit sell 219.43 40
+limit buy 208.58 151
+limit buy 218.79 291
+market sell 236
+peg offer buy 108
+market buy 236
+peg bid buy 87
+limit bid buy 40
+peg bid buy 371
+peg offer buy 115
+market buy 368
+peg offer sell 24
+limit sell 221.74 264
+limit buy 231.76 308
+limit buy 220.42 107
+peg bid buy 144
+peg bid sell 21
+limit bid sell 328
+limit buy 219.5 326
+limit bid buy 197
+market sell 113
+limit buy 221.81 394
+limit sell 221.38 281
+peg bid sell 21
+limit sell 219.88 206
+limit sell 218.7 354
+market sell 241
+market buy 97
+limit bid sell 187
+peg bid buy 19
+market sell 327
+limit sell 213.96 101
+limit buy 219.72 298
+market buy 276
+market buy 330
+market buy 120
+limit offer buy 75
+limit sell 220.09 201
+peg offer buy 64
+market buy 218
+limit buy 230.33 214
+limit buy 224.32 29
+market sell 48
+peg bid sell 178
+limit bid sell 254
+limit buy 206.85 233
+peg offer sell 273
+limit buy 219.32 125
+peg bid sell 372
+limit bid buy 179
+peg bid buy 381
+limit sell 223.54 400
+limit bid buy 69
+market sell 176
+peg offer buy 340
+limit sell 228.48 368
+limit sell 216.8 319
+peg bid buy 332
+market buy 30
+limit buy 221.29 162
+peg offer buy 211
+market buy 214
+market sell 194
+market sell 128
+limit sell 209.87 93
+limit sell 214.33 207
+limit sell 230.26 96
+limit sell 212.08 282
+limit buy 232.19 177
+market buy 104
+limit sell 211.22 88
+limit sell 219.91 251
+peg bid sell 17
+market buy 151
+peg offer buy 71
+peg bid buy 310
+market sell 356
+limit buy 227.84 238
+limit sell 213.04 25
+limit buy 216.14 103
+peg bid sell 235
+peg bid buy 135
+market sell 227
+market sell 39
+market buy 282
+limit offer buy 340
+market buy 91
+peg bid buy 27
+limit offer buy 316
+limit buy 203.81 360
+market buy 323
+market buy 282
+limit sell 214.34 327
+peg bid buy 69
+peg offer buy 317
+limit sell 215.89 328
+limit buy 223.06 29
+limit sell 221.01 152
+market sell 239
+limit offer sell 352
+limit sell 215.49 127
+limit offer buy 74
+peg offer buy 292
+peg offer buy 85
+peg bid sell 388
+market buy 205
+limit sell 232.63 48
+peg offer buy 386
+peg offer sell 72
+limit buy 224.13 244
+limit buy 203.98 36
+limit sell 211.95 131
+peg bid buy 368
+peg offer buy 161
+market buy 320
+limit offer sell 159
+peg offer buy 49
+limit offer sell 234
+peg offer buy 276
+peg offer sell 132
+peg bid buy 243
+limit buy 217.5 365
+market sell 328
+limit buy 221.81 32
+peg offer buy 27
+limit sell 219.73 65
+limit bid buy 376
+market sell 334
+limit sell 232.12 87
+limit buy 215.96 321
+limit sell 227.37 93
+market sell 147
+peg bid sell 353
+market buy 204
+limit sell 229.53 209
+limit offer sell 215
+limit sell 220.25 359
+limit buy 219.14 61
+market sell 182
+peg offer buy 284
+limit sell 228.61 174
+peg offer buy 380
+limit buy 210.05 97
+limit offer buy 333
+limit buy 207.74 220
+peg bid sell 127
+market buy 348
+limit bid buy 283
+limit sell 223.59 236
+market buy 139
+limit sell 217.99 20
+market sell 240
+limit buy 213.18 71
+limit buy 223.12 357
+peg offer buy 301
+limit buy 203.4 114
+limit sell 233.82 221
+market sell 157
+limit sell 207.1 284
+limit buy 210.03 224
+market sell 272
+peg offer buy 82
+market sell 293
+limit offer buy 168
+peg offer buy 112
+market sell 98
+limit offer buy 221
+peg offer buy 35
+market buy 104
+peg bid buy 353
+peg offer sell 129
+limit buy 217.43 313
+limit sell 219.36 304
+limit sell 224.77 28
+limit offer sell 71
+market sell 134
+limit sell 225.47 316
+market sell 186
+limit buy 229.32 265
+market buy 271
+limit bid buy 335
+market buy 165
+market buy 205
+limit sell 239.07 355
+market sell 303
+limit buy 207.82 152
+limit sell 229.22 130
+limit sell 206.83 216
+limit bid buy 178
+limit sell 215.88 324
+peg bid buy 233
+limit buy 221.69 235
+limit sell 230.99 151
+peg bid sell 192
+peg bid buy 207
+limit buy 220.4 214
+limit sell 227.24 92
+limit bid buy 388
+market sell 44
+limit sell 225.09 239
+limit sell 232.63 57
+limit sell 234.88 387
+market sell 110
+limit buy 197.87 335
+limit buy 206.53 335
+market sell 168
+limit sell 220.0 32
+market buy 142
+limit sell 224.11 188
+peg bid sell 327
+limit buy 211.15 250
+limit sell 215.89 68
+market buy 51
+market buy 366
+market sell 208
+market buy 351
+peg offer sell 239
+limit buy 187.32 389
+limit sell 229.88 231
+limit buy 232.09 224
+market buy 222
+market buy 161
+market sell 345
+limit sell 210.15 215
+market sell 89
+limit buy 231.78 354
+limit offer sell 330
+limit buy 234.91 96
+peg bid sell 78
+limit offer buy 69
+limit buy 211.98 70
+peg bid buy 351
+limit bid buy 40
+peg offer sell 329
+market buy 289
+market sell 102
+limit sell 231.96 102
+limit sell 216.94 333
+peg bid sell 75
+peg bid sell 355
+market sell 396
+peg offer buy 63
+peg bid sell 73
+limit sell 210.78 132
+market buy 343
+limit sell 223.87 42
+market sell 178
+limit buy 211.12 15
+peg bid sell 262
+limit sell 214.28 87
+limit buy 210.3 375
+limit sell 214.87 261
+peg bid sell 23
+peg bid sell 117
+limit offer sell 367
+peg offer sell 69
+peg bid sell 183
+market buy 316
+peg bid buy 329
+limit offer buy 238
+limit buy 246.31 102
+market buy 289
+limit buy 204.61 389
+market sell 257
+market buy 65
+limit sell 239.7 125
+market sell 33
+peg bid buy 346
+market buy 238
+limit buy 219.41 150
+limit buy 227.57 351
+peg bid buy 211
+limit sell 215.89 171
+limit sell 224.59 20
+limit sell 230.53 57
+limit buy 236.29 330
+peg bid sell 337
+limit buy 221.08 238
+peg bid buy 229
+market buy 119
+market sell 187
+peg offer buy 135
+market sell 263
+peg bid sell 217
+limit sell 217.74 331
+limit buy 215.25 295
+limit buy 204.88 64
+limit bid sell 374
+market sell 286
+market buy 222
+market sell 285
+limit sell 232.28 227
+limit buy 218.06 355
+market buy 320
+limit buy 234.22 379
+limit sell 228.6 127
+market buy 353
+limit bid buy 98
+market buy 127
+limit buy 208.96 93
+market sell 169
+peg offer buy 197
+market buy 158
+peg offer buy 312
+limit bid buy 267
+limit bid sell 17
+peg bid sell 235
+peg bid sell 202
+peg offer sell 394
+limit buy 220.68 78
+peg bid buy 117
+limit buy 211.49 127
+market sell 180
+market sell 100
+limit sell 212.04 363
+limit buy 205.52 124
+limit buy 219.0 81
+limit buy 219.13 216
+market buy 323
+limit buy 220.83 111
+market sell 90
+market sell 399
+peg offer sell 197
+market buy 305
+limit sell 225.86 79
+market buy 237
+market buy 242
+market sell 185
+market sell 41
+market buy 203
+peg offer buy 253
+market buy 249
+limit buy 205.75 159
+limit sell 232.57 358
+peg bid buy 119
+market buy 397
+limit offer buy 181
+limit bid sell 210
+peg bid sell 268
+peg offer buy 29
+peg bid sell 136
+market buy 336
+limit sell 225.02 84
+limit sell 219.76 78
+limit sell 219.63 224
+limit bid buy 286
+peg offer buy 259
+peg offer sell 274
+limit sell 223.8 285
+market buy 56
+limit buy 232.73 86
+limit sell 218.84 219
+limit sell 218.88 314
+limit sell 227.44 103
+limit sell 224.02 380
+limit sell 226.17 21
+limit sell 233.54 132
+market buy 150
+limit sell 220.12 91
+peg offer sell 54
+peg offer sell 300
+market sell 82
+limit sell 218.76 326
+peg bid sell 32
+market sell 195
+limit buy 204.91 381
+limit buy 210.38 244
+limit bid sell 174
+limit sell 226.44 252
+limit sell 238.27 391
+market buy 318
+peg bid sell 126
+limit sell 215.62 301
+market sell 376
+limit sell 208.37 196
+peg offer sell 327
+limit buy 200.83 312
+limit sell 212.9 192
+market buy 19
+limit buy 220.51 376
+market buy 311
+limit offer sell 72
+peg offer sell 306
+peg bid sell 87
+limit sell 222.9 371
+market buy 47
+market sell 200
+market buy 376
+limit buy 223.89 225
+market buy 135
+limit sell 225.43 87
+market buy 185
+peg bid buy 226
+limit sell 231.7 389
+market buy 168
+market sell 214
+limit buy 225.2 232
+limit bid buy 51
+peg bid sell 166
+limit buy 219.41 371
+limit offer buy 384
+peg offer buy 227
+peg offer sell 217
+limit sell 214.11 164
+limit buy 214.61 384
+market sell 124
+market buy 230
+limit offer sell 364
+limit bid buy 277
+market buy 123
+market sell 384
+limit sell 202.71 237
+peg bid sell 379
+limit buy 208.74 257
+peg offer sell 160
+limit bid buy 364
+market buy 131
+market sell 142
+limit buy 221.55 84
+limit buy 208.1 127
+limit offer buy 76
+market buy 358
+limit offer buy 91
+limit sell 227.14 44
+limit offer buy 246
+limit buy 202.75 101
+peg bid sell 60
+peg offer buy 211
+limit sell 208.9 150
+limit sell 214.75 27
+peg offer sell 69
+limit bid sell 270
+peg bid buy 224
+limit bid sell 256
+limit buy 214.29 166
+peg offer buy 93
+peg offer buy 116
+limit buy 209.56 119
+market buy 97
+limit buy 209.57 48
+limit buy 213.5 341
+market buy 104
+peg bid sell 104
+limit offer sell 83
+market sell 85
+limit buy 212.67 232
+market sell 363
+market buy 259
+limit sell 231.27 86
+limit buy 223.1 192
+market sell 161
+market sell 265
+peg offer buy 386
+peg offer sell 358
+peg offer buy 356
+limit buy 217.93 235
+limit buy 202.57 96
+limit buy 227.3 67
+peg bid sell 223
+market sell 123
+limit sell 215.68 27
+limit sell 233.2 246
+limit buy 206.54 90
+limit buy 217.04 54
+limit sell 204.4 104
+limit sell 224.7 102
+limit buy 207.41 294
+limit buy 231.37 76
+limit buy 214.6 65
+limit sell 239.18 370
+limit buy 230.99 288
+market buy 372
+peg bid buy 131
+limit sell 217.79 245
+limit buy 227.97 244
+limit buy 196.0 280
+market buy 227
+peg offer buy 392
+market buy 382
+peg bid buy 173
+market buy 134
+peg offer sell 320
+limit buy 221.26 304
+market sell 248
+market sell 72
+peg bid sell 138
+limit buy 214.81 57
+limit sell 234.27 162
+market sell 183
+peg offer buy 73
+limit offer sell 276
+limit buy 229.08 312
+peg bid sell 276
+limit buy 226.61 230
+limit buy 208.97 158
+market buy 232
+limit bid buy 254
+market sell 280
+peg bid buy 390
+limit buy 208.81 28
+peg bid sell 181
+peg offer buy 126
+limit buy 211.08 88
+limit sell 222.3 336
+peg bid sell 182
+market buy 299
+limit buy 229.02 201
+limit buy 221.42 341
+market sell 365
+limit buy 214.43 203
+limit sell 215.61 259
+limit sell 235.04 39
+limit sell 215.17 346
+market sell 92
+peg offer buy 364
+market sell 201
+limit buy 207.98 350
+limit buy 223.33 38
+limit bid buy 391
+limit buy 212.01 281
+peg offer sell 267
+peg bid sell 219
+limit sell 219.69 168
+peg bid buy 181
+peg bid sell 205
+limit buy 220.51 390
+limit buy 212.8 88
+limit buy 216.48 175
+limit bid buy 127
+market sell 121
+market buy 247
+peg bid sell 255
+limit buy 209.09 294
+market buy 184
+limit buy 217.05 178
+limit buy 238.68 73
+market sell 82
+peg bid buy 210
+limit sell 224.81 66
+limit buy 218.58 364
+limit buy 226.85 395
+market sell 218
+market sell 249
+market buy 69
+limit offer sell 37
+limit sell 218.79 239
+market buy 296
+market buy 362
+limit buy 228.27 214
+peg offer buy 306
+market buy 87
+market sell 386
+peg bid buy 123
+limit sell 220.93 15
+peg offer sell 151
+market sell 284
+peg offer buy 140
+limit buy 221.48 203
+limit buy 214.86 361
+market buy 289
+limit buy 213.62 25
+limit sell 215.01 394
+peg bid buy 257
+peg bid sell 37
+limit buy 216.15 140
+limit bid buy 51
+limit buy 230.96 169
+market buy 218
+market sell 197
+market buy 291
+market buy 333
+limit buy 208.98 16
+peg bid buy 18
+limit bid sell 128
+market sell 71
+market sell 118
+peg bid sell 102
+limit buy 217.24 311
+limit sell 223.61 73
+limit buy 220.04 24
+peg offer sell 44
+limit bid buy 386
+limit sell 225.08 60
+limit buy 222.24 114
+peg bid buy 315
+peg bid buy 60
+market sell 56
+limit sell 216.4 337
+limit sell 225.91 84
+market sell 237
+limit buy 209.54 386
+market buy 212
+limit sell 219.05 123
+market sell 336
+limit offer sell 353
+limit bid buy 206
+limit offer buy 83
+limit sell 224.2 177
+limit buy 223.98 83
+market sell 213
+limit buy 223.74 89
+market buy 366
+market sell 117
+limit buy 236.93 389
+limit sell 219.78 147
+limit buy 229.44 303
+limit sell 226.7 190
+peg offer sell 143
+limit buy 221.81 387
+limit bid buy 70
+peg bid sell 277
+limit sell 213.88 131
+limit offer sell 254
+limit sell 218.92 229
+limit buy 220.55 370
+peg offer sell 231
+peg offer sell 184
+limit offer sell 138
+peg bid buy 129
+peg bid buy 203
+peg offer buy 214
+market buy 297
+peg offer buy 249
+limit buy 201.8 233
+market sell 117
+limit buy 217.27 324
+limit sell 213.72 117
+limit sell 222.43 180
+limit bid buy 82
+limit buy 203.57 368
+limit bid buy 339
+limit sell 228.2 331
+limit buy 223.53 399
+peg bid buy 211
+market sell 323
+market buy 120
+peg bid sell 144
+peg offer buy 68
+limit sell 206.04 139
+limit sell 222.92 31
+limit buy 218.06 292
+peg offer buy 246
+limit buy 223.64 204
+market buy 360
+market buy 125
+market buy 359
+limit buy 205.65 137
+market buy 98
+market sell 46
+limit buy 238.04 193
+limit offer sell 82
+limit bid buy 126
+limit buy 213.45 118
+limit offer buy 336
+limit bid buy 199
+limit sell 211.21 90
+limit sell 216.77 139
+market buy 132
+market sell 152
+limit sell 233.2 135
+limit sell 220.04 277
+market sell 38
+limit sell 224.55 233
+market sell 63
+peg bid buy 373
+limit sell 244.2 323
+limit buy 225.26 203
+limit buy 222.61 112
+limit buy 215.57 343
+limit buy 214.34 119
+limit offer sell 352
+peg offer sell 361
+limit sell 220.12 391
+limit buy 238.26 363
+limit sell 218.46 50
+limit buy 217.31 341
+limit offer buy 72
+limit sell 226.97 262
+market buy 17
+peg offer sell 250
+limit buy 225.85 189
+limit bid buy 395
+peg bid buy 113
+limit buy 213.19 167
+peg offer buy 172
+peg bid buy 114
+market buy 207
+limit buy 205.64 95
+limit buy 203.6 197
+limit sell 229.96 293
+limit buy 226.32 168
+market buy 186
+market buy 23
+limit bid buy 110
+limit offer sell 219
+peg bid sell 262
+peg bid buy 44
+peg bid sell 42
+limit buy 238.13 139
+limit buy 212.54 234
+peg bid buy 158
+peg offer buy 86
+limit sell 222.64 167
+limit buy 223.82 16
+limit bid buy 36
+limit sell 218.83 106
+peg offer buy 98
+market sell 98
+market sell 71
+limit bid sell 98
+market buy 342
+limit buy 218.35 290
+limit buy 201.45 307
+peg offer buy 297
+limit bid buy 269
+peg offer sell 386
+peg bid sell 147
+peg bid sell 259
+peg offer sell 62
+market sell 295
+limit sell 214.4 130
+market buy 363
+market sell 175
+market sell 325
+peg offer buy 109
+peg bid sell 54
+limit buy 206.14 204
+limit sell 233.09 63
+market buy 16
+limit sell 219.18 207
+limit sell 221.65 40
+peg bid buy 95
+market buy 87
+limit buy 205.26 200
+market sell 211
+limit bid sell 390
+limit bid buy 177
+peg bid buy 116
+limit buy 215.29 123
+limit buy 226.28 378
+limit buy 214.59 332
+peg bid sell 168
+limit offer buy 350
+market sell 222
+market sell 133
+market buy 368
+market sell 366
+peg bid sell 242
+limit buy 216.59 45
+limit offer sell 49
+market buy 148
+market sell 169
+peg offer buy 45
+limit buy 220.83 27
+market buy 50
+market buy 259
+limit sell 222.69 305
+peg bid sell 244
+limit offer buy 310
+limit sell 215.73 283
+peg bid sell 67
+market sell 363
+limit bid sell 332
+limit buy 222.28 162
+market buy 287
+limit buy 220.71 305
+peg bid sell 349
+peg offer sell 356
+limit buy 210.18 314
+limit sell 233.7 188
+limit bid buy 263
+limit offer buy 33
+limit buy 227.92 80
+limit sell 209.57 192
+market buy 110
+market sell 386
+limit sell 231.32 377
+limit buy 200.51 295
+limit sell 222.63 270
+limit offer sell 345
+limit sell 217.09 245
+limit bid sell 310
+market buy 25
+limit sell 217.13 304
+limit buy 234.19 310
+market sell 211
+peg bid sell 31
+limit buy 227.71 343
+limit buy 214.13 380
+market sell 52
+limit buy 221.26 340
+limit buy 225.34 229
+limit sell 222.12 55
+market buy 89
+limit bid buy 164
+limit sell 218.72 394
+market sell 319
+limit sell 220.01 40
+limit buy 210.25 321
+limit buy 208.61 296
+market buy 298
+limit offer sell 307
+peg bid sell 213
+peg offer sell 126
+limit bid sell 167
+limit buy 223.9 316
+peg bid sell 51
+market sell 140
+market sell 127
+limit sell 211.27 81
+peg bid sell 36
+limit buy 211.56 270
+market buy 157
+limit sell 241.23 234
+peg offer sell 63
+peg offer buy 202
+peg offer sell 174
+limit sell 222.2 64
+peg offer sell 251
+limit buy 214.45 325
+limit sell 229.19 92
+peg bid sell 217
+limit buy 216.05 207
+limit sell 205.74 327
+market buy 231
+limit bid buy 134
+peg bid buy 322
+market sell 137
+market sell 281
+market sell 116
+limit bid sell 359
+peg bid sell 43
+limit sell 215.82 340
+peg bid sell 136
+limit buy 211.53 177
+market sell 26
+market sell 29
+limit buy 234.05 222
+limit sell 219.25 113
+market sell 104
+market sell 149
+limit sell 212.86 273
+limit sell 221.34 36
+limit bid buy 196
+limit buy 215.13 295
+limit buy 221.86 374
+market sell 156
+market sell 314
+limit buy 215.15 260
+limit buy 220.6 67
+limit sell 211.4 266
+market sell 198
+peg offer buy 72
+market buy 212
+limit bid sell 65
+peg bid buy 107
+limit sell 228.86 95
+limit sell 222.58 351
+limit buy 210.1 274
+limit sell 207.53 375
+limit buy 210.63 221
+limit buy 210.8 251
+limit buy 224.4 146
+peg offer sell 395
+peg offer buy 81
+market sell 400
+limit offer sell 125
+limit sell 224.34 355
+peg bid sell 187
+limit sell 240.34 44
+peg offer sell 140
+limit buy 210.98 111
+peg offer sell 273
+market sell 336
+market buy 224
+limit sell 217.3 181
+limit buy 219.72 30
+peg bid buy 257
+limit sell 227.39 147
+market buy 93
+limit buy 221.36 278
+limit bid sell 313
+market sell 116
+limit offer sell 220
+limit buy 226.04 121
+limit buy 219.02 195
+market sell 318
+peg offer buy 97
+market sell 278
+market sell 368
+limit buy 209.59 18
+limit sell 219.52 356
+limit sell 230.04 73
+peg bid buy 41
+peg offer buy 43
+limit bid sell 239
+limit bid buy 73
+peg offer buy 234
+limit sell 223.94 373
+market buy 347
+market sell 227
+peg bid sell 121
+market sell 82
+limit bid buy 244
+peg bid buy 294
+limit buy 218.51 102
+limit sell 228.87 352
+limit sell 210.7 20
+market sell 133
+limit offer buy 30
+limit offer buy 322
+limit sell 218.59 201
+limit buy 216.89 300
+market buy 398
+limit buy 214.91 273
+limit offer sell 154
+limit buy 231.37 49
+limit offer buy 249
+limit buy 204.19 209
+limit offer sell 248
+peg offer buy 364
+peg offer buy 138
+limit buy 210.29 348
+limit offer sell 152
+peg bid sell 133
+peg bid sell 331
+limit buy 221.52 76
+peg offer sell 113
+market sell 36
+limit offer sell 253
+market sell 125
+peg offer sell 379
+market buy 195
+limit sell 217.19 102
+market buy 313
+peg bid buy 208
+limit sell 225.36 41
+market buy 237
+peg bid sell 138
+peg bid sell 279
+market buy 289
+limit bid sell 169
+limit sell 222.19 355
+market sell 241
+limit buy 218.48 330
+market sell 72
+limit buy 212.7 358
+limit buy 225.41 133
+limit bid buy 366
+market buy 308
+market buy 20
+market buy 139
+market sell 133
+limit buy 208.86 43
+limit sell 221.68 367
+market sell 210
+peg bid buy 283
+limit buy 218.84 171
+limit sell 227.08 74
+market sell 361
+limit sell 229.1 304
+market sell 20
+market buy 154
+market sell 22
+market sell 204
+peg offer buy 335
+limit bid buy 273
+peg offer buy 234
+limit buy 212.78 65
+peg bid buy 34
+market sell 315
+market sell 195
+limit sell 228.84 41
+market buy 385
+peg bid sell 311
+limit buy 209.15 96
+market buy 376
+limit offer sell 96
+peg bid sell 56
+peg offer sell 332
+limit buy 206.01 153
+peg offer sell 136
+limit buy 204.97 265
+limit bid buy 370
+limit buy 215.24 368
+limit buy 215.33 359
+market buy 380
+peg offer sell 297
+market sell 122
+market buy 144
+market sell 44
+limit sell 212.3 279
+limit buy 205.16 288
+limit sell 218.31 350
+peg bid sell 239
+limit buy 205.24 167
+market sell 388
+limit buy 231.48 58
+limit sell 225.93 277
+limit bid buy 196
+market buy 223
+market buy 394
+market sell 281
+limit sell 207.98 152
+peg offer buy 253
+limit offer sell 41
+market buy 84
+limit sell 226.46 41
+peg bid buy 94
+market sell 112
+limit sell 212.61 23
+peg bid buy 185
+peg offer buy 188
+market buy 247
+market sell 62
+peg bid sell 68
+limit sell 227.42 279
+limit sell 226.68 47
+limit sell 207.71 351
+limit bid sell 42
+market sell 225
+market sell 31
+market sell 348
+market buy 20
+peg bid buy 16
+market sell 344
+peg bid sell 320
+market sell 264
+limit buy 225.02 368
+limit buy 234.31 147
+peg bid buy 137
+limit buy 235.38 362
+limit sell 224.24 228
+limit sell 216.7 317
+market sell 354
+market buy 311
+limit sell 222.03 328
+limit buy 199.86 230
+market buy 310
+limit buy 218.95 228
+limit sell 217.95 103
+limit bid sell 258
+market sell 193
+limit sell 209.73 288
+limit sell 221.68 179
+peg offer sell 268
+limit offer sell 46
+limit buy 234.36 140
+peg offer buy 398
+peg offer sell 111
+market buy 377
+limit sell 216.15 284
+limit buy 240.22 327
+market sell 97
+market sell 292
+market buy 114
+limit bid sell 238
+limit sell 214.83 95
+peg bid buy 50
+market buy 39
+peg bid buy 384
+market sell 253
+market buy 59
+limit bid sell 125
+limit bid sell 167
+limit offer sell 116
+limit offer buy 66
+limit sell 207.8 21
+limit sell 215.53 251
+peg offer sell 100
+market buy 273
+limit sell 217.42 45
+limit bid buy 320
+limit buy 222.81 29
+market buy 18
+peg offer buy 381
+market buy 201
+market buy 330
+peg offer buy 272
+market sell 292
+market sell 64
+limit sell 223.51 373
+limit bid buy 108
+peg offer sell 95
+market sell 146
+peg bid sell 262
+limit bid buy 394
+limit buy 221.23 354
+limit sell 220.61 294
+limit offer sell 254
+market buy 253
+limit buy 231.68 50
+limit sell 228.79 35
+peg offer sell 15
+limit sell 219.21 54
+market sell 119
+limit buy 212.7 306
+market sell 300
+limit sell 204.84 190
+market sell 67
+limit sell 211.1 353
+market buy 383
+limit sell 218.44 317
+peg offer sell 70
+market buy 118
+limit sell 226.5 363
+market sell 247
+market sell 73
+market sell 105
+limit bid sell 21
+peg bid sell 203
+peg offer buy 313
+peg offer sell 229
+peg bid sell 124
+market buy 153
+market sell 381
+market sell 271
+peg offer buy 97
+market sell 142
+limit offer buy 392
+limit sell 208.22 252
+market sell 149
+limit sell 229.31 338
+limit offer buy 93
+limit sell 206.05 66
+limit buy 221.65 389
+peg bid buy 339
+limit sell 226.24 327
+market buy 250
+limit sell 221.92 25
+peg bid buy 373
+market sell 173
+market sell 207
+peg bid sell 328
+limit buy 232.38 132
+limit buy 223.39 363
+limit sell 214.99 268
+limit sell 232.57 339
+peg bid buy 361
+market sell 258
+limit bid sell 62
+market buy 346
+limit bid buy 215
+peg offer buy 260
+limit sell 213.72 54
+peg bid sell 297
+peg bid buy 257
+peg bid sell 168
+limit sell 217.44 221
+limit sell 222.87 321
+limit sell 219.22 34
+peg bid sell 106
+limit sell 234.61 308
+limit buy 236.01 45
+market buy 104
+limit sell 216.59 346
+market buy 55
+market buy 52
+peg offer buy 24
+peg bid sell 301
+market buy 65
+market buy 377
+limit bid sell 121
+peg offer sell 116
+peg offer buy 261
+market sell 205
+limit buy 203.11 20
+limit buy 211.29 204
+limit buy 224.7 395
+market buy 225
+limit buy 215.19 384
+limit bid buy 138
+limit sell 223.26 173
+market sell 202
+peg bid buy 125
+limit bid buy 25
+limit sell 211.6 299
+market buy 392
+peg bid buy 16
+limit sell 213.2 321
+limit buy 230.18 339
+peg bid buy 120
+market sell 92
+limit offer sell 291
+limit buy 218.02 227
+limit buy 216.87 269
+peg offer buy 65
+limit buy 215.28 281
+market buy 223
+limit bid sell 224
+limit offer sell 193
+market buy 311
+market sell 32
+limit bid buy 328
+peg offer buy 387
+peg offer buy 231
+limit sell 230.05 374
+limit sell 214.82 395
+limit buy 213.11 299
+limit offer buy 17
+market sell 129
+limit sell 228.13 83
+limit buy 237.51 381
+limit buy 204.8 122
+market sell 350
+market buy 158
+limit sell 226.3 234
+peg bid buy 133
+peg offer buy 292
+limit sell 211.9 339
+peg bid sell 171
+market buy 217
+peg bid sell 323
+limit buy 213.37 134
+market buy 143
+market buy 250
+market sell 82
+market sell 81
+peg offer buy 314
+limit buy 222.23 261
+market sell 133
+limit sell 216.61 141
+limit buy 210.02 150
+peg bid buy 33
+limit buy 211.79 112
+limit buy 222.84 33
+limit sell 220.05 252
+limit sell 226.16 398
+limit sell 232.45 206
+peg bid buy 115
+market buy 170
+limit buy 213.91 258
+peg offer sell 396
+limit buy 213.76 149
+limit bid buy 232
+limit sell 215.29 325
+limit sell 228.53 309
+market sell 203
+limit bid sell 156
+peg offer buy 182
+limit buy 222.56 275
+market buy 111
+peg offer sell 170
+limit buy 211.09 152
+peg bid buy 244
+market sell 125
+limit buy 210.9 51
+limit sell 232.7 337
+market buy 146
+limit buy 220.92 40
+limit sell 211.09 24
+limit buy 208.48 70
+limit sell 218.18 232
+limit buy 211.78 389
+limit offer buy 313
+limit offer sell 134
+limit buy 213.11 34
+limit sell 213.99 259
+limit buy 245.63 160
+limit buy 213.83 160
+limit buy 226.76 246
+market buy 156
+limit offer sell 353
+peg bid buy 195
+limit buy 211.42 87
+peg offer buy 308
+peg offer sell 264
+peg bid buy 122
+market sell 295
+limit sell 212.48 168
+peg offer buy 299
+limit sell 224.46 395
+limit offer sell 159
+limit offer sell 202
+peg offer sell 365
+limit sell 215.88 144
+limit buy 214.87 211
+limit buy 211.47 17
+limit buy 208.93 319
+limit buy 215.68 398
+peg bid buy 238
+limit buy 216.13 281
+limit buy 215.13 377
+limit offer buy 202
+limit bid buy 151
+limit bid buy 386
+limit buy 196.39 191
+limit sell 205.12 101
+peg offer sell 203
+limit sell 214.35 203
+limit buy 221.47 96
+limit offer sell 82
+market buy 86
+limit bid buy 209
+limit sell 213.19 92
+market sell 185
+peg bid sell 241
+limit sell 229.55 199
+peg offer buy 23
+market buy 365
+peg bid sell 338
+market buy 349
+market sell 321
+market sell 105
+peg bid buy 103
+market sell 340
+limit sell 214.5 125
+limit offer sell 87
+peg offer sell 31
+peg offer buy 252
+market sell 197
+market sell 354
+limit buy 216.11 111
+limit buy 224.53 363
+market buy 236
+limit sell 205.41 175
+peg offer sell 167
+market sell 285
+market buy 140
+market buy 172
+limit buy 206.96 350
+limit sell 228.22 296
+market buy 321
+limit buy 214.9 289
+market buy 369
+peg offer buy 277
+market sell 99
+market sell 315
+limit sell 217.47 29
+limit buy 214.71 275
+limit offer sell 106
+peg bid sell 21
+peg offer sell 112
+limit sell 225.8 252
+market buy 308
+limit offer buy 213
+limit buy 206.07 90
+limit sell 232.58 380
+limit offer sell 330
+limit offer buy 210
+limit sell 206.6 99
+limit buy 210.59 130
+limit bid buy 134
+peg offer buy 69
+limit buy 211.75 122
+market buy 85
+limit bid buy 268
+limit sell 225.21 263
+limit offer buy 17
+limit sell 226.38 129
+peg bid sell 345
+peg offer buy 161
+peg bid sell 383
+market buy 355
+market sell 79
+peg bid buy 94
+peg offer sell 80
+market sell 100
+limit buy 229.18 243
+limit sell 219.16 30
+limit buy 211.41 36
+limit buy 224.54 82
+peg offer buy 15
+limit offer buy 359
+limit offer buy 156
+limit offer sell 51
+peg bid sell 168
+limit offer buy 351
+peg offer sell 343
+limit offer sell 93
+peg offer buy 384
+limit buy 216.07 324
+limit buy 209.44 50
+limit sell 220.72 353
+peg bid sell 112
+market sell 179
+limit sell 223.41 112
+limit buy 214.5 181
+peg bid sell 57
+limit sell 228.22 77
+peg bid buy 100
+limit sell 226.11 255
+market buy 349
+market sell 341
+market buy 150
+market sell 236
+limit bid sell 172
+market buy 16
+market sell 28
+market sell 245
+limit offer sell 137
+limit sell 218.46 202
+limit sell 226.57 307
+limit buy 238.96 18
+peg bid sell 300
+limit sell 228.24 98
+limit offer sell 114
+limit sell 209.73 39
+limit bid buy 103
+peg offer buy 305
+limit sell 214.08 39
+limit buy 220.32 87
+market sell 104
+peg bid buy 107
+limit sell 234.62 153
+market sell 66
+peg offer sell 328
+limit buy 216.7 310
+market buy 385
+market sell 105
+peg offer buy 270
+market buy 393
+peg offer sell 278
+limit sell 207.02 193
+limit sell 226.64 206
+market buy 196
+limit sell 225.95 104
+peg offer sell 129
+market buy 360
+limit buy 215.42 203
+limit sell 218.68 160
+market sell 89
+peg offer sell 58
+market sell 68
+peg offer buy 43
+limit buy 218.43 349
+peg offer sell 357
+market sell 250
+market sell 51
+limit bid sell 74
+limit buy 215.94 206
+market buy 86
+market buy 284
+limit sell 209.9 175
+limit sell 227.3 31
+market sell 58
+limit sell 219.59 176
+market buy 162
+peg offer sell 300
+limit buy 216.47 305
+peg offer buy 23
+market sell 123
+limit sell 222.74 149
+peg bid buy 388
+market buy 33
+peg offer sell 291
+limit bid sell 375
+peg offer buy 217
+limit offer buy 166
+limit bid buy 362
+market sell 218
+market sell 108
+limit sell 230.01 237
+market sell 61
+peg offer buy 183
+limit buy 219.42 38
+limit buy 216.76 264
+limit offer buy 93
+limit buy 215.07 365
+market sell 78
+limit offer sell 106
+market sell 195
+limit buy 213.4 241
+limit buy 214.02 160
+peg bid sell 167
+market buy 369
+peg offer sell 356
+limit buy 222.41 210
+limit buy 214.22 130
+market sell 132
+market sell 387
+limit buy 211.47 44
+market buy 350
+limit sell 224.02 360
+limit buy 228.07 188
+peg offer buy 210
+limit sell 223.02 111
+peg offer sell 242
+limit sell 218.74 42
+limit sell 220.98 352
+peg bid buy 236
+limit sell 205.76 184
+limit bid buy 183
+market buy 208
+limit buy 206.84 254
+market sell 394
+limit sell 225.21 296
+limit buy 215.1 46
+peg offer buy 393
+market buy 284
+market sell 364
+limit buy 225.23 212
+market buy 245
+market buy 35
+limit sell 233.61 177
+market buy 283
+peg bid buy 332
+limit buy 222.59 368
+limit buy 220.1 376
+limit buy 214.02 89
+peg bid buy 209
+peg offer sell 311
+limit buy 224.55 305
+market sell 306
+limit sell 247.57 159
+limit buy 222.5 157
+market buy 391
+peg bid sell 173
+market sell 48
+market buy 312
+limit sell 234.84 47
+market buy 114
+limit buy 223.85 351
+market sell 325
+peg offer buy 314
+limit bid buy 26
+limit sell 221.2 251
+peg offer buy 227
+limit sell 228.32 158
+peg offer buy 120
+limit offer buy 178
+limit buy 220.82 32
+limit sell 231.27 243
+limit offer sell 348
+market sell 221
+limit buy 230.28 65
+market buy 235
+peg bid buy 209
+limit sell 231.63 294
+limit offer sell 363
+limit buy 210.59 350
+market sell 318
+market sell 254
+limit sell 238.44 122
+market sell 252
+limit buy 206.17 69
+market sell 320
+limit bid sell 243
+market sell 325
+limit sell 222.91 45
+limit buy 215.89 334
+limit buy 221.8 101
+peg bid sell 179
+peg bid buy 40
+limit sell 232.18 361
+peg bid sell 154
+limit sell 213.82 135
+peg offer buy 38
+market sell 186
+market buy 356
+market buy 179
+market buy 130
+peg bid buy 169
+limit sell 217.89 129
+limit sell 219.18 396
+limit bid sell 54
+limit sell 232.16 149
+limit buy 213.05 106
+limit buy 215.35 219
+limit offer sell 326
+limit buy 216.9 231
+limit sell 224.43 110
+market sell 39
+limit sell 230.04 53
+market buy 148
+peg offer buy 300
+limit bid buy 296
+peg offer sell 179
+peg bid sell 139
+limit sell 237.3 78
+market sell 83
+market buy 193
+market sell 37
+limit sell 213.49 342
+peg offer buy 130
+market sell 344
+limit sell 216.73 64
+peg bid buy 194
+limit buy 211.79 142
+limit bid sell 35
+limit bid buy 144
+market buy 131
+peg offer buy 226
+peg offer sell 336
+limit offer buy 321
+market sell 41
+limit sell 230.51 352
+limit buy 208.71 349
+limit buy 204.45 167
+peg offer buy 234
+peg offer buy 159
+limit sell 224.69 335
+limit sell 227.45 33
+peg bid sell 223
+market buy 357
+market sell 350
+limit sell 241.3 369
+limit buy 204.77 388
+limit sell 215.15 229
+limit sell 210.33 149
+market buy 39
+limit buy 207.56 300
+limit offer buy 291
+limit buy 217.81 350
+market sell 315
+market buy 198
+market sell 279
+peg offer buy 19
+peg bid sell 109
+peg offer sell 165
+peg bid sell 22
+market sell 130
+market buy 34
+limit bid buy 177
+limit offer buy 300
+peg bid sell 93
+market sell 77
+peg bid buy 387
+limit buy 221.73 332
+market buy 160
+market buy 173
+limit sell 227.8 223
+limit offer buy 137
+limit bid buy 228
+limit sell 222.59 343
+market buy 269
+limit buy 217.69 396
+limit buy 202.9 382
+limit offer buy 382
+limit offer sell 110
+limit sell 237.03 302
+limit offer sell 227
+peg bid buy 327
+limit offer buy 130
+market sell 122
+limit sell 227.53 258
+limit bid sell 186
+limit buy 200.93 74
+limit buy 221.88 116
+limit offer buy 74
+peg offer sell 98
+limit bid sell 352
+limit buy 213.55 184
+limit bid sell 169
+market buy 135
+market sell 323
+limit sell 216.13 286
+limit buy 210.84 248
+market buy 46
+limit sell 214.0 388
+peg bid sell 168
+limit sell 222.92 18
+limit sell 204.67 45
+limit buy 212.32 131
+peg bid sell 248
+limit sell 217.62 88
+limit offer sell 41
+limit sell 227.24 368
+limit buy 206.46 105
+limit bid buy 85
+market sell 18
+limit sell 219.32 151
+limit buy 219.03 93
+limit sell 212.59 399
+limit sell 211.24 328
+peg bid sell 269
+market buy 118
+limit sell 214.58 245
+market buy 287
+limit buy 211.12 78
+peg offer sell 343
+limit buy 216.13 388
+peg offer sell 367
+peg offer sell 219
+limit buy 227.0 56
+market buy 374
+limit buy 227.25 278
+market buy 56
+limit buy 227.07 292
+limit offer sell 369
+peg bid sell 223
+peg offer buy 357
+market buy 244
+market sell 136
+peg bid sell 104
+peg offer buy 290
+limit buy 216.49 345
+market sell 397
+limit buy 210.89 17
+peg bid sell 128
+limit buy 208.32 396
+market sell 288
+limit sell 236.09 145
+limit buy 208.31 181
+limit sell 228.42 26
+peg bid sell 103
+market sell 70
+market buy 339
+market buy 48
+peg offer buy 251
+market buy 323
+market sell 43
+limit sell 226.92 43
+limit buy 220.04 223
+limit sell 221.91 297
+limit buy 210.8 221
+market buy 205
+peg bid sell 98
+limit bid sell 380
+peg bid buy 97
+limit buy 210.9 270
+market buy 331
+market sell 181
+limit offer sell 183
+limit sell 219.59 70
+market buy 71
+peg offer sell 129
+market sell 165
+limit buy 208.58 297
+limit buy 224.81 221
+peg bid buy 373
+market buy 172
+limit sell 226.69 139
+market sell 190
+limit sell 217.14 190
+market sell 36
+limit buy 225.36 41
+peg offer sell 39
+peg offer buy 277
+limit buy 204.18 350
+limit bid buy 198
+limit sell 228.42 139
+limit buy 218.35 190
+market sell 63
+limit buy 221.52 214
+peg bid sell 43
+limit offer sell 103
+limit offer sell 369
+limit sell 219.43 125
+peg offer sell 394
+market buy 395
+peg bid sell 104
+limit buy 220.45 190
+peg bid sell 233
+limit offer buy 269
+market sell 66
+peg bid sell 288
+limit buy 218.87 104
+limit offer buy 35
+limit sell 225.4 197
+peg offer sell 202
+limit sell 228.27 298
+market sell 89
+market buy 127
+limit bid buy 270
+market sell 175
+limit buy 227.45 252
+peg bid buy 79
+peg bid sell 51
+peg bid sell 231
+peg offer buy 282
+limit sell 209.82 163
+peg offer buy 121
+market sell 46
+market sell 287
+market sell 301
+peg offer sell 56
+limit buy 231.61 246
+limit buy 219.97 334
+limit sell 206.32 41
+limit sell 206.75 59
+limit offer buy 31
+market sell 242
+limit bid buy 66
+market buy 205
+limit sell 221.95 293
+limit sell 219.89 287
+market sell 160
+market sell 331
+limit buy 217.03 231
+limit bid buy 357
+market sell 272
+market buy 333
+limit buy 217.55 323
+market buy 21
+limit sell 214.22 117
+limit offer sell 81
+peg bid buy 80
+peg offer sell 217
+limit buy 215.62 368
+market sell 126
+market buy 203
+peg offer sell 262
+peg bid sell 216
+market sell 370
+limit sell 219.45 334
+limit buy 214.95 103
+market sell 208
+limit buy 223.53 134
+market sell 54
+limit bid buy 222
+market buy 55
+peg bid buy 161
+limit buy 215.35 192
+limit buy 220.45 273
+peg offer sell 357
+peg bid sell 151
+market buy 308
+peg bid buy 177
+peg bid sell 70
+peg offer buy 184
+limit buy 228.21 354
+limit buy 214.7 335
+peg bid sell 125
+limit sell 220.89 79
+limit offer sell 339
+limit sell 220.21 100
+limit sell 216.14 19
+limit buy 219.41 283
+market sell 220
+limit sell 217.47 99
+peg bid buy 201
+limit buy 227.5 52
+peg offer buy 346
+market buy 86
+limit sell 206.9 260
+limit sell 237.16 222
+limit buy 221.89 386
+peg bid buy 302
+peg bid sell 84
+market buy 375
+peg bid sell 307
+limit bid sell 116
+market buy 250
+peg offer sell 139
+limit sell 223.28 208
+market buy 367
+peg offer buy 364
+market buy 147
+peg bid sell 52
+limit sell 222.31 285
+limit buy 201.09 42
+market buy 302
+market buy 385
+limit sell 215.9 161
+limit sell 226.59 267
+limit sell 214.31 77
+peg bid sell 297
+limit buy 216.32 329
+peg bid sell 359
+limit buy 229.58 356
+limit buy 210.37 87
+market sell 34
+market sell 188
+limit sell 239.49 255
+limit buy 210.77 312
+limit buy 216.23 111
+limit sell 227.7 336
+limit buy 212.45 159
+peg bid buy 171
+market sell 260
+limit buy 205.17 302
+limit offer sell 366
+limit bid sell 187
+limit sell 235.97 192
+market sell 160
+peg bid buy 371
+limit bid buy 266
+market sell 238
+market sell 218
+market buy 321
+peg offer sell 230
+market sell 358
+market buy 82
+limit sell 215.86 354
+limit bid buy 120
+peg offer buy 277
+peg offer sell 318
+peg bid sell 343
+market sell 63
+peg bid buy 122
+limit buy 229.46 247
+limit buy 215.06 17
+peg bid sell 144
+limit buy 215.04 323
+market buy 65
+limit buy 218.31 107
+limit sell 230.81 279
+market sell 212
+market buy 168
+limit sell 215.95 140
+limit sell 222.98 73
+market buy 357
+limit offer sell 186
+limit buy 203.25 184
+market sell 400
+limit buy 227.08 258
+peg offer buy 72
+limit bid buy 156
+market buy 65
+peg bid buy 334
+market sell 58
+limit sell 221.01 392
+market sell 112
+peg bid buy 330
+market buy 80
+limit buy 217.98 275
+limit buy 220.58 135
+limit bid sell 220
+limit sell 212.09 254
+limit buy 220.66 28
+peg bid sell 176
+market buy 281
+market sell 24
+limit buy 219.16 18
+market sell 395
+market buy 346
+limit bid buy 367
+limit sell 231.27 375
+peg offer sell 123
+limit buy 219.48 229
+peg bid sell 333
+limit sell 220.96 277
+peg offer sell 249
+peg offer sell 166
+limit sell 213.41 139
+peg bid buy 356
+limit buy 218.99 77
+market buy 230
+peg bid sell 317
+limit sell 213.7 297
+limit sell 221.46 27
+limit bid sell 71
+market sell 145
+limit buy 213.9 187
+market buy 62
+peg offer sell 290
+peg bid sell 354
+limit buy 221.36 190
+limit sell 215.05 335
+limit sell 214.01 362
+limit bid sell 22
+peg offer buy 252
+limit sell 236.75 87
+market sell 191
+peg bid sell 129
+limit sell 209.24 66
+peg bid buy 97
+market sell 334
+limit sell 217.25 205
+market sell 343
+peg bid buy 155
+peg offer buy 100
+limit bid sell 322
+market sell 143
+peg bid sell 385
+limit sell 221.18 206
+market sell 398
+market buy 285
+limit sell 227.22 102
+market buy 114
+limit sell 231.85 104
+market sell 207
+market sell 129
+limit bid buy 49
+market sell 286
+limit sell 226.27 209
+limit offer sell 189
+limit sell 215.61 296
+limit sell 222.74 118
+market sell 284
+limit buy 208.09 39
+limit sell 222.09 134
+limit sell 220.97 379
+limit sell 217.89 201
+limit buy 216.35 358
+market sell 255
+market buy 387
+limit sell 235.44 244
+limit offer sell 171
+market buy 19
+peg offer buy 296
+market buy 60
+limit sell 231.76 376
+limit buy 206.33 373
+limit buy 219.94 183
+limit buy 209.55 314
+limit sell 221.86 208
+market sell 351
+limit sell 221.82 269
+peg bid sell 251
+limit sell 234.41 377
+market buy 379
+peg bid sell 93
+limit sell 200.18 236
+peg offer buy 86
+limit bid sell 300
+limit bid sell 164
+limit sell 209.22 344
+limit buy 209.85 300
+peg bid buy 83
+peg bid sell 132
+limit buy 213.93 162
+peg offer buy 258
+peg bid buy 181
+limit sell 221.47 278
+market buy 106
+market sell 386
+limit buy 218.83 42
+limit sell 232.04 297
+peg offer sell 130
+limit bid sell 74
+limit sell 218.96 150
+peg offer sell 325
+market buy 81
+peg offer sell 242
+limit sell 210.82 307
+market sell 244
+limit buy 231.63 35
+limit bid buy 67
+market sell 400
+limit sell 226.92 346
+limit bid buy 75
+market buy 126
+peg bid sell 42
+peg bid buy 381
+limit sell 226.49 106
+peg bid buy 42
+limit buy 225.74 314
+market buy 32
+peg bid sell 391
+limit buy 212.97 262
+market sell 281
+limit buy 224.9 316
+limit bid buy 188
+peg offer buy 88
+market buy 131
+peg bid sell 179
+limit bid sell 221
+limit buy 222.16 307
+limit offer buy 333
+limit sell 237.07 254
+limit buy 224.18 326
+limit offer sell 389
+peg offer sell 50
+market sell 271
+market buy 117
+peg bid buy 399
+market buy 256
+market buy 295
+limit bid sell 273
+market sell 346
+limit sell 204.59 17
+peg bid buy 318
+peg offer buy 142
+limit buy 219.37 320
+peg offer sell 46
+limit offer sell 15
+market sell 163
+market sell 158
+market buy 207
+peg bid buy 132
+limit buy 191.95 280
+limit buy 218.89 71
+peg bid sell 387
+peg bid sell 272
+market buy 279
+limit sell 222.72 376
+peg bid sell 200
+limit buy 212.41 180
+limit sell 218.76 337
+peg offer sell 354
+limit buy 204.31 44
+limit sell 227.79 181
+limit buy 216.75 362
+market sell 146
+market sell 220
+limit sell 227.33 266
+limit sell 227.0 53
+market buy 263
+limit sell 213.49 61
+limit sell 220.75 214
+market sell 77
+peg offer sell 116
+market sell 179
+peg bid buy 167
+limit offer sell 92
+market buy 42
+limit offer sell 171
+market buy 84
+peg bid buy 77
+peg bid sell 168
+limit sell 225.6 72
+limit sell 225.06 51
+limit sell 211.47 203
+limit sell 226.79 153
+market buy 289
+market buy 333
+limit buy 206.97 137
+limit buy 221.59 332
+limit buy 214.57 237
+limit sell 217.97 282
+limit bid sell 357
+limit offer sell 212
+market sell 290
+peg offer buy 400
+market buy 373
+limit buy 209.39 284
+limit sell 227.94 277
+peg offer sell 385
+limit buy 223.62 235
+limit buy 217.9 131
+limit buy 227.01 159
+limit offer buy 298
+limit buy 202.03 316
+peg bid sell 104
+limit buy 223.93 101
+limit buy 198.7 27
+limit sell 228.67 46
+peg offer buy 231
+limit bid sell 56
+limit buy 210.62 82
+peg offer sell 218
+limit offer sell 350
+limit offer buy 133
+peg offer sell 210
+limit sell 214.9 165
+limit sell 228.92 89
+market sell 323
+limit buy 200.53 63
+market buy 397
+limit sell 230.37 160
+limit sell 220.51 369
+market buy 343
+limit sell 226.01 221
+peg offer buy 365
+limit buy 246.2 152
+market buy 83
+limit sell 214.1 336
+limit buy 225.7 99
+market buy 23
+limit buy 213.22 90
+peg bid sell 79
+market sell 153
+limit sell 213.07 28
+market buy 180
+limit buy 205.75 323
+peg bid buy 353
+limit buy 225.32 258
+limit buy 216.34 175
+market sell 205
+limit offer buy 187
+market sell 179
+market sell 377
+limit bid buy 280
+peg offer buy 170
+limit sell 236.54 122
+limit sell 226.8 208
+limit sell 236.16 85
+peg bid sell 42
+limit buy 210.99 144
+peg bid sell 317
+peg offer sell 164
+limit sell 220.54 348
+limit buy 229.24 131
+limit buy 221.41 374
+market sell 110
+limit buy 224.64 324
+limit sell 235.59 230
+limit sell 218.8 373
+peg offer buy 364
+limit sell 224.89 53
+limit bid buy 246
+market sell 47
+market buy 323
+market buy 77
+market sell 15
+limit sell 222.52 122
+peg bid sell 151
+limit buy 215.31 316
+limit buy 200.63 304
+market sell 63
+limit buy 221.74 51
+limit sell 233.23 180
+peg offer buy 103
+market buy 78
+limit buy 206.83 294
+market buy 116
+market sell 81
+market sell 272
+market sell 398
+limit sell 222.87 218
+limit buy 211.29 152
+market sell 176
+market sell 387
+peg offer buy 46
+market buy 396
+peg offer buy 88
+limit buy 202.23 388
+limit buy 213.07 365
+limit buy 205.87 385
+limit buy 225.47 249
+peg bid sell 269
+market buy 107
+market buy 261
+limit buy 210.23 241
+market buy 343
+limit offer buy 100
+limit sell 216.86 34
+limit sell 215.76 346
+market sell 376
+peg offer buy 23
+market buy 230
+limit sell 203.17 93
+peg offer sell 180
+limit sell 230.1 215
+limit buy 224.68 331
+market sell 204
+limit offer buy 152
+market buy 385
+market buy 20
+limit sell 220.62 319
+limit sell 224.29 70
+peg offer sell 386
+limit buy 214.4 23
+market buy 311
+limit buy 209.35 95
+limit sell 221.84 259
+limit offer buy 288
+limit sell 215.45 338
+limit sell 215.53 253
+market buy 221
+limit sell 220.71 244
+limit sell 232.72 33
+limit buy 230.77 183
+peg offer buy 152
+limit offer buy 391
+limit sell 204.65 76
+limit bid sell 66
+limit sell 209.22 328
+peg offer sell 124
+limit sell 211.24 217
+peg offer sell 190
+market buy 382
+market buy 282
+limit sell 221.38 90
+market sell 164
+peg offer buy 71
+peg offer buy 325
+market buy 260
+limit sell 229.07 88
+limit bid buy 37
+market sell 359
+market buy 200
+market buy 185
+limit sell 222.48 289
+market buy 83
+limit sell 225.44 142
+limit sell 225.45 25
+limit sell 224.24 26
+limit bid buy 49
+market buy 331
+limit buy 218.59 201
+limit buy 218.06 293
+market buy 101
+market sell 40
+limit buy 211.23 368
+market buy 214
+market buy 279
+limit sell 233.46 315
+limit buy 214.67 333
+peg bid buy 91
+limit sell 220.15 96
+limit sell 226.05 190
+limit buy 209.67 189
+limit sell 219.39 142
+limit buy 230.07 321
+limit offer buy 288
+limit buy 198.43 358
+limit sell 217.82 29
+limit sell 227.0 191
+limit buy 221.5 209
+limit sell 228.61 145
+limit sell 227.52 302
+limit buy 206.88 365
+limit sell 230.25 16
+limit buy 221.49 104
+peg offer buy 80
+market buy 247
+limit sell 220.59 132
+market sell 146
+peg bid buy 329
+limit sell 236.3 100
+limit sell 217.91 120
+limit bid sell 110
+market sell 145
+limit offer sell 338
+limit buy 222.09 93
+market buy 53
+market sell 315
+limit buy 199.71 83
+limit sell 224.01 74
+limit buy 214.75 212
+peg bid sell 44
+market buy 35
+market sell 209
+limit sell 233.4 187
+peg offer sell 266
+limit offer buy 394
+peg offer sell 333
+market sell 365
+peg bid sell 197
+market sell 123
+limit buy 217.68 126
+limit offer sell 150
+market buy 171
+limit sell 218.96 274
+market buy 370
+market buy 210
+limit buy 228.91 237
+limit offer buy 105
+limit offer sell 47
+limit bid sell 333
+limit buy 214.46 311
+peg offer buy 105
+limit offer sell 266
+peg offer buy 118
+limit sell 198.84 37
+peg offer sell 346
+market buy 374
+peg bid sell 360
+market sell 153
+limit sell 224.1 15
+market sell 21
+market buy 289
+limit buy 225.13 324
+limit sell 220.39 157
+market sell 30
+limit buy 209.98 65
+limit bid sell 54
+limit sell 212.4 27
+limit sell 219.27 255
+limit buy 207.7 157
+limit buy 220.49 302
+limit buy 215.68 291
+limit sell 209.91 29
+market buy 82
+peg offer sell 123
+market sell 164
+peg offer sell 280
+limit sell 230.02 52
+limit sell 226.97 283
+market sell 303
+peg offer buy 286
+market buy 244
+market buy 193
+market sell 351
+market buy 303
+market buy 379
+limit buy 230.58 28
+peg bid sell 95
+limit sell 229.45 366
+limit buy 216.23 371
+market sell 77
+limit buy 214.9 211
+peg offer buy 112
+market buy 397
+peg bid buy 56
+market sell 279
+peg bid sell 92
+limit buy 228.38 148
+limit buy 211.86 338
+limit offer sell 70
+market sell 104
+limit sell 222.82 187
+limit buy 226.62 35
+market buy 264
+market buy 217
+limit sell 228.71 84
+market sell 89
+limit buy 218.55 248
+peg offer buy 238
+market sell 293
+peg bid buy 72
+limit sell 222.55 166
+market sell 93
+market sell 49
+limit sell 223.59 142
+limit sell 227.47 381
+market buy 230
+market sell 114
+peg bid sell 33
+limit sell 224.3 158
+limit buy 219.82 233
+limit buy 203.33 175
+peg bid sell 254
+market sell 115
+peg offer buy 105
+peg offer buy 180
+limit buy 219.11 332
+limit buy 221.18 336
+limit buy 202.44 284
+peg offer buy 358
+limit buy 205.66 207
+limit buy 221.08 327
+market buy 309
+limit buy 218.12 142
+peg offer sell 114
+market sell 364
+peg bid buy 299
+limit buy 216.27 51
+peg bid buy 62
+market buy 229
+market buy 134
+limit bid sell 338
+limit sell 214.04 61
+limit sell 223.04 324
+limit sell 226.17 79
+peg offer sell 353
+limit sell 216.86 225
+limit bid buy 66
+peg bid sell 362
+limit buy 214.97 271
+limit buy 220.06 370
+limit offer buy 44
+peg bid buy 151
+limit buy 226.95 142
+market buy 172
+peg bid buy 143
+limit buy 232.83 225
+limit sell 221.03 274
+limit sell 228.0 105
+market buy 41
+limit buy 227.11 279
+limit buy 223.36 216
+limit sell 210.37 77
+peg bid buy 53
+peg offer buy 20
+limit buy 199.2 71
+limit sell 237.08 143
+market sell 101
+peg offer sell 58
+market buy 47
+limit buy 226.31 58
+peg offer sell 240
+market sell 28
+peg offer buy 87
+limit sell 228.41 66
+market buy 83
+limit sell 200.65 92
+limit buy 238.54 154
+limit buy 222.27 100
+limit buy 209.04 215
+limit buy 206.41 62
+limit sell 219.38 96
+limit buy 212.22 92
+limit sell 239.75 44
+limit buy 221.23 363
+peg bid sell 257
+peg offer sell 324
+limit sell 201.95 91
+peg bid sell 191
+market sell 35
+peg bid sell 270
+peg offer sell 122
+peg offer buy 261
+peg offer sell 291
+limit sell 233.88 216
+limit sell 218.1 38
+limit buy 217.35 315
+limit buy 228.78 144
+limit sell 225.56 263
+peg offer buy 158
+limit offer buy 270
+limit buy 223.65 156
+market buy 312
+market sell 61
+limit buy 212.08 111
+limit buy 212.46 206
+limit sell 212.27 35
+market sell 237
+limit buy 218.28 231
+limit bid sell 72
+limit sell 227.54 217
+limit buy 218.51 50
+market sell 229
+peg offer buy 171
+market sell 134
+market sell 198
+limit buy 227.66 251
+market buy 127
+market sell 334
+market sell 112
+limit buy 220.54 19
+limit sell 220.35 236
+peg bid sell 37
+market sell 396
+limit buy 215.64 378
+market buy 268
+market buy 333
+market buy 169
+limit offer buy 55
+peg offer sell 108
+limit buy 206.81 40
+limit bid buy 211
+market buy 128
+limit buy 210.91 56
+market buy 235
+limit offer sell 226
+limit buy 218.16 137
+limit sell 222.59 251
+market sell 177
+peg bid sell 25
+peg offer buy 181
+peg bid buy 160
+limit bid buy 226
+market buy 390
+limit buy 220.35 85
+limit sell 209.1 334
+market buy 390
+limit sell 225.8 267
+limit bid sell 235
+limit buy 221.86 81
+market buy 265
+market buy 371
+market buy 267
+limit sell 237.07 376
+peg bid sell 235
+limit buy 209.73 341
+market sell 130
+limit buy 216.19 201
+limit offer sell 358
+peg bid sell 257
+limit buy 212.22 197
+limit bid buy 76
+limit buy 204.86 42
+limit buy 196.28 124
+market buy 232
+limit buy 220.72 184
+market sell 110
+market buy 297
+limit sell 237.6 325
+market sell 193
+peg bid buy 23
+limit sell 214.77 365
+peg bid sell 131
+limit buy 222.59 112
+limit buy 204.48 126
+peg bid buy 312
+market buy 57
+limit sell 214.76 370
+limit buy 217.52 372
+limit buy 226.84 344
+market sell 340
+peg offer sell 222
+market buy 375
+limit offer sell 217
+market sell 168
+limit buy 219.55 130
+peg bid buy 135
+market buy 382
+limit buy 229.99 326
+limit buy 212.15 107
+limit sell 222.2 188
+peg bid buy 314
+market buy 35
+limit buy 209.73 166
+market sell 242
+limit buy 203.67 170
+market buy 319
+peg offer sell 300
+limit sell 221.02 224
+peg bid buy 47
+market sell 362
+market sell 233
+market buy 263
+market sell 73
+peg offer sell 169
+limit sell 203.01 234
+limit offer sell 213
+market sell 28
+market sell 269
+limit offer sell 222
+limit sell 241.59 322
+limit bid buy 178
+peg bid sell 21
+limit sell 216.35 210
+limit bid sell 265
+limit buy 209.02 360
+market buy 367
+limit buy 208.25 170
+limit buy 217.51 63
+limit buy 210.79 337
+peg bid buy 198
+peg offer buy 277
+peg offer sell 223
+peg bid sell 89
+market sell 86
+peg bid buy 357
+peg offer sell 377
+limit sell 227.5 314
+market sell 139
+market sell 307
+market sell 106
+peg offer sell 357
+limit sell 232.63 261
+peg bid buy 316
+limit bid sell 283
+limit sell 232.22 280
+market sell 398
+market buy 260
+limit buy 219.26 178
+peg offer sell 220
+market sell 15
+limit buy 213.6 217
+peg offer buy 262
+market buy 138
+market buy 319
+market sell 141
+limit sell 207.74 84
+market buy 347
+peg bid buy 304
+limit buy 219.08 208
+limit sell 212.47 269
+peg bid sell 362
+peg offer sell 68
+limit buy 226.78 73
+limit sell 208.25 275
+limit buy 212.09 93
+limit sell 217.81 80
+market buy 28
+limit sell 214.03 95
+peg bid buy 398
+market sell 366
+market buy 64
+limit sell 219.7 150
+limit sell 221.72 152
+limit buy 215.61 128
+limit buy 214.94 157
+limit offer sell 282
+limit offer sell 226
+limit sell 220.5 16
+peg bid buy 278
+peg offer sell 375
+market buy 156
+market sell 302
+limit buy 215.76 309
+market sell 299
+limit sell 222.84 71
+limit sell 220.73 274
+limit sell 214.14 357
+market buy 263
+limit sell 233.54 315
+peg bid buy 249
+market buy 291
+limit sell 228.57 382
+limit buy 207.47 304
+limit buy 207.52 309
+limit bid buy 287
+limit buy 213.72 160
+limit sell 216.75 121
+limit buy 207.77 304
+market buy 82
+limit buy 232.69 247
+limit sell 233.99 270
+peg offer sell 75
+peg bid buy 252
+market sell 174
+limit bid buy 231
+limit offer buy 46
+market sell 320
+limit sell 203.86 356
+peg bid buy 282
+limit sell 223.7 236
+limit buy 225.94 74
+market buy 28
+limit buy 236.53 155
+limit bid sell 315
+limit bid sell 217
+peg bid buy 301
+limit buy 209.1 334
+market buy 388
+limit sell 226.96 99
+limit buy 219.93 301
+market buy 55
+market sell 191
+limit offer buy 380
+peg bid buy 358
+market sell 150
+peg bid sell 322
+limit sell 221.21 184
+limit sell 217.62 325
+market buy 374
+limit offer sell 229
+limit buy 225.55 220
+market buy 51
+limit sell 215.92 234
+limit sell 217.64 40
+peg offer buy 150
+limit sell 215.55 108
+peg offer sell 278
+limit buy 205.47 227
+market sell 135
+limit buy 221.15 165
+limit buy 211.21 77
+market buy 146
+market sell 106
+peg offer buy 18
+limit buy 216.56 170
+peg bid sell 104
+limit sell 225.0 360
+limit buy 224.88 45
+peg offer sell 236
+limit bid sell 104
+market buy 368
+limit offer buy 146
+limit buy 211.48 245
+limit buy 228.5 247
+limit bid sell 342
+market sell 71
+limit offer sell 393
+market sell 341
+peg offer sell 377
+limit sell 228.65 254
+limit sell 223.09 398
+limit buy 211.27 133
+market buy 348
+limit sell 225.39 204
+limit offer buy 261
+limit sell 214.3 171
+limit buy 209.44 366
+market sell 353
+limit buy 240.9 19
+limit buy 221.71 65
+limit offer sell 91
+limit sell 225.38 113
+market sell 395
+limit buy 218.78 255
+market buy 180
+market buy 264
+market buy 371
+limit offer buy 46
+peg offer sell 221
+market sell 256
+peg bid sell 267
+limit buy 233.03 141
+peg bid sell 311
+limit offer buy 269
+limit sell 227.21 198
+market sell 355
+peg bid buy 24
+market sell 322
+limit buy 231.16 388
+peg offer buy 187
+peg bid sell 180
+market buy 235
+limit bid buy 235
+peg offer sell 115
+peg offer sell 265
+market buy 105
+limit buy 225.63 315
+market buy 92
+peg offer buy 136
+peg bid sell 70
+limit sell 239.55 143
+limit sell 224.31 232
+market sell 108
+market sell 115
+market buy 316
+limit bid buy 39
+market sell 364
+limit sell 220.05 140
+limit sell 220.0 188
+limit sell 218.01 37
+limit sell 231.02 357
+market buy 78
+limit buy 203.27 91
+limit buy 205.94 96
+limit sell 231.53 319
+limit sell 228.8 176
+limit sell 218.97 241
+peg offer buy 171
+limit sell 227.8 395
+market buy 210
+peg offer sell 372
+limit sell 233.25 174
+limit offer sell 59
+peg bid buy 16
+market buy 72
+peg offer sell 68
+peg offer sell 71
+market sell 375
+limit offer buy 269
+limit bid sell 69
+market buy 73
+market sell 124
+market sell 399
+limit buy 210.06 52
+peg offer sell 356
+market sell 171
+limit buy 216.96 177
+market sell 283
+market sell 30
+limit buy 215.08 391
+limit sell 217.73 302
+market buy 369
+limit bid buy 155
+limit sell 216.09 52
+market sell 23
+peg offer buy 98
+peg offer buy 166
+market buy 304
+peg offer sell 147
+peg offer sell 287
+limit offer buy 375
+market buy 352
+market buy 238
+limit buy 215.6 135
+limit bid sell 230
+peg offer buy 318
+peg offer buy 230
+limit sell 222.62 226
+limit sell 228.74 219
+market buy 220
+market buy 337
+limit buy 209.14 178
+market buy 243
+market buy 217
+limit offer buy 60
+peg bid sell 153
+limit bid sell 250
+market sell 246
+market buy 34
+limit buy 211.97 133
+market sell 393
+limit sell 238.28 252
+limit sell 215.68 344
+peg offer buy 367
+limit sell 234.3 382
+market buy 64
+market buy 144
+limit sell 226.76 267
+limit buy 210.23 348
+market buy 147
+limit offer sell 125
+limit buy 218.2 115
+peg bid sell 233
+market buy 245
+limit bid sell 392
+limit buy 222.69 66
+limit sell 217.34 172
+limit buy 216.43 400
+peg bid sell 264
+limit sell 220.77 127
+limit buy 208.25 126
+limit buy 217.43 389
+peg offer buy 225
+limit buy 219.86 184
+market sell 378
+limit sell 212.24 248
+limit offer buy 49
+market buy 315
+market sell 395
+peg offer sell 243
+market buy 268
+market buy 105
+limit sell 212.31 281
+limit buy 215.61 212
+limit bid buy 61
+limit buy 222.1 146
+limit buy 215.39 170
+limit offer sell 394
+limit buy 219.69 353
+limit buy 216.85 26
+limit bid sell 247
+limit offer sell 276
+limit bid buy 221
+limit buy 219.88 378
+limit buy 212.24 243
+limit buy 233.73 335
+limit buy 227.7 344
+limit buy 213.85 384
+limit sell 221.51 250
+limit bid buy 182
+limit buy 236.3 121
+market buy 188
+limit bid buy 84
+limit sell 219.13 90
+limit sell 229.36 95
+limit buy 231.63 325
+limit bid buy 279
+limit sell 224.8 201
+limit buy 218.77 54
+peg offer sell 55
+peg bid sell 254
+limit buy 205.91 168
+market buy 177
+limit buy 214.64 220
+limit bid sell 114
+limit buy 198.57 378
+limit buy 224.21 373
+market buy 400
+market buy 284
+market buy 136
+market sell 323
+limit buy 224.32 347
+peg offer sell 310
+limit sell 230.2 255
+limit sell 219.77 134
+market sell 60
+market buy 182
+limit buy 226.23 59
+limit offer sell 340
+limit buy 218.92 359
+limit sell 214.06 387
+market buy 225
+limit sell 226.44 130
+limit sell 226.19 23
+peg bid sell 59
+peg offer buy 348
+limit buy 223.79 60
+market sell 180
+market sell 195
+market buy 293
+limit buy 213.29 335
+market buy 174
+market buy 238
+limit sell 222.44 278
+market buy 269
+market buy 160
+market buy 276
+market buy 183
+peg bid sell 57
+limit buy 210.77 128
+limit sell 229.72 242
+market buy 245
+limit offer buy 342
+peg bid sell 57
+market buy 308
+limit buy 214.32 65
+peg bid sell 139
+limit sell 216.1 151
+limit sell 233.39 137
+limit buy 209.24 87
+limit buy 216.96 86
+limit buy 214.0 287
+peg bid sell 116
+limit sell 204.33 258
+limit sell 220.22 176
+market sell 250
+market sell 381
+limit buy 211.57 123
+peg bid sell 300
+peg offer sell 226
+limit sell 225.33 287
+market buy 108
+peg bid buy 398
+limit sell 224.17 82
+limit sell 225.22 192
+limit sell 226.14 388
+peg bid sell 253
+limit sell 213.29 205
+limit sell 229.78 253
+limit buy 221.75 203
+market buy 209
+market sell 234
+peg offer buy 85
+limit buy 202.7 296
+market sell 22
+peg offer sell 44
+limit sell 225.26 261
+market sell 265
+limit buy 219.07 119
+market sell 112
+limit sell 215.01 386
+peg bid buy 262
+limit sell 211.38 291
+peg offer sell 89
+peg bid sell 24
+limit sell 219.64 272
+limit offer buy 277
+market sell 298
+market buy 239
+market buy 353
+peg bid sell 153
+limit sell 226.48 161
+limit bid buy 332
+limit buy 227.44 118
+limit sell 208.76 117
+market sell 62
+limit buy 220.11 362
+market sell 270
+peg bid sell 46
+limit buy 211.93 278
+market buy 324
+market sell 309
+limit buy 201.3 188
+limit sell 212.98 392
+limit offer sell 124
+limit sell 225.43 175
+market buy 400
+peg bid buy 226
+limit sell 223.77 295
+limit sell 238.89 362
+limit bid sell 132
+limit offer buy 277
+limit buy 229.4 140
+limit sell 222.43 371
+market buy 139
+limit buy 211.85 325
+market sell 26
+peg offer buy 62
+limit buy 217.67 60
+market sell 229
+limit buy 215.12 344
+market sell 393
+limit sell 212.44 179
+market sell 210
+peg bid sell 359
+peg bid sell 63
+limit offer buy 281
+peg offer buy 307
+peg bid sell 122
+market buy 377
+market sell 115
+limit buy 214.95 321
+limit buy 214.08 391
+limit offer buy 296
+limit buy 218.7 105
+peg bid sell 229
+limit buy 213.87 384
+limit buy 216.96 144
+limit offer buy 321
+market buy 208
+limit sell 214.8 308
+limit sell 208.08 191
+peg bid buy 331
+limit sell 236.81 370
+limit buy 232.42 41
+market buy 369
+limit buy 218.56 110
+market buy 331
+market sell 154
+limit bid sell 226
+limit offer buy 316
+peg offer sell 72
+limit buy 207.86 91
+limit sell 226.56 374
+limit sell 216.16 23
+peg bid sell 262
+limit sell 221.36 376
+limit buy 214.71 347
+limit bid buy 372
+market buy 80
+market buy 241
+market buy 75
+peg bid buy 392
+market sell 300
+limit buy 215.82 389
+market sell 173
+market buy 253
+market sell 188
+peg offer sell 57
+market buy 46
+market buy 338
+limit buy 235.84 207
+market buy 179
+market sell 238
+market sell 223
+peg offer sell 211
+limit sell 219.6 361
+peg bid sell 115
+market buy 34
+limit buy 224.34 395
+limit bid buy 214
+limit sell 228.4 134
+limit bid buy 98
+limit sell 216.34 138
+limit sell 216.62 123
+limit buy 204.42 272
+market buy 225
+market sell 183
+limit buy 226.27 242
+peg bid buy 163
+limit buy 217.64 365
+peg bid sell 349
+limit sell 230.31 232
+market buy 80
+limit buy 206.7 275
+market sell 45
+limit buy 213.89 386
+limit sell 212.1 216
+limit buy 210.84 230
+limit bid buy 146
+market buy 192
+limit sell 221.51 85
+limit sell 227.2 35
+market sell 367
+limit buy 215.74 286
+limit offer sell 160
+limit sell 228.05 241
+limit sell 222.89 168
+limit buy 217.49 297
+limit bid buy 389
+peg offer sell 53
+limit buy 213.51 195
+market sell 107
+market sell 126
+market sell 152
+market sell 223
+market sell 269
+market sell 212
+limit sell 213.9 230
+peg bid sell 351
+limit sell 226.7 21
+limit sell 225.42 318
+market sell 256
+market buy 310
+peg bid sell 26
+market buy 334
+market sell 239
+market sell 175
+limit buy 218.96 154
+peg bid buy 338
+market buy 294
+market buy 201
+peg bid buy 70
+limit sell 227.04 275
+market sell 393
+peg offer sell 256
+market buy 92
+limit sell 232.9 62
+peg bid sell 165
+peg offer buy 76
+market sell 169
+peg offer sell 326
+limit buy 224.42 325
+limit buy 210.31 116
+limit buy 221.98 61
+limit sell 229.22 294
+peg bid buy 103
+peg bid sell 207
+limit bid sell 38
+limit bid sell 326
+limit buy 217.66 52
+market sell 360
+market buy 264
+market buy 204
+limit sell 212.09 333
+market sell 66
+peg offer buy 62
+limit sell 218.06 211
+limit sell 219.82 337
+peg bid buy 311
+peg bid sell 176
+market buy 241
+market buy 400
+limit sell 220.74 15
+limit buy 204.52 285
+market sell 120
+market buy 395
+limit sell 213.99 140
+limit bid sell 272
+peg bid sell 183
+limit buy 231.35 301
+limit sell 227.04 292
+limit buy 198.15 337
+limit buy 206.05 373
+market buy 99
+limit sell 229.44 58
+peg offer sell 392
+market sell 227
+market sell 251
+limit sell 220.92 108
+market sell 328
+market sell 222
+market buy 346
+peg offer sell 377
+limit buy 212.51 333
+limit buy 219.14 394
+market buy 191
+limit bid buy 341
+market buy 38
+limit sell 209.5 315
+peg bid sell 358
+limit offer sell 39
+peg offer sell 257
+peg offer buy 323
+limit bid sell 178
+peg offer sell 389
+market buy 247
+limit buy 195.65 203
+peg offer sell 116
+limit offer buy 56
+limit sell 223.19 390
+limit buy 224.34 17
+market sell 104
+limit sell 217.31 229
+market buy 268
+peg bid buy 106
+limit buy 208.48 383
+limit sell 216.38 166
+limit sell 197.54 113
+limit buy 223.57 20
+limit bid buy 368
+limit sell 221.45 152
+peg bid sell 27
+limit sell 226.3 213
+market buy 330
+market sell 76
+limit sell 219.42 269
+limit sell 214.52 38
+limit bid buy 35
+limit sell 216.82 82
+limit offer buy 77
+limit sell 211.11 261
+limit sell 225.72 331
+market sell 289
+peg offer buy 178
+market buy 324
+peg offer sell 246
+market sell 184
+limit buy 209.85 49
+peg offer sell 275
+peg bid buy 260
+peg bid buy 288
+peg offer sell 311
+limit buy 216.95 29
+limit buy 232.03 72
+peg offer sell 340
+limit bid sell 96
+market buy 108
+market sell 238
+peg bid sell 143
+limit sell 227.08 323
+market sell 133
+market sell 56
+market sell 73
+limit offer sell 88
+limit sell 222.32 66
+limit sell 216.93 153
+peg bid buy 262
+peg offer buy 295
+market sell 215
+market sell 270
+limit sell 227.46 346
+limit buy 199.43 234
+peg offer sell 146
+limit bid buy 181
+limit buy 213.19 371
+peg offer sell 139
+peg offer buy 22
+limit sell 221.54 331
+market buy 184
+limit sell 219.84 287
+limit buy 223.53 208
+market sell 51
+limit sell 216.49 280
+peg offer sell 265
+market sell 138
+peg offer sell 296
+market sell 139
+peg bid buy 277
+limit sell 217.23 262
+limit buy 206.88 192
+peg bid buy 177
+market sell 164
+limit bid sell 71
+limit buy 225.37 252
+peg bid sell 343
+limit buy 228.74 312
+market sell 368
+market buy 398
+limit buy 216.79 314
+limit sell 218.86 117
+market sell 102
+market buy 17
+market buy 290
+market buy 258
+market buy 396
+limit buy 222.27 211
+limit buy 213.3 175
+market sell 318
+market buy 327
+limit sell 229.33 382
+limit sell 224.84 315
+market sell 334
+limit sell 206.76 219
+limit sell 218.76 333
+peg offer buy 203
+peg bid buy 248
+peg bid sell 233
+limit offer buy 268
+limit bid buy 380
+peg offer sell 99
+market sell 34
+market sell 26
+limit sell 225.84 305
+limit buy 218.39 200
+limit sell 224.54 265
+market sell 357
+peg offer sell 58
+limit bid sell 392
+peg offer sell 106
+market sell 144
+limit sell 219.21 28
+limit sell 230.62 357
+peg offer sell 370
+limit sell 226.46 90
+limit sell 212.75 160
+market buy 345
+limit sell 218.7 264
+limit sell 224.56 384
+market sell 220
+peg offer buy 273
+limit sell 215.02 310
+limit sell 226.31 25
+limit buy 210.73 37
+limit sell 215.39 169
+market sell 362
+peg bid buy 122
+market sell 125
+market sell 351
+peg bid buy 164
+peg bid sell 298
+limit bid sell 298
+market sell 39
+limit bid sell 75
+limit sell 220.07 369
+peg offer buy 226
+limit buy 216.52 120
+limit sell 225.1 183
+limit offer buy 232
+limit buy 215.33 116
+limit sell 207.94 86
+peg offer sell 262
+market buy 165
+peg offer sell 180
+limit offer buy 365
+limit offer sell 275
+peg bid sell 298
+limit sell 232.11 351
+limit buy 222.66 155
+peg bid sell 260
+limit sell 221.02 41
+limit buy 204.0 63
+limit buy 225.11 22
+peg offer sell 82
+market sell 169
+market buy 362
+peg offer sell 295
+market sell 316
+limit bid sell 384
+limit buy 203.8 386
+limit sell 239.06 221
+limit bid sell 228
+market buy 71
+limit offer buy 34
+market sell 260
+limit sell 222.31 324
+peg offer buy 138
+market buy 71
+market buy 269
+limit offer buy 146
+market sell 333
+market buy 176
+limit buy 214.72 180
+peg bid buy 202
+market sell 340
+limit sell 219.54 43
+limit buy 235.99 204
+market buy 138
+market buy 97
+peg bid buy 245
+limit sell 200.72 223
+limit buy 226.04 21
+peg bid buy 362
+peg bid sell 203
+market buy 363
+limit sell 223.8 359
+limit bid buy 345
+limit sell 221.38 57
+market buy 50
+limit sell 214.4 273
+limit buy 215.32 133
+limit sell 220.16 164
+peg offer sell 208
+limit bid sell 271
+limit buy 219.33 139
+limit sell 188.21 249
+limit sell 220.21 240
+peg offer buy 171
+peg bid sell 158
+peg bid buy 89
+limit buy 212.7 146
+market sell 378
+peg offer sell 296
+market buy 312
+limit buy 215.32 335
+market buy 351
+limit bid sell 184
+market buy 256
+peg bid buy 344
+market buy 363
+limit buy 219.1 253
+peg offer buy 250
+limit sell 221.3 173
+peg offer sell 150
+limit sell 223.82 229
+limit sell 213.24 151
+limit bid sell 55
+peg offer sell 122
+peg bid sell 337
+limit buy 224.74 181
+market buy 112
+limit sell 227.92 21
+market sell 281
+peg offer sell 228
+market buy 325
+limit sell 231.42 256
+limit sell 214.42 153
+limit sell 222.11 41
+limit buy 212.09 381
+market sell 271
+limit sell 209.34 142
+peg bid buy 266
+peg bid buy 306
+market buy 90
+peg bid sell 228
+limit buy 211.15 237
+market buy 299
+limit buy 211.03 270
+market sell 221
+limit buy 205.32 388
+peg offer sell 301
+market buy 83
+peg offer buy 395
+limit offer buy 96
+limit sell 233.48 21
+market buy 366
+peg offer buy 133
+market sell 303
+market sell 63
+limit sell 230.75 180
+limit buy 231.55 158
+limit buy 231.3 150
+limit buy 215.27 346
+limit sell 205.28 199
+market buy 85
+peg offer sell 115
+market sell 62
+peg offer buy 15
+peg offer buy 26
+peg offer sell 377
+market buy 294
+limit sell 214.94 197
+limit buy 220.3 167
+market buy 231
+peg bid sell 40
+market sell 140
+peg offer buy 304
+limit sell 216.72 345
+limit sell 228.25 342
+limit buy 216.19 310
+limit buy 219.31 27
+peg bid sell 39
+market buy 150
+limit sell 234.22 366
+market buy 66
+market sell 124
+peg bid sell 357
+limit buy 212.12 218
+limit sell 215.38 318
+peg bid buy 116
+peg bid buy 54
+limit sell 215.5 376
+peg bid buy 96
+limit bid sell 131
+limit sell 221.91 293
+peg bid buy 355
+peg offer sell 222
+peg bid sell 301
+limit buy 217.6 120
+limit sell 216.25 362
+peg offer buy 349
+market buy 221
+peg bid buy 27
+limit offer buy 53
+limit buy 198.7 65
+limit offer sell 33
+peg bid buy 98
+limit offer buy 134
+market sell 231
+peg offer buy 369
+market buy 174
+market buy 234
+peg offer sell 96
+limit buy 220.61 388
+peg bid buy 262
+limit buy 212.35 367
+peg offer sell 154
+limit sell 223.78 232
+limit buy 212.76 68
+market buy 118
+limit sell 217.84 354
+limit buy 205.25 296
+peg offer buy 18
+limit sell 229.1 183
+limit buy 213.24 161
+market sell 139
+peg offer buy 299
+limit sell 225.27 101
+limit buy 191.21 236
+peg offer sell 376
+market buy 130
+limit buy 235.54 151
+limit offer sell 395
+market sell 320
+peg offer sell 69
+limit buy 222.71 148
+limit offer buy 272
+limit sell 215.79 241
+peg bid sell 171
+peg bid sell 136
+limit buy 225.64 288
+market buy 372
+limit sell 217.48 43
+market buy 158
+peg offer buy 121
+limit offer buy 321
+market sell 298
+limit buy 218.43 47
+limit buy 221.11 114
+limit buy 222.55 112
+market sell 129
+limit sell 230.53 58
+limit offer sell 319
+peg bid sell 254
+limit sell 203.0 46
+peg offer sell 111
+limit sell 226.12 103
+limit sell 205.22 388
+market buy 262
+peg bid buy 153
+market sell 88
+limit offer sell 258
+limit bid buy 157
+market sell 331
+market buy 33
+peg bid sell 60
+limit buy 219.69 384
+peg bid sell 132
+peg offer sell 335
+limit sell 220.25 111
+limit offer buy 327
+market buy 328
+market buy 146
+market sell 250
+limit bid buy 130
+limit sell 218.54 355
+limit bid sell 250
+peg bid buy 143
+peg bid sell 294
+market sell 18
+limit bid buy 31
+limit sell 215.02 173
+market buy 264
+market buy 361
+limit bid buy 384
+peg bid sell 22
+market sell 326
+peg bid sell 398
+limit buy 217.09 381
+limit sell 241.2 244
+market buy 388
+market buy 284
+peg bid buy 25
+peg bid buy 331
+limit sell 216.13 169
+limit offer sell 170
+market buy 321
+market sell 321
+limit offer sell 164
+limit buy 209.15 66
+limit buy 211.1 177
+limit buy 238.25 329
+limit sell 213.64 276
+limit sell 223.76 346
+limit buy 225.95 317
+limit buy 215.44 33
+limit offer sell 125
+market sell 184
+limit buy 218.38 217
+limit bid buy 339
+market buy 300
+peg bid buy 39
+market sell 327
+market sell 265
+market buy 340
+peg offer buy 47
+peg bid sell 187
+market buy 318
+limit buy 223.52 180
+limit bid buy 70
+limit buy 208.89 143
+limit buy 226.86 123
+peg bid buy 93
+limit sell 218.88 310
+limit sell 215.08 309
+limit sell 237.44 138
+market sell 156
+limit offer sell 18
+limit bid buy 381
+market sell 337
+limit buy 204.12 115
+peg bid buy 387
+peg offer buy 282
+limit sell 207.15 395
+market sell 228
+market sell 221
+peg offer buy 140
+limit buy 228.06 59
+limit buy 233.62 131
+limit buy 208.22 352
+market buy 118
+limit sell 223.55 271
+limit bid sell 50
+limit sell 231.38 250
+limit sell 215.86 382
+limit sell 227.61 368
+market buy 353
+limit offer sell 389
+market buy 276
+market sell 283
+limit buy 204.82 269
+limit sell 235.51 113
+limit buy 217.88 192
+limit sell 213.75 205
+peg offer sell 95
+peg bid sell 159
+peg offer buy 275
+market buy 204
+limit buy 228.96 219
+market buy 260
+market sell 234
+limit sell 225.28 335
+limit buy 228.4 48
+market buy 190
+market buy 166
+peg bid sell 163
+market sell 389
+peg bid buy 190
+market buy 391
+limit bid buy 65
+limit sell 224.49 44
+market sell 71
+limit buy 209.12 276
+market sell 154
+market buy 200
+peg bid buy 130
+peg offer sell 323
+limit buy 216.2 244
+market sell 191
+limit bid sell 67
+limit buy 212.8 394
+limit sell 220.95 185
+limit buy 210.63 221
+peg offer sell 49
+limit offer sell 229
+peg bid sell 331
+market sell 255
+market buy 377
+limit bid buy 314
+market buy 240
+market sell 344
+limit buy 230.22 381
+market sell 368
+limit sell 236.91 215
+market buy 289
+limit buy 218.33 152
+market sell 34
+limit sell 214.71 52
+limit sell 222.44 74
+market sell 109
+peg offer buy 280
+limit bid buy 140
+peg bid buy 90
+market buy 238
+limit buy 217.04 198
+market buy 233
+limit sell 221.94 330
+peg bid buy 260
+limit sell 211.44 315
+limit sell 208.51 84
+limit sell 220.47 135
+peg bid sell 138
+limit sell 218.69 96
+limit buy 219.49 112
+limit bid buy 320
+peg bid sell 342
+market buy 346
+limit buy 213.12 70
+peg bid sell 184
+peg offer buy 217
+limit bid sell 362
+limit buy 218.32 398
+limit buy 215.99 370
+market sell 229
+limit sell 216.0 288
+peg offer sell 216
+limit buy 217.47 83
+market buy 193
+limit bid buy 158
+limit buy 213.51 21
+limit bid sell 377
+limit sell 219.83 287
+peg offer sell 328
+peg offer buy 77
+limit buy 221.76 68
+limit sell 217.6 49
+limit sell 210.94 89
+limit sell 230.84 47
+limit buy 224.95 141
+market buy 350
+limit buy 208.7 391
+limit sell 208.33 227
+market sell 263
+market buy 343
+limit buy 206.28 163
+limit bid sell 68
+market sell 49
+market sell 304
+market sell 388
+peg bid sell 85
+market buy 247
+limit offer buy 309
+market buy 380
+limit buy 222.83 86
+peg offer buy 152
+limit sell 226.87 359
+limit sell 231.3 370
+market buy 321
+limit bid sell 373
+market sell 285
+market buy 282
+market buy 113
+limit buy 224.89 241
+peg offer sell 272
+peg offer buy 396
+market sell 335
+peg offer buy 389
+limit buy 232.35 276
+limit sell 225.45 27
+peg offer buy 249
+limit bid buy 328
+limit sell 217.28 164
+market sell 218
+market sell 242
+peg bid buy 90
+limit offer buy 51
+limit sell 223.48 221
+limit offer sell 199
+limit buy 223.61 156
+limit sell 210.58 59
+limit sell 236.23 321
+market buy 141
+market sell 349
+limit bid sell 86
+market buy 297
+peg bid buy 344
+peg bid buy 161
+limit sell 226.22 33
+limit buy 221.25 323
+market sell 146
+market sell 377
+peg offer buy 396
+limit buy 208.75 78
+limit buy 221.06 257
+peg offer sell 81
+limit sell 214.27 94
+limit bid sell 15
+limit sell 222.44 264
+limit buy 220.56 159
+market sell 194
+limit offer buy 140
+peg offer buy 106
+limit buy 212.02 122
+peg bid buy 354
+peg offer sell 396
+market buy 211
+limit sell 223.94 381
+peg offer buy 227
+limit buy 224.29 186
+market buy 306
+market buy 121
+peg bid buy 31
+peg bid buy 266
+limit sell 224.58 319
+limit buy 216.43 263
+limit sell 210.03 219
+limit sell 230.22 276
+peg offer sell 124
+limit sell 200.26 280
+limit buy 209.49 234
+market sell 204
+market buy 324
+limit buy 223.96 278
+market buy 344
+peg bid buy 238
+market sell 60
+limit bid sell 87
+limit offer buy 341
+limit sell 218.47 138
+peg offer sell 180
+market buy 307
+limit buy 231.89 361
+limit buy 223.71 183
+peg offer sell 164
+limit buy 204.77 86
+market buy 357
+peg bid buy 105
+peg bid sell 335
+limit buy 216.62 392
+limit sell 220.62 269
+peg offer sell 284
+limit sell 230.44 358
+limit sell 218.32 323
+limit sell 215.24 267
+limit sell 227.38 110
+limit buy 218.91 18
+market sell 217
+market buy 148
+limit offer buy 214
+market sell 332
+limit sell 224.3 310
+peg offer buy 111
+market buy 46
+peg offer buy 150
+limit bid sell 294
+market buy 250
+peg bid buy 332
+peg offer sell 15
+limit offer sell 37
+peg bid sell 283
+limit buy 217.64 175
+peg offer sell 41
+limit offer buy 394
+limit sell 216.77 158
+limit buy 220.11 52
+limit sell 223.68 63
+market buy 370
+market sell 263
+peg bid buy 55
+limit buy 208.62 168
+peg bid buy 378
+peg offer buy 290
+market buy 343
+peg offer sell 154
+market buy 38
+market sell 236
+limit bid sell 245
+limit buy 224.53 359
+market buy 387
+market sell 72
+limit sell 224.01 290
+limit buy 217.99 213
+limit buy 220.99 37
+market buy 362
+limit buy 214.45 230
+peg bid sell 306
+limit sell 223.47 301
+market buy 354
+limit sell 228.47 268
+limit bid buy 198
+market buy 342
+limit buy 216.21 114
+peg offer sell 367
+peg bid sell 60
+limit sell 226.04 122
+limit sell 203.5 31
+limit buy 217.02 204
+limit buy 203.56 235
+peg offer buy 99
+market sell 72
+limit sell 219.01 292
+peg bid sell 96
+limit offer sell 108
+limit buy 216.92 398
+peg bid sell 156
+market buy 145
+limit sell 216.11 25
+limit sell 216.88 175
+peg offer buy 132
+peg offer buy 53
+peg offer buy 20
+limit sell 221.06 70
+limit buy 231.87 316
+limit bid buy 125
+peg offer buy 135
+market buy 52
+market buy 88
+limit sell 225.52 75
+limit sell 201.72 125
+limit bid sell 173
+peg offer sell 256
+market buy 63
+limit buy 212.25 353
+market sell 344
+limit sell 229.33 343
+peg offer sell 277
+limit buy 206.52 76
+limit offer sell 144
+market buy 206
+limit sell 206.11 93
+market sell 368
+limit sell 214.78 75
+market sell 299
+limit offer sell 258
+limit sell 228.0 281
+market sell 261
+market buy 245
+market buy 370
+limit sell 211.54 378
+limit sell 209.78 316
+limit sell 230.28 386
+limit buy 215.3 91
+limit buy 215.0 129
+market buy 304
+market buy 181
+limit offer sell 41
+peg offer buy 174
+limit sell 224.87 385
+limit buy 233.07 69
+limit sell 228.05 44
+market sell 208
+limit bid buy 253
+limit sell 229.16 69
+market buy 110
+limit offer sell 32
+limit buy 202.0 25
+limit offer sell 370
+limit sell 218.76 124
+market buy 313
+limit buy 233.08 207
+market sell 164
+limit buy 231.54 86
+market buy 168
+market sell 294
+market buy 275
+market buy 29
+limit sell 226.66 190
+peg bid buy 365
+limit sell 227.36 393
+market buy 366
+market buy 56
+peg bid buy 393
+market buy 344
+market sell 179
+peg bid sell 46
+market sell 367
+limit buy 213.46 274
+limit buy 216.96 106
+market buy 271
+limit sell 233.69 344
+limit sell 224.83 42
+limit buy 210.1 214
+market sell 289
+limit sell 225.38 276
+peg offer sell 135
+market sell 322
+market sell 89
+limit sell 222.24 373
+limit sell 215.48 152
+peg bid sell 148
+peg bid buy 200
+limit sell 217.13 257
+limit sell 241.38 383
+limit sell 225.68 189
+limit sell 222.91 390
+peg offer sell 79
+peg offer buy 84
+peg bid buy 181
+market sell 222
+limit sell 225.18 15
+market buy 105
+peg bid sell 107
+market buy 143
+market sell 343
+peg offer buy 349
+market sell 60
+limit bid sell 322
+limit offer buy 397
+market buy 257
+limit sell 217.32 270
+market sell 248
+peg offer sell 278
+market sell 179
+market buy 282
+limit sell 227.81 381
+market buy 16
+peg bid buy 101
+market buy 214
+limit sell 217.43 31
+limit sell 227.02 40
+limit bid sell 386
+limit buy 214.74 43
+peg offer buy 133
+market buy 160
+peg offer buy 82
+market buy 258
+market sell 44
+limit bid sell 309
+market sell 29
+limit offer sell 356
+market buy 96
+market sell 196
+limit buy 204.84 398
+peg bid buy 312
+market buy 257
+peg offer sell 53
+limit sell 229.77 222
+market sell 374
+peg offer sell 321
+peg bid buy 51
+market buy 180
+peg offer sell 65
+market buy 138
+peg bid sell 251
+market buy 276
+market buy 82
+limit sell 231.32 188
+limit bid sell 385
+peg bid buy 214
+limit sell 215.2 149
+limit sell 218.03 226
+limit buy 209.34 26
+limit sell 224.87 164
+limit sell 229.88 19
+limit sell 225.08 49
+limit sell 218.77 50
+limit offer buy 359
+limit buy 212.13 157
+peg bid buy 91
+limit sell 214.47 122
+market buy 174
+market buy 81
+limit buy 212.82 33
+limit offer buy 60
+market buy 307
+limit buy 236.24 38
+peg offer sell 145
+limit buy 222.45 320
+limit sell 227.58 317
+market buy 143
+limit sell 223.88 111
+limit sell 230.24 335
+market sell 290
+limit sell 221.66 23
+limit sell 234.93 229
+limit buy 216.71 321
+limit bid buy 387
+limit sell 218.79 155
+market sell 103
+market buy 374
+market buy 154
+limit sell 224.96 181
+limit bid buy 81
+peg bid sell 144
+market sell 203
+limit sell 231.07 223
+limit sell 217.31 48
+limit bid buy 230
+limit sell 216.31 96
+peg offer buy 96
+market buy 50
+limit bid buy 247
+market buy 152
+market sell 298
+limit buy 232.09 277
+peg bid buy 183
+limit sell 218.04 310
+peg offer buy 66
+limit buy 221.85 361
+limit sell 228.55 77
+limit buy 219.88 64
+market sell 178
+limit buy 232.79 211
+limit buy 207.88 205
+limit offer buy 42
+market buy 152
+limit buy 225.87 177
+limit sell 217.56 107
+market sell 185
+limit buy 223.89 281
+market sell 384
+peg bid buy 73
+limit buy 201.48 79
+market buy 74
+market buy 18
+peg offer sell 338
+limit buy 218.17 141
+limit buy 198.17 115
+limit sell 235.78 178
+peg offer sell 214
+limit buy 220.94 180
+peg bid buy 221
+limit buy 205.53 128
+limit bid buy 203
+limit sell 222.72 134
+peg bid buy 271
+market buy 272
+market sell 382
+limit buy 199.36 165
+market buy 255
+limit buy 213.51 344
+limit buy 221.35 244
+limit sell 221.99 389
+limit offer buy 198
+peg offer buy 144
+peg bid sell 341
+peg bid buy 356
+limit buy 207.65 149
+limit sell 210.25 60
+market sell 193
+limit bid buy 20
+limit sell 220.37 189
+limit sell 215.87 312
+peg offer buy 304
+limit buy 226.98 153
+limit sell 224.33 190
+limit sell 217.24 357
+limit bid sell 256
+limit sell 213.65 244
+limit buy 205.19 340
+limit buy 221.42 275
+limit bid sell 311
+market buy 248
+limit sell 215.85 318
+market sell 15
+peg offer buy 167
+limit bid buy 110
+limit buy 226.66 158
+peg bid sell 80
+limit offer sell 334
+market buy 344
+limit buy 225.94 368
+limit sell 212.6 100
+limit buy 219.78 304
+limit offer sell 49
+limit bid buy 319
+market sell 390
+limit buy 223.43 279
+market buy 108
+limit sell 205.62 235
+limit sell 243.45 327
+peg offer buy 307
+peg offer sell 380
+limit sell 232.8 224
+peg offer sell 129
+limit sell 228.93 157
+market buy 353
+limit sell 225.52 178
+limit buy 212.38 222
+market buy 228
+peg bid buy 348
+limit buy 224.48 165
+market buy 83
+peg bid buy 378
+limit bid sell 114
+limit bid sell 335
+limit sell 217.6 198
+limit sell 215.89 292
+limit buy 225.44 321
+limit buy 224.75 314
+peg offer sell 286
+limit sell 224.91 345
+limit offer sell 213
+peg bid sell 358
+limit buy 199.92 293
+limit sell 222.82 57
+market buy 339
+limit buy 210.29 155
+market sell 352
+peg offer sell 364
+limit offer sell 27
+limit sell 221.32 65
+limit buy 217.46 328
+limit sell 226.03 384
+limit buy 213.97 148
+peg bid buy 292
+limit sell 209.57 391
+peg offer sell 127
+peg offer buy 346
+limit sell 207.93 121
+market sell 388
+limit sell 214.34 170
+limit buy 203.39 55
+limit sell 216.71 115
+market buy 148
+limit sell 216.63 261
+market sell 271
+market sell 258
+limit buy 222.52 193
+market sell 273
+limit sell 232.16 66
+limit bid sell 362
+peg offer sell 95
+market sell 135
+limit sell 226.34 46
+limit buy 209.86 377
+limit offer sell 282
+peg bid sell 259
+limit buy 205.91 109
+limit sell 217.43 291
+peg offer buy 144
+market sell 208
+limit sell 228.95 130
+peg bid buy 333
+limit buy 231.62 263
+peg bid buy 118
+limit buy 215.16 270
+market buy 110
+peg bid sell 110
+peg offer buy 221
+limit buy 220.17 83
+peg offer buy 105
+limit buy 218.08 313
+limit sell 230.07 91
+peg offer buy 376
+market buy 366
+limit buy 219.23 64
+limit offer buy 389
+peg offer sell 51
+market sell 32
+limit buy 240.51 155
+limit sell 206.03 269
+limit buy 218.62 288
+limit buy 218.36 122
+limit offer sell 131
+limit sell 228.86 137
+market sell 254
+limit buy 211.15 203
+market sell 73
+limit sell 217.23 330
+peg offer buy 74
+peg bid buy 67
+peg offer sell 185
+market sell 315
+limit sell 207.43 251
+market sell 72
+market sell 387
+market sell 243
+market sell 203
+limit sell 224.92 55
+peg bid sell 281
+limit buy 204.12 109
+market sell 33
+market buy 269
+market buy 281
+peg offer sell 106
+limit offer buy 399
+limit buy 214.95 393
+peg offer sell 196
+market buy 385
+limit buy 211.74 226
+peg offer buy 315
+limit buy 220.68 116
+peg offer sell 129
+limit buy 221.88 56
+market sell 400
+limit sell 228.36 264
+market sell 340
+market buy 73
+limit buy 215.31 26
+peg offer sell 343
+peg offer sell 83
+limit buy 220.01 188
+limit sell 228.32 141
+limit buy 216.48 351
+peg offer sell 386
+limit sell 222.22 278
+market sell 399
+market buy 242
+market sell 266
+limit sell 225.83 77
+market buy 308
+limit sell 223.93 209
+peg bid buy 361
+limit sell 236.76 60
+market sell 250
+limit buy 218.5 265
+limit buy 217.59 40
+peg offer buy 336
+limit buy 216.51 174
+limit buy 220.29 223
+market buy 394
+market sell 302
+limit sell 219.81 181
+peg offer buy 210
+peg offer buy 168
+limit sell 227.5 342
+peg bid buy 21
+market buy 231
+limit sell 219.77 28
+limit bid sell 208
+market buy 386
+limit sell 217.2 20
+limit sell 209.28 127
+market sell 178
+limit sell 214.1 374
+limit buy 214.93 34
+limit sell 218.77 220
+peg bid buy 33
+market buy 285
+peg bid sell 397
+limit buy 228.95 120
+peg offer buy 119
+market sell 283
+limit sell 219.28 385
+limit buy 216.21 339
+peg offer sell 301
+limit bid buy 73
+limit bid buy 358
+limit sell 219.0 108
+market sell 400
+limit sell 212.51 150
+limit sell 222.94 300
+market sell 197
+limit buy 205.59 246
+limit sell 225.27 214
+peg offer sell 271
+market sell 264
+limit buy 209.02 280
+market sell 207
+limit sell 221.88 196
+peg bid sell 249
+market buy 182
+limit buy 218.65 88
+limit buy 217.21 163
+market buy 184
+limit sell 203.17 113
+peg offer buy 89
+market buy 298
+limit sell 222.62 400
+peg bid sell 40
+market sell 117
+limit buy 217.07 263
+market sell 167
+market buy 292
+peg bid sell 324
+peg offer sell 306
+limit buy 229.97 97
+limit sell 233.81 119
+market buy 96
+peg bid buy 238
+peg offer buy 258
+limit buy 217.86 369
+peg offer sell 269
+limit bid sell 177
+peg offer sell 168
+peg bid sell 61
+limit buy 215.24 202
+market buy 246
+limit bid sell 392
+limit buy 206.85 21
+limit sell 212.17 18
+market buy 57
+market buy 330
+market buy 323
+limit buy 207.2 184
+limit bid buy 378
+market sell 303
+peg offer sell 22
+limit sell 216.85 298
+peg bid buy 144
+limit sell 223.73 206
+limit buy 212.35 36
+market buy 151
+limit offer sell 339
+limit offer sell 218
+peg offer buy 374
+market sell 160
+limit offer buy 400
+limit buy 230.86 152
+limit sell 215.54 19
+limit sell 221.23 198
+market sell 144
+market buy 243
+peg offer buy 149
+peg bid buy 230
+limit buy 213.03 85
+limit buy 209.44 268
+limit sell 235.81 270
+limit sell 205.52 135
+market buy 289
+market buy 91
+limit sell 234.17 248
+market sell 50
+limit buy 228.65 141
+market buy 113
+limit sell 230.36 314
+peg bid sell 138
+limit bid sell 63
+limit offer buy 346
+limit bid sell 22
+limit sell 217.63 304
+limit buy 212.99 147
+limit sell 224.61 274
+limit buy 228.33 330
+market sell 372
+limit buy 212.62 396
+limit sell 238.75 176
+limit sell 211.74 374
+limit buy 222.05 125
+peg offer sell 19
+limit sell 221.62 368
+market sell 69
+limit bid buy 215
+peg bid sell 127
+peg offer sell 132
+limit bid buy 24
+market buy 212
+limit sell 213.76 95
+limit sell 237.11 120
+limit sell 210.69 204
+limit buy 210.59 203
+peg offer sell 161
+limit sell 229.53 288
+limit bid sell 19
+peg offer sell 299
+market sell 222
+limit sell 240.35 23
+peg offer sell 261
+limit buy 222.21 174
+limit sell 211.58 205
+peg offer buy 23
+limit buy 215.21 241
+peg offer buy 70
+limit sell 230.69 356
+limit bid buy 294
+limit buy 229.15 53
+limit buy 215.36 203
+peg bid sell 352
+market buy 67
+peg bid buy 55
+limit sell 235.48 186
+market buy 46
+market buy 170
+peg offer buy 59
+limit sell 235.71 25
+peg bid sell 266
+peg bid sell 328
+market sell 93
+peg offer sell 349
+market sell 216
+limit buy 211.97 106
+limit offer sell 343
+limit buy 222.63 185
+limit buy 218.5 182
+market buy 62
+market sell 80
+limit sell 228.86 100
+limit bid sell 118
+limit sell 209.0 166
+limit buy 203.99 90
+limit offer sell 260
+market sell 94
+peg offer sell 356
+limit buy 225.52 231
+market sell 279
+limit buy 209.75 256
+limit sell 217.82 354
+peg offer sell 275
+limit buy 225.0 63
+limit buy 225.92 339
+peg offer sell 107
+limit buy 206.27 42
+market buy 93
+limit sell 221.57 124
+peg offer sell 115
+market sell 120
+limit sell 224.3 257
+market buy 278
+limit sell 216.81 293
+peg bid buy 267
+market sell 335
+market sell 93
+market sell 296
+peg bid sell 31
+limit sell 229.54 121
+limit sell 233.4 190
+limit sell 220.37 383
+peg offer sell 126
+limit offer buy 306
+peg offer sell 214
+limit buy 225.41 60
+market buy 247
+limit buy 227.55 395
+limit offer buy 269
+peg bid buy 58
+peg offer sell 375
+limit sell 231.41 207
+market buy 380
+market sell 26
+market buy 58
+market sell 157
+limit sell 210.17 175
+limit sell 217.71 277
+peg offer buy 388
+limit buy 235.71 260
+limit sell 212.22 396
+peg offer buy 256
+peg offer buy 278
+limit buy 223.68 94
+limit sell 217.15 345
+market sell 370
+peg bid buy 61
+peg bid sell 103
+limit sell 213.52 375
+market sell 364
+limit buy 185.48 134
+limit bid buy 292
+limit sell 219.79 22
+market buy 15
+limit buy 210.13 376
+limit offer buy 110
+limit sell 217.28 109
+limit offer sell 290
+limit sell 209.09 107
+limit sell 217.76 35
+market sell 351
+market buy 148
+market buy 237
+market buy 351
+market sell 132
+limit offer sell 55
+limit buy 222.8 87
+market buy 20
+market buy 315
+limit buy 211.06 206
+limit buy 223.27 123
+peg offer buy 37
+market sell 215
+peg bid sell 96
+limit sell 220.9 93
+market sell 36
+limit buy 218.39 157
+market sell 62
+market sell 43
+market buy 70
+limit buy 215.86 46
+market buy 369
+market buy 238
+peg bid sell 142
+limit sell 225.14 188
+limit offer sell 143
+limit buy 217.55 84
+limit sell 220.99 322
+limit buy 222.56 287
+peg offer sell 251
+limit sell 211.24 353
+limit buy 232.21 58
+limit offer buy 65
+peg bid sell 302
+limit bid buy 375
+limit sell 234.55 96
+peg offer sell 277
+limit buy 217.46 399
+limit buy 233.95 193
+limit sell 222.82 165
+market buy 292
+limit sell 218.33 343
+limit offer sell 55
+market sell 220
+limit sell 228.82 233
+market buy 313
+peg bid buy 214
+limit sell 240.87 320
+market sell 348
+limit buy 223.25 174
+peg bid buy 80
+market buy 220
+peg offer sell 103
+limit sell 221.88 194
+market sell 242
+peg offer buy 68
+limit sell 216.52 143
+limit sell 212.5 196
+limit buy 192.52 274
+limit sell 225.01 325
+limit buy 220.99 136
+limit bid sell 50
+peg offer buy 233
+limit sell 234.1 49
+market sell 192
+limit sell 218.1 277
+limit buy 217.76 259
+limit sell 231.89 315
+limit bid buy 91
+limit sell 234.81 79
+peg offer sell 303
+limit offer buy 93
+limit sell 221.92 175
+limit sell 225.57 300
+limit sell 226.09 320
+peg bid buy 244
+market sell 294
+limit sell 227.88 323
+peg offer buy 292
+limit sell 224.84 32
+peg bid sell 295
+limit buy 198.0 161
+market sell 281
+limit sell 221.14 276
+peg offer sell 97
+limit buy 211.14 31
+limit buy 202.93 314
+market sell 247
+market buy 354
+limit buy 201.36 206
+limit sell 218.36 99
+limit sell 216.05 397
+limit sell 216.21 288
+limit buy 216.29 140
+limit buy 210.73 72
+limit buy 215.71 278
+market buy 324
+peg offer sell 198
+limit buy 224.11 48
+peg bid buy 195
+peg offer buy 190
+limit buy 198.9 38
+market buy 233
+peg offer sell 376
+peg offer buy 325
+peg offer sell 133
+peg bid sell 371
+market sell 271
+peg offer buy 398
+limit buy 214.99 377
+peg bid buy 28
+limit buy 212.98 394
+limit bid buy 143
+market buy 235
+limit offer buy 248
+limit sell 233.16 182
+market sell 206
+peg offer buy 150
+limit offer buy 122
+limit bid buy 152
+limit buy 222.42 174
+limit buy 218.78 221
+market sell 160
+peg bid buy 320
+market buy 365
+limit sell 217.0 228
+limit buy 215.61 188
+limit offer sell 231
+market sell 380
+peg offer sell 264
+peg bid buy 111
+market sell 295
+market sell 256
+market sell 152
+limit buy 212.85 366
+limit sell 231.11 121
+peg bid buy 307
+peg bid sell 106
+market buy 100
+peg bid sell 151
+peg bid sell 367
+market buy 249
+market sell 374
+limit buy 222.2 218
+limit sell 216.44 84
+market sell 340
+market buy 77
+market buy 336
+limit sell 225.83 392
+limit buy 213.77 365
+market sell 236
+market buy 360
+peg offer buy 361
+limit bid sell 28
+market sell 282
+peg bid sell 116
+limit buy 217.29 260
+limit buy 199.24 84
+limit sell 216.25 283
+limit bid sell 271
+limit sell 220.52 116
+peg offer buy 96
+peg offer sell 363
+market sell 64
+limit buy 223.95 87
+limit buy 236.75 367
+limit offer buy 151
+peg offer sell 198
+limit sell 221.32 240
+peg offer sell 254
+limit buy 207.77 82
+market sell 170
+market buy 202
+limit buy 215.42 175
+market sell 329
+peg offer sell 336
+market buy 293
+limit buy 211.57 77
+market sell 145
+limit buy 217.79 149
+limit sell 221.98 232
+limit offer buy 156
+limit sell 213.44 236
+limit sell 220.65 206
+limit bid sell 187
+market buy 274
+peg bid sell 400
+limit sell 230.5 299
+peg offer sell 216
+limit sell 210.1 143
+limit buy 215.23 268
+peg offer sell 213
+peg offer buy 72
+limit buy 216.11 314
+limit buy 214.96 62
+limit buy 217.2 67
+limit buy 220.62 240
+peg bid buy 70
+limit sell 223.82 210
+market sell 122
+limit buy 217.99 82
+limit sell 212.07 364
+market buy 20
+limit offer sell 187
+limit buy 212.02 98
+peg offer sell 24
+limit bid sell 310
+market buy 223
+market buy 277
+limit buy 221.25 113
+market sell 116
+limit buy 228.91 331
+market buy 39
+limit offer sell 364
+limit sell 234.42 127
+limit offer buy 23
+limit offer sell 243
+market buy 384
+market sell 231
+peg offer sell 389
+limit buy 214.58 240
+market sell 220
+limit buy 225.35 22
+limit buy 210.32 168
+limit bid sell 122
+market buy 376
+market sell 152
+limit sell 214.74 147
+limit sell 224.97 365
+market buy 242
+market sell 69
+limit offer sell 113
+market sell 351
+peg bid buy 122
+limit bid sell 149
+limit sell 213.21 18
+market buy 339
+market sell 172
+peg offer buy 297
+peg bid sell 298
+limit buy 221.04 345
+limit offer sell 172
+market buy 218
+limit buy 224.02 65
+peg offer buy 356
+market sell 152
+limit sell 219.92 301
+limit bid buy 26
+limit offer buy 191
+market sell 302
+limit sell 233.4 28
+peg bid sell 385
+market buy 398
+market sell 383
+market buy 199
+limit sell 232.45 338
+limit bid buy 368
+limit sell 209.19 284
+limit offer sell 333
+peg bid buy 60
+limit sell 227.48 264
+peg offer buy 373
+market buy 281
+limit sell 219.0 125
+limit offer sell 169
+limit sell 213.0 387
+market buy 84
+market sell 332
+limit sell 209.81 154
+limit offer buy 400
+peg offer buy 286
+limit bid buy 252
+market buy 16
+peg bid sell 277
+limit buy 208.75 96
+peg bid sell 189
+limit sell 222.44 111
+limit buy 221.42 361
+limit buy 198.01 201
+limit offer buy 349
+limit buy 217.59 292
+market sell 179
+peg bid sell 43
+peg offer sell 98
+market buy 55
+peg offer sell 374
+market buy 153
+limit sell 227.56 232
+market buy 170
+peg bid sell 302
+limit sell 205.35 345
+limit bid sell 310
+limit bid sell 303
+limit buy 201.83 220
+peg offer buy 255
+limit buy 213.38 134
+limit bid buy 110
+peg bid buy 21
+peg bid buy 119
+limit buy 230.35 54
+peg bid buy 273
+peg offer sell 261
+market buy 48
+peg bid sell 309
+market sell 158
+market buy 300
+peg offer buy 239
+limit buy 226.27 184
+limit sell 218.18 231
+limit sell 220.07 271
+market buy 326
+market buy 264
+peg offer buy 119
+peg bid buy 88
+market buy 354
+limit sell 223.99 206
+market buy 96
+peg offer buy 304
+limit buy 233.82 394
+market buy 330
+peg bid buy 365
+limit buy 224.14 185
+market sell 369
+limit sell 220.64 185
+peg bid sell 102
+limit buy 211.78 46
+limit offer sell 253
+limit sell 230.55 59
+limit buy 217.05 235
+limit sell 217.17 153
+limit buy 216.42 144
+peg offer sell 196
+limit buy 226.13 396
+market buy 126
+limit buy 223.41 185
+market sell 396
+limit buy 211.4 303
+limit sell 231.46 197
+market sell 25
+limit sell 235.36 361
+peg bid buy 352
+limit buy 238.98 140
+market sell 71
+peg bid sell 111
+limit sell 235.18 227
+limit buy 219.56 21
+peg bid sell 344
+limit bid sell 380
+limit buy 210.17 56
+limit offer sell 362
+market buy 369
+market sell 320
+limit sell 229.79 38
+market sell 280
+market sell 326
+limit sell 225.52 395
+peg bid buy 231
+peg bid buy 357
+market sell 355
+limit sell 221.0 16
+limit sell 225.57 300
+peg offer sell 23
+market sell 214
+limit sell 227.01 94
+peg offer sell 330
+limit bid sell 278
+limit sell 212.44 101
+limit offer sell 16
+limit sell 234.08 317
+market buy 362
+limit sell 230.1 320
+limit offer buy 344
+limit bid sell 128
+limit buy 214.54 34
+market buy 126
+limit sell 235.35 292
+limit buy 210.25 35
+limit sell 238.71 174
+limit buy 218.98 53
+limit buy 225.94 272
+market buy 378
+peg bid buy 328
+limit sell 222.82 38
+limit sell 218.9 129
+market buy 214
+limit sell 229.73 307
+limit buy 210.79 374
+market sell 37
+limit bid buy 225
+market buy 72
+limit bid buy 293
+limit offer sell 374
+limit buy 213.85 142
+market buy 363
+limit buy 218.49 377
+market buy 271
+limit buy 221.1 316
+market buy 345
+market sell 242
+limit buy 219.52 264
+peg offer sell 112
+market sell 299
+limit sell 238.31 95
+limit sell 228.69 110
+limit buy 194.96 203
+market buy 77
+peg offer buy 350
+limit buy 225.78 161
+market sell 179
+market sell 341
+limit buy 206.07 204
+limit sell 202.08 234
+peg bid buy 346
+limit sell 240.69 118
+market buy 97
+limit sell 217.95 181
+limit sell 221.34 376
+limit buy 208.5 184
+peg offer buy 68
+peg bid buy 313
+limit sell 226.52 214
+market sell 191
+limit sell 234.84 355
+limit buy 218.81 197
+peg offer sell 254
+peg offer sell 87
+peg bid buy 289
+limit sell 225.05 193
+limit bid sell 213
+limit sell 228.91 284
+peg bid buy 155
+market buy 309
+limit sell 220.19 386
+limit sell 219.13 114
+limit sell 222.22 183
+limit buy 199.52 120
+market buy 65
+market buy 369
+limit buy 229.05 251
+limit offer buy 90
+limit buy 210.61 288
+limit sell 232.68 310
+limit sell 211.0 179
+limit buy 212.8 358
+limit sell 241.09 28
+limit offer buy 221
+limit sell 215.75 363
+market buy 232
+limit buy 218.91 249
+limit buy 210.52 230
+limit buy 208.24 377
+market sell 114
+limit buy 224.95 193
+limit buy 230.74 332
+market sell 301
+peg offer buy 28
+peg offer sell 72
+market buy 337
+market buy 111
+limit buy 208.36 17
+limit sell 224.22 158
+limit sell 221.08 299
+peg bid buy 74
+limit offer buy 280
+limit bid sell 120
+limit buy 204.05 218
+limit bid sell 185
+limit buy 217.25 336
+limit sell 230.27 370
+peg offer buy 208
+limit sell 217.82 113
+peg offer buy 173
+peg bid buy 221
+peg bid sell 248
+market buy 53
+market buy 95
+limit offer buy 314
+limit buy 234.5 265
+market sell 46
+limit buy 202.92 262
+market buy 288
+peg bid buy 79
+peg offer sell 103
+market sell 297
+limit buy 219.19 15
+peg offer buy 188
+peg bid sell 27
+market sell 235
+limit bid buy 234
+limit buy 209.11 92
+limit buy 213.81 253
+peg offer buy 242
+limit offer buy 34
+market buy 250
+market sell 230
+market buy 308
+limit sell 212.03 167
+limit buy 212.17 352
+limit offer sell 215
+market buy 318
+limit bid buy 44
+limit sell 225.85 178
+peg bid buy 156
+market sell 271
+limit buy 219.45 383
+market buy 333
+limit buy 213.04 317
+market sell 320
+peg bid buy 307
+limit bid sell 289
+market sell 177
+limit offer buy 176
+market buy 280
+peg bid sell 379
+market sell 282
+market sell 160
+market buy 176
+limit buy 214.57 207
+peg offer sell 117
+market sell 66
+market sell 255
+limit sell 227.14 99
+limit buy 231.92 161
+limit sell 219.18 59
+limit buy 219.8 293
+market sell 391
+peg bid sell 286
+limit sell 219.85 74
+market sell 113
+market buy 43
+limit sell 214.69 350
+limit bid buy 169
+limit buy 208.47 330
+limit sell 215.67 56
+peg offer sell 22
+limit buy 212.7 139
+market buy 272
+limit sell 212.49 153
+peg offer buy 122
+market buy 98
+market buy 45
+limit sell 224.71 301
+limit sell 229.53 345
+peg bid sell 169
+limit sell 215.75 336
+limit bid sell 269
+limit sell 213.7 371
+limit sell 228.7 339
+peg bid sell 301
+limit sell 223.42 203
+limit offer buy 270
+peg bid buy 370
+market sell 156
+limit buy 201.56 142
+limit sell 216.64 173
+limit buy 214.5 104
+market sell 184
+limit sell 218.7 180
+limit buy 218.95 337
+market sell 94
+limit offer sell 91
+peg offer sell 281
+limit buy 204.99 255
+market buy 199
+limit buy 221.01 179
+limit sell 223.17 208
+limit bid buy 344
+limit buy 231.11 254
+peg bid sell 325
+peg bid buy 195
+peg offer buy 41
+peg bid sell 113
+limit sell 222.26 131
+peg bid buy 52
+limit bid buy 73
+market sell 260
+peg bid buy 149
+limit offer sell 192
+market sell 254
+limit sell 205.36 293
+market buy 348
+peg offer sell 245
+market buy 193
+market buy 264
+limit buy 213.53 400
+peg bid sell 147
+limit offer sell 229
+limit offer sell 209
+market buy 213
+peg bid buy 305
+market sell 349
+limit sell 212.09 236
+limit buy 220.97 28
+limit sell 217.57 178
+peg offer buy 229
+peg bid sell 293
+market sell 72
+limit buy 214.18 283
+market sell 60
+market sell 88
+market sell 42
+limit sell 216.9 99
+market buy 119
+limit buy 210.47 377
+limit buy 210.99 370
+limit buy 211.16 208
+market sell 339
+limit sell 227.13 312
+limit sell 213.22 210
+market buy 62
+market buy 24
+market buy 66
+market sell 29
+limit buy 222.4 394
+market sell 25
+market sell 260
+market buy 316
+limit sell 217.83 377
+limit buy 213.48 357
+market buy 96
+market buy 195
+peg offer buy 97
+limit sell 223.44 325
+peg offer sell 70
+market buy 194
+market sell 94
+market buy 217
+market sell 62
+market sell 266
+limit sell 204.61 275
+peg offer sell 234
+peg offer buy 394
+peg bid sell 144
+market buy 304
+peg offer buy 188
+limit offer sell 88
+market buy 379
+limit buy 219.33 246
+market sell 120
+market buy 248
+limit buy 213.95 396
+market sell 364
+market buy 326
+peg bid sell 327
+limit buy 212.18 199
+market sell 381
+limit buy 220.06 250
+peg offer buy 228
+market sell 333
+peg bid sell 302
+limit buy 228.45 356
+limit sell 226.83 77
+limit sell 233.49 312
+peg offer buy 364
+limit bid buy 156
+market buy 154
+limit sell 217.56 386
+market sell 222
+market buy 37
+peg bid sell 395
+limit buy 208.8 45
+market sell 358
+limit sell 221.93 336
+market sell 345
+market sell 303
+peg bid sell 192
+limit sell 223.59 302
+market buy 380
+market buy 22
+limit sell 214.6 278
+limit sell 201.22 294
+peg offer sell 334
+limit buy 200.72 190
+peg offer sell 159
+limit buy 222.5 268
+market sell 172
+limit sell 228.95 112
+limit offer sell 36
+market sell 354
+market sell 23
+market buy 107
+limit sell 227.62 396
+limit buy 220.45 78
+market buy 249
+limit buy 216.37 166
+limit buy 212.64 266
+limit sell 229.0 328
+peg bid buy 218
+market sell 279
+peg bid sell 33
+peg offer buy 233
+limit buy 229.2 219
+limit sell 222.81 153
+market buy 125
+market buy 30
+market buy 376
+peg bid buy 134
+limit sell 222.87 219
+limit buy 197.76 262
+limit buy 210.05 303
+market sell 370
+peg bid buy 154
+limit buy 223.59 324
+limit buy 220.05 180
+limit sell 217.06 379
+peg offer sell 204
+peg bid sell 337
+limit sell 236.88 292
+market buy 75
+market buy 232
+limit sell 217.22 390
+limit sell 220.57 312
+limit offer buy 294
+peg offer buy 95
+market buy 65
+peg bid buy 314
+limit sell 229.76 111
+limit bid sell 203
+limit sell 235.23 18
+market sell 351
+limit bid buy 274
+limit buy 230.93 154
+market sell 256
+market buy 185
+limit sell 209.78 391
+peg bid sell 397
+market sell 16
+market sell 198
+limit sell 218.37 315
+peg offer sell 147
+market buy 41
+limit sell 213.76 110
+limit sell 212.08 145
+limit buy 205.52 155
+peg offer sell 333
+market buy 20
+market buy 269
+limit buy 223.08 252
+limit sell 225.21 25
+market buy 265
+limit sell 211.44 80
+limit buy 220.84 372
+market sell 349
+limit bid buy 269
+market buy 168
+limit buy 213.77 27
+peg bid buy 123
+market sell 206
+limit sell 212.7 390
+market sell 202
+limit buy 213.6 135
+limit sell 219.26 49
+limit offer buy 174
+limit buy 219.99 260
+peg offer buy 275
+market buy 376
+peg offer sell 171
+limit sell 238.61 41
+limit bid buy 174
+market sell 21
+market buy 347
+market buy 177
+limit buy 220.36 331
+peg offer sell 67
+limit sell 220.73 229
+limit sell 216.37 221
+limit buy 215.55 258
+market buy 183
+limit offer buy 115
+peg offer buy 398
+peg offer sell 80
+limit sell 229.73 322
+market sell 322
+limit buy 227.69 88
+market buy 33
+market sell 167
+market buy 150
+peg bid sell 382
+limit sell 219.07 311
+peg offer sell 321
+peg offer buy 174
+limit buy 219.54 157
+peg offer sell 39
+peg bid buy 394
+peg bid sell 21
+limit sell 227.38 301
+limit sell 238.18 98
+limit sell 239.3 238
+limit buy 233.95 349
+limit buy 213.42 95
+market buy 127
+market buy 283
+market sell 339
+limit bid sell 399
+limit buy 221.93 15
+market sell 91
+market sell 67
+limit sell 216.22 270
+market buy 242
+peg bid buy 40
+peg offer sell 154
+market sell 325
+peg offer sell 395
+market sell 83
+limit buy 214.7 217
+market sell 192
+market sell 23
+market buy 381
+limit buy 202.04 252
+limit offer buy 392
+market buy 163
+limit buy 210.75 267
+limit sell 225.76 303
+limit sell 218.82 82
+limit offer sell 326
+market buy 264
+market buy 315
+limit buy 213.3 128
+limit sell 216.29 80
+limit buy 211.5 183
+market sell 70
+limit buy 207.7 138
+peg offer sell 313
+limit buy 216.24 343
+limit sell 207.51 103
+market buy 275
+limit bid buy 338
+market buy 54
+peg offer buy 160
+limit sell 218.98 53
+limit buy 207.02 236
+peg bid sell 213
+limit sell 212.9 56
+market sell 323
+limit buy 217.87 182
+limit sell 223.13 300
+limit buy 233.4 299
+limit sell 228.85 78
+limit buy 212.09 149
+market buy 65
+limit sell 211.16 95
+limit buy 227.64 172
+peg offer sell 117
+peg bid buy 171
+market buy 47
+limit sell 229.8 172
+limit offer sell 75
+limit sell 208.2 396
+limit offer buy 114
+limit sell 220.67 392
+peg offer sell 251
+market buy 385
+market buy 90
+limit buy 236.39 369
+limit offer sell 181
+peg bid buy 33
+limit buy 208.84 375
+limit sell 226.0 381
+limit sell 218.68 210
+peg bid buy 103
+limit buy 228.7 372
+limit buy 212.7 282
+limit sell 228.04 203
+market sell 389
+peg offer buy 87
+limit sell 220.6 291
+limit buy 206.89 26
+market buy 300
+limit sell 228.51 113
+limit offer sell 265
+limit sell 218.41 153
+limit sell 208.72 37
+market sell 76
+market sell 218
+peg bid sell 153
+limit offer buy 156
+limit bid buy 57
+peg bid buy 150
+market sell 230
+peg bid sell 329
+market buy 263
+market sell 388
+limit buy 217.88 142
+market buy 305
+limit buy 218.34 272
+limit sell 211.98 127
+peg bid buy 282
+limit buy 214.83 239
+limit bid buy 265
+limit sell 222.69 337
+limit sell 213.28 372
+market buy 297
+market sell 296
+peg bid sell 157
+limit bid buy 49
+market sell 136
+peg offer buy 344
+limit buy 211.28 60
+limit buy 233.48 54
+market sell 94
+market buy 387
+peg bid sell 356
+limit buy 207.28 23
+limit offer buy 241
+limit sell 214.94 83
+market buy 264
+limit buy 212.37 292
+market buy 362
+limit sell 227.11 152
+market sell 130
+market sell 33
+limit buy 210.27 112
+limit buy 226.42 109
+market buy 126
+peg offer buy 321
+limit buy 210.67 107
+market sell 216
+peg offer buy 293
+limit buy 215.29 155
+limit sell 209.08 82
+limit buy 213.7 323
+peg offer buy 137
+limit buy 220.04 64
+limit offer buy 242
+limit buy 219.78 331
+peg bid sell 242
+limit sell 208.98 143
+market sell 83
+limit offer sell 30
+market buy 370
+limit buy 211.16 260
+peg offer buy 374
+market sell 221
+peg bid buy 92
+market sell 164
+limit offer sell 176
+peg offer buy 130
+peg bid buy 212
+market sell 223
+peg offer buy 182
+limit buy 222.36 99
+peg offer sell 394
+market buy 304
+peg bid sell 309
+limit sell 233.02 357
+market buy 32
+market sell 230
+peg offer sell 391
+market buy 155
+limit offer sell 168
+limit offer sell 385
+limit buy 212.18 390
+market buy 330
+market buy 93
+market sell 229
+limit bid sell 375
+limit sell 244.05 166
+limit sell 228.8 344
+market buy 90
+limit offer buy 63
+limit buy 209.06 395
+market buy 263
+market sell 396
+market sell 59
+peg offer buy 390
+peg offer sell 131
+limit sell 230.3 151
+market sell 158
+peg bid buy 143
+peg offer sell 63
+limit buy 218.01 364
+limit buy 223.49 21
+limit sell 217.09 235
+market sell 58
+peg bid buy 338
+market buy 267
+limit buy 222.05 121
+peg bid sell 146
+limit buy 217.9 148
+limit sell 219.26 334
+market buy 119
+peg bid buy 301
+limit buy 219.76 76
+limit buy 220.15 353
+market buy 267
+market sell 52
+limit buy 231.44 383
+peg bid buy 264
+limit sell 220.67 151
+market sell 54
+limit buy 220.51 99
+limit sell 215.51 294
+limit bid buy 234
+limit sell 197.82 140
+limit buy 230.35 155
+limit sell 218.8 295
+market buy 176
+market buy 158
+limit offer sell 199
+peg bid buy 135
+peg offer sell 121
+peg bid sell 42
+market buy 382
+limit bid buy 49
+limit sell 221.46 173
+market sell 199
+market sell 324
+limit sell 220.42 224
+market sell 299
+limit sell 224.32 344
+peg offer sell 17
+limit sell 231.34 226
+market sell 99
+peg bid buy 185
+limit buy 222.29 184
+limit offer buy 355
+limit sell 239.23 293
+limit sell 222.93 176
+peg bid sell 290
+market buy 395
+market buy 19
+limit sell 218.59 69
+limit buy 208.87 148
+peg offer buy 108
+limit sell 237.82 94
+limit sell 229.24 101
+market sell 98
+limit bid buy 310
+limit sell 233.69 210
+market buy 308
+peg bid sell 155
+peg bid sell 281
+limit offer sell 317
+market sell 198
+limit sell 231.88 240
+limit sell 222.0 144
+peg bid sell 123
+peg bid buy 118
+limit bid sell 271
+peg bid buy 365
+market sell 363
+limit sell 242.6 350
+limit sell 228.64 248
+market buy 318
+market buy 178
+limit sell 215.37 377
+market buy 185
+peg bid buy 38
+limit buy 218.92 34
+peg bid sell 286
+peg offer buy 139
+limit sell 211.42 318
+peg bid buy 252
+limit sell 209.9 336
+limit sell 232.07 344
+limit buy 217.09 98
+limit buy 212.3 359
+peg offer sell 315
+peg offer buy 136
+limit buy 214.05 80
+limit sell 204.63 25
+market buy 359
+peg bid buy 249
+limit buy 227.3 390
+limit sell 240.61 151
+peg bid buy 399
+limit sell 209.54 95
+peg bid buy 379
+limit sell 211.56 55
+limit sell 223.89 205
+limit offer sell 254
+limit sell 220.52 31
+limit buy 225.8 281
+limit sell 237.1 204
+market buy 73
+peg bid buy 127
+market buy 375
+limit sell 204.67 25
+limit buy 210.78 210
+limit buy 227.99 263
+peg bid buy 381
+limit offer buy 160
+limit buy 224.97 195
+market sell 107
+market sell 380
+market sell 279
+peg bid buy 223
+limit buy 214.61 226
+limit buy 223.69 318
+market buy 229
+limit offer sell 166
+peg bid buy 248
+market sell 101
+limit bid sell 26
+limit offer sell 398
+limit buy 230.35 181
+market buy 346
+limit buy 222.9 182
+limit offer buy 51
+limit offer sell 176
+peg bid sell 267
+market sell 296
+limit sell 221.72 198
+market buy 77
+market buy 231
+limit sell 227.32 80
+limit buy 219.5 21
+limit buy 223.08 315
+peg bid sell 269
+limit sell 228.73 90
+limit buy 238.14 239
+market buy 149
+peg offer sell 199
+market buy 210
+peg offer sell 299
+market buy 268
+limit buy 213.0 296
+limit sell 230.19 123
+limit buy 219.59 361
+limit buy 220.02 19
+peg bid sell 258
+peg bid sell 218
+limit buy 212.35 218
+market buy 299
+market sell 22
+limit offer sell 38
+limit offer sell 275
+limit buy 192.1 149
+market sell 217
+limit sell 218.48 151
+market sell 183
+limit buy 216.58 33
+limit sell 203.73 73
+limit buy 224.08 132
+market sell 185
+limit buy 228.5 211
+market sell 76
+market buy 135
+peg offer sell 328
+limit bid buy 339
+peg offer buy 43
+limit buy 211.88 171
+limit sell 224.98 230
+limit bid sell 127
+market buy 232
+market buy 183
+market buy 121
+peg offer sell 366
+peg offer sell 281
+limit sell 242.52 309
+limit sell 225.21 122
+limit buy 218.25 94
+market buy 83
+limit buy 211.94 249
+peg bid sell 159
+peg offer sell 79
+market sell 99
+limit buy 216.9 306
+market sell 172
+limit offer buy 375
+limit sell 216.18 241
+market sell 20
+limit bid sell 197
+limit buy 219.67 99
+limit bid buy 282
+peg bid buy 392
+peg bid sell 234
+limit sell 228.56 141
+limit buy 221.91 97
+peg offer sell 376
+market buy 382
+limit offer sell 147
+peg bid buy 255
+limit buy 232.54 304
+market buy 393
+market buy 111
+limit buy 208.4 342
+limit sell 218.12 54
+market sell 90
+limit buy 214.73 267
+peg offer sell 62
+market sell 261
+market buy 175
+limit sell 216.48 237
+peg offer sell 39
+limit sell 231.1 276
+limit buy 211.2 226
+market sell 160
+limit sell 211.57 307
+limit sell 233.89 239
+peg bid sell 202
+limit offer sell 201
+limit sell 241.22 267
+limit buy 202.64 178
+market sell 346
+limit buy 210.47 97
+peg offer buy 69
+limit buy 232.45 305
+limit buy 216.62 335
+market buy 259
+market buy 338
+limit sell 225.6 247
+market sell 247
+limit buy 216.27 317
+peg offer sell 265
+market sell 383
+market sell 81
+limit sell 234.94 257
+limit sell 210.18 26
+limit sell 216.11 91
+limit offer buy 160
+peg bid sell 266
+market buy 69
+market sell 196
+limit sell 217.4 43
+market sell 252
+limit sell 235.37 104
+market sell 153
+market buy 93
+limit sell 230.47 243
+limit sell 215.57 232
+market sell 253
+limit sell 213.29 69
+market buy 16
+market sell 78
+peg offer sell 188
+limit offer sell 135
+peg offer sell 158
+limit bid sell 355
+limit offer sell 251
+limit sell 232.94 147
+limit sell 225.99 98
+peg bid buy 35
+limit sell 233.01 284
+limit sell 218.49 243
+peg offer buy 313
+market buy 203
+peg offer sell 134
+peg bid buy 43
+limit buy 213.33 123
+limit offer buy 323
+market buy 250
+market sell 325
+market buy 298
+market sell 65
+limit buy 223.84 151
+limit buy 204.36 34
+limit sell 225.49 74
+limit sell 221.72 66
+market sell 69
+peg bid sell 301
+market buy 225
+limit sell 219.18 87
+market buy 338
+market sell 235
+limit buy 230.05 186
+limit sell 233.39 365
+peg bid sell 107
+peg offer sell 43
+peg offer buy 320
+market buy 388
+market sell 372
+limit sell 216.26 235
+limit buy 222.07 310
+limit buy 210.47 168
+limit buy 204.61 248
+limit buy 217.29 53
+market buy 379
+peg bid sell 358
+limit sell 223.8 175
+peg offer buy 293
+limit buy 215.28 309
+peg offer buy 194
+limit offer buy 165
+market buy 119
+market sell 354
+market sell 323
+limit sell 215.41 206
+peg bid sell 339
+peg offer sell 241
+peg offer sell 29
+peg offer sell 253
+limit offer sell 378
+limit bid buy 122
+limit sell 221.97 281
+limit bid buy 350
+market sell 334
+market buy 188
+limit buy 227.78 125
+market buy 148
+peg offer sell 76
+limit sell 216.37 179
+market sell 241
+limit buy 216.88 113
+limit sell 226.96 377
+limit sell 215.11 146
+limit buy 234.82 57
+limit offer buy 223
+limit offer buy 256
+limit sell 216.78 289
+market buy 81
+peg offer buy 330
+limit buy 217.4 359
+limit sell 230.04 156
+limit buy 223.98 265
+market buy 310
+peg bid buy 29
+market buy 71
+limit sell 221.21 272
+market buy 289
+market buy 295
+market buy 35
+limit sell 209.13 305
+market sell 362
+market sell 104
+peg bid sell 269
+limit buy 234.5 197
+market sell 211
+market sell 340
+market sell 215
+market buy 132
+market buy 121
+market buy 127
+peg offer buy 61
+peg offer sell 305
+limit sell 213.67 52
+market buy 117
+peg bid buy 125
+market sell 82
+limit sell 228.5 105
+limit buy 216.22 102
+peg bid sell 253
+limit sell 212.41 243
+market sell 56
+market buy 282
+market sell 209
+limit buy 225.8 113
+peg bid buy 203
+market sell 341
+limit bid sell 95
+limit buy 223.39 232
+peg bid buy 40
+limit buy 220.4 287
+peg offer sell 30
+market sell 230
+limit offer sell 52
+limit sell 228.62 78
+limit buy 211.82 353
+peg offer sell 76
+peg bid sell 351
+limit buy 227.31 152
+limit buy 228.22 282
+limit sell 226.27 325
+limit buy 215.33 321
+limit buy 223.76 206
+limit bid buy 298
+limit bid sell 273
+limit buy 244.26 347
+market sell 360
+limit sell 230.39 68
+limit sell 219.27 193
+limit buy 225.54 327
+peg bid sell 184
+limit buy 214.59 315
+peg offer sell 254
+market buy 54
+limit buy 230.21 224
+limit buy 224.79 387
+limit sell 219.32 61
+limit sell 223.19 62
+limit sell 230.57 375
+limit buy 226.53 64
+limit sell 234.85 176
+limit bid buy 45
+market buy 260
+market buy 59
+limit offer buy 295
+market buy 335
+limit sell 215.98 313
+peg offer buy 28
+limit sell 232.57 52
+market sell 123
+limit buy 224.75 259
+peg offer sell 19
+peg offer sell 179
+limit offer sell 235
+limit buy 221.49 15
+peg bid buy 268
+limit sell 211.78 165
+limit buy 223.47 386
+limit offer buy 56
+peg offer buy 211
+limit buy 218.42 386
+limit bid buy 264
+limit buy 205.45 247
+peg offer buy 116
+peg offer buy 61
+peg offer sell 227
+limit buy 206.32 387
+market sell 177
+market sell 186
+limit buy 227.62 252
+limit sell 214.23 30
+limit bid sell 252
+limit offer buy 274
+market sell 392
+limit buy 209.65 212
+peg offer sell 16
+market buy 310
+peg bid buy 19
+limit buy 226.37 152
+peg offer sell 72
+market sell 125
+limit sell 231.17 91
+limit buy 227.6 371
+limit buy 210.91 46
+market buy 77
+limit sell 209.04 232
+peg bid sell 126
+limit buy 194.01 399
+market buy 122
+limit buy 216.67 95
+limit sell 229.27 95
+limit buy 212.31 176
+limit sell 222.1 169
+limit sell 239.09 49
+limit buy 219.72 156
+market buy 293
+market sell 60
+limit sell 236.08 274
+peg offer sell 281
+limit sell 226.67 299
+limit sell 224.36 286
+peg bid sell 280
+limit sell 226.0 238
+market sell 135
+limit sell 230.51 179
+limit buy 219.41 234
+limit offer buy 309
+limit sell 225.31 358
+limit sell 224.72 29
+limit sell 240.19 383
+market buy 121
+limit sell 230.47 345
+limit buy 224.31 140
+limit buy 218.58 367
+limit sell 225.56 255
+limit sell 227.82 17
+limit bid sell 333
+limit buy 213.74 356
+market buy 261
+limit sell 216.89 128
+limit bid buy 296
+limit bid sell 314
+market buy 390
+peg offer sell 121
+limit offer buy 273
+limit offer sell 155
+market buy 234
+limit sell 222.2 285
+limit buy 209.16 274
+peg bid buy 228
+limit sell 217.89 31
+market sell 185
+market buy 20
+market buy 25
+limit buy 227.89 291
+peg bid buy 310
+peg offer buy 51
+peg bid buy 88
+limit sell 213.66 125
+limit buy 213.45 378
+limit sell 203.07 56
+limit sell 228.78 296
+limit buy 206.98 328
+peg bid buy 131
+limit sell 219.29 267
+market sell 49
+market buy 226
+market buy 239
+limit offer buy 64
+market buy 228
+market buy 119
+market buy 39
+limit buy 206.93 108
+limit buy 218.66 293
+peg offer buy 300
+market sell 188
+peg offer buy 229
+peg bid buy 287
+peg bid sell 145
+limit buy 203.85 394
+limit buy 217.06 33
+market buy 144
+limit offer buy 127
+limit sell 225.0 384
+market sell 367
+limit buy 217.01 285
+market sell 47
+limit buy 218.6 276
+limit sell 226.3 59
+limit sell 226.35 119
+peg offer buy 355
+limit sell 227.03 354
+peg offer buy 85
+limit offer buy 141
+limit sell 231.32 30
+limit offer buy 15
+limit bid sell 179
+market sell 304
+market sell 367
+limit buy 213.45 147
+limit sell 222.34 213
+peg bid sell 77
+limit offer buy 400
+market buy 317
+peg offer buy 235
+limit buy 219.71 360
+peg offer buy 66
+limit buy 203.52 232
+limit buy 212.48 232
+limit sell 218.87 58
+limit sell 222.09 53
+limit sell 225.05 97
+limit buy 230.18 268
+market sell 241
+market buy 72
+peg bid buy 156
+limit buy 213.07 279
+limit buy 208.88 261
+limit sell 213.42 172
+limit sell 234.74 324
+peg offer buy 84
+limit sell 212.12 61
+peg bid buy 312
+limit offer sell 343
+peg bid sell 112
+market sell 98
+peg bid buy 113
+peg bid sell 18
+limit buy 217.98 21
+peg offer sell 270
+limit buy 212.72 373
+peg offer buy 94
+limit sell 205.65 385
+market sell 29
+limit sell 251.39 222
+peg bid buy 190
+limit buy 218.45 170
+limit sell 218.18 345
+limit buy 204.97 247
+limit sell 223.01 28
+market buy 53
+market sell 162
+limit buy 202.3 337
+peg bid sell 86
+limit bid buy 335
+limit buy 195.94 181
+peg offer sell 228
+peg offer sell 142
+limit buy 222.83 262
+limit sell 234.18 90
+limit buy 229.71 103
+limit buy 223.27 376
+limit offer buy 187
+market buy 244
+market buy 319
+limit buy 222.83 180
+limit sell 218.27 70
+limit buy 210.8 231
+market buy 244
+market sell 35
+market sell 54
+peg offer buy 178
+market sell 392
+limit sell 221.43 348
+limit buy 212.81 323
+market sell 398
+limit buy 217.98 212
+peg offer sell 193
+market sell 169
+peg offer buy 309
+peg bid buy 66
+market sell 282
+limit buy 232.64 248
+limit sell 206.62 266
+market buy 391
+peg bid buy 204
+market buy 391
+limit sell 226.66 340
+peg bid sell 122
+limit offer buy 147
+peg offer buy 199
+market buy 393
+limit buy 232.46 65
+limit sell 226.12 304
+limit offer buy 39
+peg offer buy 339
+limit buy 205.29 221
+limit buy 219.36 125
+limit offer buy 83
+limit buy 199.42 61
+limit buy 218.62 367
+limit sell 233.4 148
+peg offer buy 286
+limit buy 215.35 155
+peg offer buy 305
+market buy 361
+limit buy 222.01 223
+limit buy 233.46 25
+limit sell 224.34 350
+market buy 334
+market sell 123
+market buy 369
+limit sell 240.63 352
+limit sell 234.8 328
+limit buy 194.69 331
+market buy 286
+limit bid sell 267
+limit sell 224.97 126
+limit sell 219.0 265
+peg bid sell 307
+market buy 24
+peg bid sell 53
+market sell 84
+peg offer buy 338
+market buy 118
+limit buy 228.41 317
+market sell 85
+limit sell 230.3 102
+limit offer sell 106
+peg bid sell 322
+limit buy 216.49 153
+limit buy 219.78 347
+limit sell 226.09 151
+peg offer buy 371
+market sell 363
+limit buy 231.69 377
+peg offer buy 390
+limit buy 235.07 144
+peg bid sell 130
+peg bid sell 261
+limit buy 205.26 312
+market buy 198
+market sell 202
+limit offer sell 383
+limit buy 214.17 376
+limit sell 232.99 22
+market buy 42
+peg offer buy 47
+limit buy 205.62 393
+limit sell 224.63 76
+limit offer buy 134
+market buy 80
+limit offer buy 271
+market sell 199
+peg offer sell 137
+limit bid buy 304
+limit bid sell 112
+limit sell 221.44 258
+peg offer buy 224
+limit sell 230.4 393
+peg bid buy 368
+peg offer buy 116
+peg bid buy 261
+limit offer sell 22
+peg offer sell 65
+limit sell 225.58 113
+peg offer buy 260
+limit buy 239.6 312
+limit sell 219.64 382
+limit sell 208.9 400
+limit buy 197.21 81
+market buy 355
+market buy 111
+market buy 338
+market buy 377
+peg offer sell 334
+limit sell 221.21 308
+market buy 123
+market sell 303
+peg offer sell 360
+peg bid buy 20
+peg offer buy 237
+peg bid sell 356
+peg bid buy 226
+market buy 164
+limit bid sell 268
+limit buy 225.89 271
+peg bid buy 255
+limit bid sell 175
+market sell 35
+limit buy 226.32 397
+limit buy 201.71 70
+market buy 380
+market sell 206
+peg bid buy 349
+limit sell 232.41 270
+market buy 102
+market buy 146
+peg offer buy 239
+limit offer buy 313
+market buy 260
+limit offer buy 55
+limit sell 230.14 328
+limit sell 223.08 34
+market buy 364
+limit buy 207.75 57
+limit buy 218.36 141
+limit buy 219.39 211
+limit sell 232.67 337
+limit offer sell 262
+limit buy 216.14 350
+market buy 209
+market buy 210
+limit sell 225.0 38
+limit buy 196.95 194
+peg bid buy 41
+peg offer buy 332
+market sell 398
+limit sell 211.73 219
+limit offer buy 119
+peg offer buy 47
+limit buy 213.2 147
+peg bid buy 247
+limit sell 236.68 193
+limit sell 216.78 65
+limit buy 216.35 211
+market sell 270
+peg offer buy 60
+market sell 321
+peg offer sell 359
+market sell 191
+market buy 162
+peg bid sell 145
+limit buy 225.35 128
+limit buy 196.19 278
+limit bid buy 232
+limit offer sell 67
+limit sell 220.5 338
+limit sell 242.94 297
+market buy 351
+limit sell 217.78 35
+limit sell 228.86 219
+limit buy 213.78 165
+market buy 211
+limit sell 212.8 129
+market sell 66
+limit sell 219.13 236
+limit buy 205.05 272
+limit sell 219.89 44
+limit buy 229.11 147
+limit buy 219.25 93
+market sell 325
+peg offer buy 288
+peg bid sell 142
+limit offer buy 199
+limit buy 213.77 50
+limit buy 220.67 348
+limit bid buy 326
+limit buy 218.95 79
+market buy 99
+limit offer sell 323
+market buy 327
+limit buy 212.51 332
+market sell 121
+limit sell 217.69 367
+peg bid sell 177
+limit sell 209.92 199
+market buy 395
+limit buy 208.13 305
+limit sell 209.9 283
+peg offer sell 356
+market buy 311
+peg bid sell 290
+limit buy 216.93 392
+limit sell 224.91 173
+market sell 91
+limit bid buy 368
+limit buy 224.28 322
+limit buy 221.6 104
+market buy 239
+limit buy 216.56 331
+market buy 209
+market buy 367
+limit sell 227.22 104
+peg offer sell 79
+limit buy 215.51 144
+limit buy 212.3 287
+market buy 226
+limit buy 219.48 337
+limit buy 225.91 342
+limit buy 207.08 114
+limit sell 216.93 314
+limit sell 214.28 34
+peg offer buy 205
+limit buy 209.55 219
+limit buy 222.86 346
+limit sell 212.04 187
+limit sell 217.41 78
+limit sell 214.64 392
+peg bid buy 157
+limit buy 226.62 26
+limit buy 209.45 138
+limit buy 213.67 205
+limit buy 219.05 205
+peg bid buy 162
+market buy 114
+limit sell 218.97 189
+limit buy 214.92 130
+peg offer buy 226
+limit buy 228.82 134
+market buy 292
+peg bid buy 143
+market sell 225
+peg offer sell 296
+limit offer sell 280
+peg offer buy 373
+limit sell 233.13 161
+market buy 294
+peg bid buy 125
+limit buy 200.07 199
+peg bid sell 236
+market buy 124
+limit offer buy 319
+market sell 132
+peg offer buy 262
+limit sell 220.84 92
+limit buy 214.4 298
+market buy 364
+market buy 188
+peg bid buy 138
+limit bid buy 376
+limit buy 221.08 170
+peg bid sell 359
+market buy 308
+limit sell 227.43 49
+market buy 111
+limit buy 221.31 332
+limit sell 214.63 107
+limit sell 217.18 182
+peg offer sell 324
+limit bid sell 177
+limit sell 215.23 326
+market sell 180
+peg bid sell 238
+limit bid sell 38
+limit offer sell 52
+market buy 313
+limit buy 207.02 97
+limit sell 227.08 107
+limit sell 226.01 81
+peg bid sell 352
+limit sell 221.33 326
+market sell 194
+peg bid buy 236
+peg offer buy 369
+limit buy 213.57 188
+market sell 281
+peg offer buy 230
+peg offer sell 198
+limit offer buy 263
+limit bid sell 180
+limit sell 210.04 144
+limit buy 207.65 354
+limit sell 221.28 305
+limit sell 236.6 221
+limit sell 219.17 271
+market buy 87
+market buy 160
+limit buy 217.05 99
+limit buy 216.43 152
+limit bid sell 343
+limit buy 231.59 259
+limit buy 223.13 359
+limit buy 227.59 88
+peg bid buy 300
+peg offer buy 187
+limit buy 220.62 369
+market sell 286
+peg offer buy 247
+limit sell 218.07 255
+peg offer sell 113
+peg offer buy 28
+limit buy 223.2 358
+limit offer buy 196
+limit offer sell 74
+market sell 137
+peg bid sell 257
+limit buy 234.86 386
+limit sell 232.18 296
+market sell 286
+peg offer sell 217
+peg bid buy 349
+market sell 177
+limit sell 220.1 27
+limit buy 209.91 142
+market buy 300
+limit sell 223.34 147
+limit offer buy 358
+limit buy 222.79 287
+market buy 201
+market buy 325
+limit sell 220.74 147
+limit buy 214.72 113
+market sell 74
+limit sell 220.9 233
+peg bid sell 29
+limit buy 211.65 117
+peg offer sell 349
+limit sell 216.14 344
+peg bid sell 171
+market buy 303
+market buy 272
+limit buy 227.47 297
+peg offer sell 69
+market sell 203
+market buy 244
+peg offer sell 388
+market buy 387
+market buy 196
+market buy 22
+peg bid sell 307
+limit buy 215.66 184
+peg bid buy 306
+limit buy 226.38 101
+limit buy 209.55 142
+market buy 325
+market buy 184
+limit buy 209.57 68
+market buy 236
+limit offer buy 357
+peg bid buy 295
+limit offer sell 365
+market buy 127
+limit sell 227.6 242
+limit buy 214.55 275
+limit buy 218.45 67
+limit buy 231.3 181
+limit buy 203.13 97
+market buy 396
+limit buy 209.2 397
+limit sell 229.55 221
+market sell 170
+market buy 46
+limit sell 202.2 328
+limit sell 228.74 158
+peg bid buy 293
+market sell 153
+limit buy 228.8 296
+limit buy 221.41 387
+limit offer sell 219
+limit buy 202.38 48
+peg offer sell 244
+peg bid sell 192
+limit buy 226.13 353
+peg offer buy 381
+limit sell 211.89 285
+peg bid sell 111
+limit buy 216.83 109
+limit sell 216.84 358
+limit sell 211.39 91
+limit sell 236.05 373
+market sell 133
+limit sell 216.97 198
+peg bid sell 315
+limit sell 228.14 124
+limit sell 231.39 149
+limit sell 216.59 119
+limit buy 220.4 301
+limit offer sell 238
+peg offer sell 385
+limit buy 216.72 188
+limit offer sell 37
+market sell 194
+limit sell 231.22 157
+peg bid buy 382
+market buy 309
+peg bid sell 21
+market sell 27
+market buy 225
+peg offer sell 307
+limit buy 211.02 104
+limit sell 210.76 152
+market buy 137
+limit bid buy 182
+limit buy 224.21 302
+limit bid sell 71
+peg offer buy 166
+market sell 174
+limit buy 211.68 260
+limit bid sell 106
+peg bid sell 366
+market sell 199
+limit bid buy 284
+market buy 173
+limit sell 230.11 97
+market sell 287
+limit buy 216.28 214
+limit offer buy 229
+limit buy 224.34 307
+peg offer sell 98
+peg offer buy 133
+limit sell 211.73 327
+peg bid buy 333
+market sell 345
+peg bid sell 34
+limit buy 222.24 123
+peg bid sell 306
+peg offer buy 40
+market buy 136
+limit bid buy 169
+market buy 241
+market sell 148
+limit sell 221.98 233
+limit sell 215.09 40
+limit sell 205.53 228
+market buy 328
+limit sell 223.87 64
+limit buy 199.84 104
+limit buy 207.18 105
+market sell 153
+limit buy 220.51 82
+limit buy 217.64 315
+peg bid buy 370
+limit bid sell 331
+limit buy 220.88 300
+market buy 283
+market buy 250
+limit buy 210.0 55
+peg bid buy 205
+limit bid sell 241
+limit sell 223.32 310
+limit sell 206.45 324
+limit bid sell 74
+limit offer buy 357
+peg offer buy 117
+peg bid buy 204
+limit buy 212.45 19
+limit buy 222.9 277
+limit sell 229.99 172
+peg offer buy 250
+peg offer sell 98
+limit sell 224.42 314
+market sell 243
+limit bid sell 121
+limit offer sell 322
+limit bid buy 346
+limit sell 216.34 326
+limit sell 211.71 31
+market sell 377
+peg bid sell 249
+limit buy 225.76 170
+peg bid sell 290
+peg offer buy 329
+market sell 29
+market buy 138
+limit buy 218.49 280
+limit buy 221.15 69
+peg offer sell 369
+limit sell 211.48 378
+market buy 132
+limit sell 215.91 46
+peg bid buy 377
+limit buy 216.49 54
+market buy 274
+market sell 289
+market buy 137
+market sell 71
+limit sell 230.95 381
+market buy 67
+limit bid buy 34
+peg offer sell 334
+market buy 72
+peg offer buy 215
+limit buy 198.56 170
+peg bid buy 293
+market sell 360
+limit buy 217.8 33
+limit sell 224.13 300
+limit buy 213.6 123
+limit buy 216.8 329
+limit offer buy 319
+limit sell 228.73 181
+limit bid sell 38
+peg bid sell 129
+market sell 81
+limit offer buy 327
+limit buy 205.54 53
+limit sell 234.92 88
+limit sell 223.54 198
+market sell 250
+limit buy 201.81 394
+peg bid sell 168
+peg offer buy 385
+limit sell 229.0 193
+limit buy 220.57 350
+limit sell 212.86 332
+peg offer sell 173
+limit sell 239.61 338
+limit bid sell 33
+limit offer sell 251
+limit sell 220.36 254
+market sell 56
+limit buy 204.86 338
+market buy 165
+limit sell 233.14 33
+limit sell 209.1 67
+peg offer sell 356
+limit buy 224.69 18
+limit sell 224.99 112
+market sell 75
+peg bid buy 150
+peg bid buy 65
+market sell 312
+limit buy 196.02 240
+limit sell 213.55 95
+peg bid sell 281
+peg bid buy 53
+limit sell 215.11 320
+limit buy 208.61 117
+limit sell 216.92 238
+market buy 216
+peg offer buy 324
+peg offer buy 328
+limit sell 216.88 270
+peg offer sell 42
+limit buy 224.57 31
+market buy 37
+market sell 325
+limit buy 203.57 103
+limit bid sell 70
+peg offer sell 375
+limit sell 207.9 75
+limit buy 214.18 399
+peg offer buy 107
+peg offer buy 79
+market buy 46
+limit buy 219.73 230
+limit bid buy 332
+limit buy 224.65 259
+peg bid buy 90
+market sell 277
+peg offer buy 318
+market buy 103
+market sell 160
+market sell 380
+peg bid sell 136
+limit buy 206.95 342
+limit sell 212.41 307
+limit sell 222.3 193
+limit sell 228.89 50
+limit buy 218.96 192
+market sell 27
+limit buy 231.41 341
+limit sell 222.48 343
+market buy 392
+market sell 111
+limit buy 230.52 276
+limit bid sell 69
+peg offer buy 359
+peg bid buy 251
+market buy 83
+peg offer buy 69
+market sell 359
+limit sell 204.8 112
+limit bid sell 216
+limit offer buy 90
+limit sell 209.38 82
+peg bid sell 354
+limit buy 219.69 322
+market buy 357
+limit offer sell 311
+limit sell 224.51 342
+peg bid buy 242
+limit buy 220.06 376
+limit buy 215.69 120
+limit bid buy 223
+limit buy 202.99 248
+peg bid buy 48
+peg offer sell 342
+market buy 149
+market sell 184
+market buy 388
+limit offer sell 266
+peg offer buy 87
+peg offer buy 204
+limit buy 224.65 311
+peg bid sell 277
+limit buy 205.31 19
+limit sell 219.48 316
+market sell 125
+limit buy 224.37 55
+market sell 250
+market buy 267
+market buy 93
+market sell 221
+peg bid buy 59
+market buy 259
+market sell 115
+market buy 220
+limit offer buy 104
+peg offer sell 79
+limit offer buy 237
+limit sell 223.69 352
+limit sell 227.26 70
+peg offer buy 202
+limit bid sell 388
+limit sell 216.73 51
+peg bid buy 75
+limit sell 227.98 316
+market sell 36
+limit offer buy 338
+limit sell 219.71 47
+market buy 172
+limit buy 224.34 152
+limit buy 212.98 146
+limit sell 222.65 192
+limit offer buy 378
+limit sell 223.14 332
+limit bid sell 245
+limit buy 231.54 150
+limit sell 225.69 53
+limit buy 225.03 387
+limit sell 221.75 135
+market sell 138
+market sell 148
+market sell 246
+limit buy 231.37 397
+market sell 222
+market buy 101
+market sell 340
+limit offer buy 54
+limit buy 199.55 290
+limit buy 219.55 39
+limit buy 211.0 220
+limit sell 221.5 337
+peg offer sell 322
+limit sell 209.3 321
+peg offer buy 327
+limit sell 204.61 116
+limit sell 227.37 109
+limit offer buy 143
+peg offer buy 102
+market sell 259
+limit sell 211.39 289
+limit bid buy 98
+limit sell 205.08 70
+market sell 181
+limit sell 232.63 391
+limit bid sell 145
+peg bid sell 68
+limit offer sell 278
+market sell 29
+limit sell 220.58 68
+limit buy 213.76 320
+limit sell 214.98 281
+peg bid sell 230
+peg bid sell 97
+limit bid sell 367
+limit buy 224.82 248
+limit buy 210.78 39
+market sell 220
+limit offer sell 313
+peg offer buy 197
+market sell 185
+limit buy 219.61 37
+market buy 315
+market buy 337
+limit sell 204.36 118
+peg bid sell 381
+market sell 367
+limit sell 241.02 234
+limit buy 218.57 308
+limit sell 205.74 162
+limit sell 222.66 86
+limit sell 203.3 209
+limit sell 215.01 78
+market buy 108
+limit sell 228.64 364
+peg bid buy 371
+peg offer buy 134
+peg bid buy 184
+limit sell 217.82 271
+market buy 229
+peg offer sell 63
+limit sell 223.35 92
+market buy 164
+limit buy 221.35 26
+market buy 349
+limit buy 214.74 46
+market sell 328
+market sell 258
+limit buy 216.55 76
+limit sell 239.14 126
+limit sell 226.45 283
+market buy 306
+market sell 302
+limit buy 228.54 361
+market sell 207
+market sell 177
+limit sell 219.06 319
+limit bid sell 296
+peg bid buy 76
+market buy 39
+peg offer sell 258
+limit offer sell 193
+market buy 308
+limit buy 226.2 48
+limit buy 207.06 71
+market buy 66
+peg offer buy 300
+limit buy 199.52 43
+market sell 262
+market buy 136
+market buy 69
+peg offer buy 259
+limit bid buy 307
+peg offer sell 245
+peg bid buy 385
+limit offer buy 173
+peg bid buy 80
+limit sell 204.14 362
+market buy 160
+market sell 17
+peg bid sell 338
+market buy 323
+limit buy 215.91 302
+market buy 279
+limit sell 232.13 379
+limit sell 225.95 230
+market buy 48
+limit sell 223.69 143
+limit buy 216.62 284
+peg bid sell 36
+peg bid buy 320
+limit bid sell 174
+peg offer sell 312
+market buy 24
+limit buy 215.93 323
+limit buy 214.99 315
+limit offer buy 344
+limit sell 221.8 295
+limit sell 219.26 146
+limit sell 215.87 364
+limit buy 201.55 311
+limit buy 216.94 304
+peg bid buy 41
+limit buy 227.54 287
+market sell 73
+peg bid buy 24
+peg offer buy 198
+market sell 50
+peg offer sell 34
+limit sell 233.69 361
+limit buy 223.55 38
+market buy 113
+peg bid sell 114
+limit bid buy 25
+market buy 391
+market buy 377
+limit buy 211.85 190
+peg bid buy 309
+market sell 285
+market buy 162
+market sell 267
+limit buy 209.08 197
+market sell 387
+limit sell 220.46 366
+market sell 164
+peg bid buy 268
+peg offer sell 69
+peg offer buy 304
+market buy 177
+market buy 235
+limit sell 227.33 230
+market sell 28
+limit buy 213.93 393
+limit sell 222.6 361
+limit buy 221.34 366
+market sell 192
+limit buy 216.24 195
+limit buy 221.47 111
+peg offer buy 361
+peg bid buy 210
+market buy 307
+limit buy 212.53 184
+peg bid buy 18
+limit sell 221.48 298
+peg bid sell 178
+peg bid sell 385
+market sell 123
+limit buy 209.46 247
+limit offer sell 357
+limit bid sell 353
+limit sell 226.03 37
+limit sell 219.15 271
+limit bid sell 50
+peg offer sell 278
+market buy 267
+peg offer buy 94
+limit buy 208.47 349
+limit buy 220.37 180
+market buy 119
+peg bid sell 221
+limit sell 209.33 388
+limit sell 225.63 214
+peg bid buy 54
+limit buy 207.28 98
+limit buy 232.04 231
+peg bid buy 192
+limit offer sell 341
+peg offer sell 269
+market sell 282
+limit buy 218.33 152
+limit sell 232.57 304
+peg offer buy 19
+market sell 34
+limit buy 210.69 132
+limit bid sell 100
+peg offer sell 46
+limit sell 215.62 94
+market sell 153
+peg offer buy 348
+market buy 95
+limit offer buy 142
+limit sell 225.27 385
+limit buy 215.32 243
+peg offer buy 35
+peg offer buy 278
+market buy 19
+limit bid buy 306
+market sell 78
+limit buy 213.15 390
+peg bid sell 105
+market buy 118
+limit buy 213.75 163
+peg offer sell 205
+limit buy 211.48 19
+market sell 61
+limit offer sell 79
+market sell 393
+peg bid buy 42
+peg bid buy 114
+market buy 150
+limit bid buy 129
+market sell 133
+limit offer sell 137
+peg bid sell 240
+peg offer buy 61
+limit bid buy 259
+limit sell 205.99 318
+limit sell 229.94 275
+market buy 32
+limit buy 211.55 260
+limit sell 215.34 82
+peg offer sell 238
+peg offer sell 282
+market buy 28
+limit sell 226.14 181
+limit sell 233.37 91
+market sell 25
+market buy 299
+limit sell 234.72 285
+limit buy 219.96 213
+market buy 29
+market sell 222
+limit buy 203.9 149
+limit buy 211.43 150
+limit bid buy 172
+limit buy 227.6 65
+limit sell 224.75 179
+limit buy 219.11 355
+limit bid buy 348
+limit buy 214.87 385
+peg bid sell 106
+peg bid buy 133
+limit buy 214.32 370
+peg offer buy 245
+market sell 234
+limit sell 211.6 211
+limit buy 217.17 186
+peg offer buy 272
+market buy 303
+peg bid buy 178
+peg bid buy 105
+limit offer buy 301
+peg offer sell 162
+peg offer buy 40
+peg offer buy 344
+market sell 240
+peg bid buy 218
+peg bid sell 26
+limit sell 217.46 223
+peg bid sell 205
+limit bid buy 58
+limit bid buy 280
+peg bid buy 236
+peg bid sell 176
+limit offer buy 375
+market sell 24
+market sell 398
+limit sell 242.71 184
+market buy 243
+peg bid sell 62
+peg bid buy 276
+peg offer sell 291
+peg bid buy 398
+limit buy 205.63 359
+market buy 94
+limit buy 209.17 18
+limit offer buy 223
+limit bid sell 147
+limit buy 223.95 358
+market buy 321
+limit sell 223.71 21
+peg bid buy 42
+market buy 268
+limit buy 208.01 52
+limit sell 210.88 279
+market sell 181
+limit buy 221.71 258
+peg offer sell 200
+peg bid sell 170
+limit sell 220.01 158
+peg bid sell 247
+limit sell 221.88 29
+market sell 254
+limit sell 203.33 180
+market sell 319
+peg offer sell 16
+limit bid sell 86
+limit offer buy 352
+limit buy 215.63 51
+limit sell 215.19 290
+market buy 120
+limit sell 233.52 222
+limit sell 211.64 113
+limit buy 215.1 160
+limit sell 225.91 76
+market buy 258
+limit sell 231.0 288
+limit buy 216.28 52
+limit sell 206.71 271
+market sell 281
+limit buy 211.26 285
+limit sell 200.66 365
+market buy 224
+market sell 207
+limit offer buy 39
+limit buy 219.17 110
+market buy 49
+limit buy 209.34 238
+peg offer sell 184
+limit offer buy 67
+limit bid buy 261
+market buy 378
+peg offer sell 170
+limit offer sell 268
+peg bid sell 68
+limit sell 218.26 377
+limit bid sell 391
+market sell 356
+limit sell 221.12 271
+market buy 17
+peg bid buy 87
+limit sell 205.6 300
+limit bid sell 142
+market buy 251
+limit buy 202.73 188
+limit sell 213.05 190
+market sell 141
+peg bid sell 390
+limit sell 210.16 205
+peg offer buy 227
+market sell 313
+limit offer buy 137
+peg offer buy 236
+limit buy 214.95 289
+market buy 319
+limit offer buy 231
+market buy 112
+limit buy 224.95 95
+market sell 150
+limit sell 229.32 168
+market buy 342
+limit buy 213.77 132
+market buy 176
+limit sell 215.83 302
+limit buy 211.7 99
+market buy 347
+market sell 248
+market buy 86
+limit buy 216.85 66
+peg offer buy 272
+limit buy 230.31 45
+limit bid buy 144
+market sell 144
+market sell 134
+market sell 57
+peg offer sell 310
+peg bid sell 334
+peg bid buy 333
+limit buy 210.7 87
+market sell 369
+peg offer sell 354
+limit offer buy 398
+market buy 73
+market buy 278
+peg bid sell 139
+limit sell 224.06 282
+limit buy 205.18 245
+market sell 269
+market buy 282
+peg bid sell 249
+limit sell 231.53 357
+limit buy 220.58 92
+market buy 358
+peg bid buy 262
+peg bid buy 152
+limit buy 226.14 35
+market sell 233
+limit sell 208.24 332
+limit buy 228.24 121
+limit buy 215.98 41
+limit buy 222.89 135
+limit bid sell 399
+limit offer buy 177
+peg offer buy 219
+market buy 198
+peg bid sell 227
+peg offer sell 301
+limit sell 216.96 339
+peg bid sell 37
+peg offer sell 166
+limit sell 221.84 158
+limit buy 225.91 308
+limit offer sell 258
+market sell 142
+limit buy 225.13 273
+limit buy 213.65 130
+limit buy 220.9 310
+market buy 124
+limit sell 219.74 286
+limit sell 220.5 367
+limit bid buy 183
+limit bid buy 44
+peg offer sell 250
+market sell 177
+peg bid sell 170
+market sell 181
+market sell 78
+peg bid sell 342
+market buy 221
+market buy 217
+limit bid buy 252
+limit sell 232.92 289
+peg offer buy 36
+market buy 236
+limit buy 224.18 400
+market sell 174
+limit offer buy 121
+limit sell 214.84 106
+limit sell 225.31 347
+market sell 28
+market sell 190
+market sell 309
+limit sell 216.38 76
+limit buy 219.03 224
+limit sell 232.52 291
+limit sell 218.03 278
+limit sell 210.42 163
+market sell 128
+peg bid sell 229
+limit buy 221.23 77
+market sell 294
+limit buy 212.97 222
+market sell 134
+peg offer buy 191
+market buy 110
+market buy 215
+limit offer buy 73
+limit bid buy 348
+limit offer sell 207
+limit buy 228.11 251
+limit buy 216.62 381
+limit buy 218.66 73
+limit buy 196.34 175
+peg offer sell 342
+limit buy 209.95 187
+limit bid buy 164
+market sell 255
+peg offer buy 156
+peg bid buy 340
+peg bid buy 100
+market sell 341
+market sell 217
+limit sell 228.71 379
+limit bid buy 168
+limit offer sell 393
+market sell 324
+peg offer sell 251
+limit offer sell 187
+market buy 330
+limit buy 239.86 235
+peg bid sell 396
+market buy 35
+peg offer buy 185
+peg offer buy 136
+limit sell 220.07 195
+limit offer sell 261
+market buy 32
+limit sell 216.03 287
+market buy 99
+limit bid buy 353
+limit sell 223.22 290
+market buy 19
+market buy 194
+limit sell 220.26 42
+peg bid sell 175
+limit buy 206.03 71
+market buy 342
+market buy 129
+limit buy 223.58 283
+limit sell 227.52 92
+market sell 102
+market buy 360
+limit buy 223.04 339
+limit offer sell 147
+limit buy 214.69 295
+market sell 304
+limit offer buy 350
+limit buy 214.54 295
+limit offer buy 142
+limit offer buy 276
+limit sell 221.87 349
+limit buy 211.56 126
+peg bid buy 33
+market buy 302
+limit buy 220.91 214
+limit buy 212.49 277
+peg offer buy 106
+peg offer sell 303
+market buy 98
+limit bid buy 202
+market buy 278
+limit buy 216.51 247
+limit buy 214.91 144
+limit sell 229.98 211
+limit sell 216.17 80
+peg offer sell 190
+market buy 373
+market buy 98
+limit offer buy 21
+peg bid sell 289
+market sell 300
+limit sell 215.31 364
+limit sell 211.85 18
+peg bid buy 227
+limit bid sell 345
+peg bid buy 49
+market buy 381
+limit sell 231.38 146
+limit buy 217.04 236
+peg bid buy 395
+peg offer sell 321
+limit sell 208.13 333
+limit buy 217.36 287
+limit sell 217.16 160
+limit sell 222.58 299
+limit sell 221.96 209
+market sell 140
+market sell 54
+market buy 354
+limit bid sell 304
+market sell 294
+peg offer buy 211
+limit sell 214.48 173
+market buy 58
+limit buy 216.08 206
+limit offer buy 158
+limit buy 214.19 83
+limit offer sell 173
+market buy 185
+market buy 288
+limit bid sell 271
+limit sell 218.88 312
+limit buy 212.68 124
+limit buy 213.92 60
+market sell 336
+market sell 274
+peg offer buy 363
+market buy 137
+limit sell 230.06 322
+limit sell 220.2 294
+peg bid sell 201
+market buy 362
+market buy 118
+limit buy 223.04 307
+peg offer sell 24
+market sell 42
+market sell 53
+limit sell 235.32 311
+market buy 364
+limit sell 224.32 319
+limit sell 233.92 356
+limit buy 222.02 273
+limit sell 210.67 96
+market buy 183
+limit buy 209.94 81
+limit offer sell 79
+limit bid buy 173
+limit sell 230.79 148
+limit buy 206.87 383
+limit offer buy 239
+market buy 102
+market sell 75
+limit buy 198.56 190
+market sell 243
+market sell 37
+market sell 201
+market sell 241
+peg bid sell 125
+market buy 98
+limit buy 213.79 207
+peg offer buy 332
+limit sell 224.32 41
+limit sell 214.72 26
+peg offer buy 376
+limit bid buy 184
+market buy 19
+limit buy 216.09 291
+peg offer buy 52
+peg bid sell 399
+market sell 253
+peg bid sell 236
+market sell 123
+limit sell 211.88 385
+limit buy 214.2 303
+limit buy 205.27 367
+limit buy 215.85 130
+market buy 286
+market buy 365
+limit buy 204.27 265
+market buy 71
+limit offer buy 169
+limit sell 221.03 255
+limit buy 217.95 167
+market sell 371
+limit sell 227.89 168
+limit buy 202.92 94
+limit sell 211.25 301
+limit bid sell 145
+peg bid sell 318
+peg offer buy 393
+peg offer sell 258
+market buy 356
+limit buy 219.07 267
+limit buy 209.02 369
+peg bid buy 380
+peg bid sell 208
+limit bid buy 114
+limit buy 217.82 74
+market buy 239
+limit sell 219.85 331
+market sell 348
+peg offer buy 264
+limit buy 216.58 333
+limit offer buy 215
+peg offer buy 363
+limit buy 228.83 253
+market buy 98
+market sell 330
+peg offer sell 222
+market buy 294
+peg offer sell 339
+limit buy 231.89 264
+market buy 352
+market buy 196
+market buy 92
+limit sell 228.21 22
+market buy 291
+peg offer buy 209
+limit buy 225.06 257
+peg bid buy 87
+limit bid buy 394
+peg offer sell 138
+limit buy 214.41 33
+limit buy 217.21 365
+limit sell 224.83 172
+market buy 289
+market buy 343
+limit offer buy 226
+limit bid sell 369
+peg bid sell 242
+market sell 207
+market sell 76
+limit sell 231.81 91
+market buy 94
+market sell 246
+limit buy 205.65 80
+limit buy 197.87 190
+limit buy 211.79 171
+limit sell 205.93 85
+peg offer buy 119
+limit offer sell 84
+limit bid sell 62
+market buy 294
+limit buy 223.66 394
+limit buy 218.87 336
+limit buy 209.34 273
+market sell 52
+peg bid buy 67
+limit bid buy 50
+limit buy 215.44 162
+market buy 253
+market buy 77
+limit sell 227.69 236
+limit sell 228.66 347
+limit sell 239.72 232
+limit sell 232.43 161
+market sell 142
+market sell 331
+market sell 54
+peg offer buy 377
+market sell 322
+limit sell 207.14 67
+market sell 215
+limit offer sell 56
+peg bid sell 316
+limit buy 209.54 37
+peg bid sell 335
+peg offer buy 28
+limit sell 220.01 38
+limit buy 214.21 53
+market sell 35
+peg bid buy 27
+limit offer buy 43
+peg bid buy 256
+limit buy 206.89 271
+market buy 167
+market sell 247
+market sell 328
+market sell 155
+limit buy 206.35 224
+limit bid sell 204
+market buy 322
+limit sell 229.36 217
+limit bid buy 298
+limit offer buy 25
+limit buy 223.06 353
+market sell 372
+market buy 396
+limit bid buy 117
+market sell 89
+limit sell 223.28 33
+limit buy 228.85 168
+market buy 273
+limit sell 226.01 20
+limit sell 217.01 240
+limit buy 221.57 113
+limit bid sell 72
+limit buy 216.55 196
+limit sell 226.03 243
+market sell 37
+limit sell 211.25 230
+market sell 374
+peg offer sell 375
+peg bid sell 357
+market sell 350
+market sell 369
+limit sell 232.24 392
+limit buy 224.89 101
+market sell 244
+limit offer buy 216
+limit buy 211.75 296
+market buy 358
+market sell 289
+market sell 172
+peg offer buy 262
+limit sell 226.16 25
+peg offer buy 38
+peg bid buy 18
+limit offer sell 160
+peg offer buy 249
+market buy 345
+market sell 170
+market buy 37
+market sell 305
+market sell 102
+limit bid sell 306
+limit buy 213.47 199
+market sell 255
+market sell 305
+peg bid sell 228
+market buy 55
+market sell 148
+peg offer buy 199
+limit buy 216.55 132
+limit sell 234.2 167
+limit buy 220.6 76
+limit sell 221.7 26
+market sell 107
+peg offer buy 28
+limit sell 228.13 294
+market sell 92
+limit buy 212.36 257
+limit sell 213.78 310
+limit bid sell 249
+market buy 358
+limit sell 238.88 227
+limit buy 228.07 343
+limit buy 225.45 207
+limit sell 226.84 212
+limit sell 222.87 319
+market sell 186
+peg offer buy 144
+market buy 318
+limit buy 215.56 155
+limit bid buy 343
+peg bid sell 19
+peg bid sell 205
+limit buy 222.41 32
+limit sell 219.89 380
+market buy 139
+limit offer sell 156
+limit sell 217.44 211
+peg offer sell 76
+peg offer buy 254
+market sell 19
+limit sell 227.32 388
+limit bid sell 173
+peg bid buy 329
+market sell 126
+limit bid sell 315
+market buy 67
+limit buy 203.06 188
+peg bid sell 126
+limit buy 221.72 289
+limit sell 220.18 250
+peg offer sell 67
+limit bid sell 75
+peg offer sell 370
+limit sell 222.71 143
+peg bid sell 343
+limit buy 202.25 189
+peg offer buy 93
+peg offer sell 266
+peg offer buy 77
+peg offer buy 199
+limit buy 230.12 395
+market buy 305
+peg bid sell 387
+limit bid buy 67
+limit sell 217.69 147
+peg offer buy 257
+limit bid sell 94
+limit sell 220.31 242
+peg bid sell 174
+market sell 193
+market buy 52
+market sell 279
+limit sell 221.98 139
+market buy 128
+market buy 340
+peg offer sell 135
+limit buy 227.43 365
+limit offer buy 383
+limit buy 214.53 15
+market buy 170
+market buy 302
+limit sell 233.93 242
+limit sell 232.68 215
+peg bid buy 125
+limit buy 205.8 63
+limit bid sell 117
+limit sell 224.18 244
+limit sell 211.75 103
+market sell 69
+market sell 262
+limit buy 208.64 34
+limit bid buy 191
+market buy 132
+market sell 32
+market buy 199
+limit sell 247.63 281
+market buy 147
+limit buy 216.35 86
+peg offer sell 268
+peg offer sell 182
+peg offer buy 326
+peg bid sell 193
+peg offer buy 60
+limit buy 216.59 95
+market buy 123
+limit sell 216.87 372
+peg offer sell 37
+limit buy 213.66 204
+limit sell 213.07 205
+limit offer buy 245
+market sell 221
+limit sell 233.22 380
+limit buy 204.6 320
+limit bid sell 204
+market buy 48
+peg bid buy 327
+limit sell 231.26 140
+peg offer sell 186
+market sell 172
+limit sell 218.56 18
+market buy 47
+market buy 173
+peg bid sell 231
+market buy 211
+limit buy 210.41 306
+limit bid buy 275
+peg offer sell 231
+limit buy 219.26 342
+market sell 169
+limit sell 202.34 347
+market buy 111
+limit sell 216.75 28
+market buy 220
+limit buy 218.86 264
+limit sell 218.44 392
+limit bid buy 178
+market sell 44
+peg bid buy 112
+peg offer sell 92
+market buy 30
+limit sell 226.3 181
+market buy 289
+limit sell 217.11 340
+market buy 382
+peg offer buy 233
+market sell 398
+peg bid sell 131
+peg bid sell 259
+limit buy 224.74 369
+peg offer buy 375
+limit sell 214.3 226
+market sell 49
+limit sell 222.73 363
+limit buy 224.38 375
+market sell 94
+limit buy 214.86 61
+limit sell 227.74 136
+limit buy 219.19 22
+limit sell 227.09 71
+limit sell 210.74 383
+peg bid buy 32
+market buy 400
+limit buy 233.56 373
+peg offer sell 70
+peg offer buy 292
+limit buy 218.65 193
+peg offer buy 264
+limit offer buy 79
+limit sell 229.03 232
+peg bid sell 365
+limit buy 230.35 386
+limit bid sell 219
+peg bid sell 236
+market buy 349
+market buy 327
+limit sell 223.92 184
+peg bid sell 85
+limit offer sell 23
+limit sell 237.73 374
+limit sell 217.12 328
+market buy 264
+peg bid buy 231
+market buy 399
+market sell 161
+peg offer buy 41
+market sell 289
+limit bid buy 360
+market buy 258
+limit buy 217.07 328
+market sell 291
+limit sell 221.56 62
+limit bid sell 24
+peg offer sell 20
+peg offer buy 300
+peg bid buy 187
+market sell 223
+limit offer sell 391
+limit buy 225.38 34
+limit buy 211.56 64
+limit buy 218.44 64
+limit buy 213.19 341
+limit sell 204.03 15
+peg bid sell 65
+peg offer buy 392
+limit buy 209.51 299
+peg bid buy 332
+market buy 141
+limit buy 226.16 359
+peg bid sell 327
+market buy 24
+market sell 347
+peg bid sell 52
+limit buy 219.75 212
+peg offer buy 48
+limit buy 222.22 111
+limit buy 221.47 133
+market buy 262
+limit sell 222.84 213
+limit sell 222.85 286
+market buy 67
+peg offer sell 85
+limit offer buy 364
+peg bid buy 22
+limit sell 228.51 168
+limit buy 212.78 293
+limit bid buy 245
+limit buy 231.4 125
+peg bid sell 364
+peg offer buy 136
+peg bid buy 198
+limit sell 221.05 220
+limit offer buy 223
+market buy 29
+limit buy 215.67 389
+limit sell 224.67 382
+limit sell 223.25 94
+peg bid buy 224
+peg offer sell 369
+limit buy 220.47 163
+peg offer buy 159
+peg bid sell 110
+market buy 17
+limit buy 220.85 235
+limit buy 222.94 218
+limit buy 220.4 46
+market sell 327
+peg bid buy 298
+limit sell 220.41 224
+limit sell 222.14 112
+market buy 272
+market sell 243
+limit sell 222.47 232
+limit buy 208.72 196
+limit offer sell 86
+limit sell 211.24 203
+limit sell 213.78 209
+market sell 337
+market sell 201
+limit sell 229.94 343
+limit buy 196.73 32
+market buy 253
+market sell 285
+market buy 203
+peg bid buy 162
+peg offer buy 217
+limit sell 228.52 184
+limit buy 207.11 79
+market sell 58
+market sell 102
+limit sell 215.39 123
+market buy 50
+market buy 204
+limit buy 239.42 53
+peg bid sell 95
+limit offer buy 388
+limit sell 227.29 175
+peg offer sell 97
+market sell 33
+peg offer buy 274
+limit buy 217.86 136
+limit offer buy 222
+market buy 119
+market sell 86
+peg bid buy 333
+limit sell 235.22 269
+market sell 166
+limit offer sell 353
+peg bid sell 381
+market sell 299
+market buy 149
+limit sell 201.45 147
+peg bid sell 329
+peg bid sell 85
+limit buy 225.92 229
+peg offer sell 64
+limit sell 228.2 20
+limit sell 223.55 313
+limit buy 224.06 381
+peg bid sell 148
+market sell 189
+peg offer buy 296
+limit sell 217.04 342
+limit sell 216.88 111
+limit buy 219.76 286
+market buy 183
+peg bid buy 385
+peg offer buy 306
+market buy 352
+limit bid buy 335
+market sell 384
+market buy 385
+limit buy 211.14 205
+peg bid sell 121
+market sell 314
+peg bid sell 103
+limit sell 222.38 292
+limit buy 212.21 291
+market sell 297
+limit sell 221.83 339
+peg bid buy 297
+market buy 247
+limit sell 219.51 111
+peg offer sell 214
+peg offer buy 51
+limit buy 218.59 277
+peg bid buy 232
+limit bid buy 63
+market buy 87
+limit sell 220.93 162
+limit sell 215.65 237
+limit buy 226.62 306
+limit sell 238.39 263
+market buy 20
+limit bid sell 49
+market sell 281
+limit buy 220.38 167
+market buy 270
+limit buy 219.17 200
+limit buy 216.48 251
+limit sell 194.51 92
+peg bid buy 142
+market buy 176
+market buy 379
+limit buy 231.36 377
+market buy 296
+market sell 361
+market buy 55
+peg bid sell 345
+limit buy 213.15 374
+market buy 227
+limit buy 213.82 88
+limit buy 231.19 57
+limit sell 242.46 46
+limit sell 208.97 371
+peg offer buy 195
+limit sell 223.3 26
+peg offer sell 360
+market buy 260
+market sell 272
+peg offer sell 300
+limit buy 214.82 85
+market buy 53
+market sell 87
+peg offer buy 184
+limit offer buy 278
+limit sell 199.69 217
+market buy 339
+limit sell 221.53 154
+peg offer buy 44
+market buy 117
+limit buy 224.31 38
+peg offer sell 125
+limit buy 225.83 156
+peg bid buy 23
+market sell 386
+market buy 227
+market buy 388
+limit sell 210.61 341
+market sell 210
+limit buy 220.39 23
+limit offer buy 75
+limit sell 215.81 338
+peg bid sell 55
+limit offer buy 378
+market sell 98
+limit sell 217.85 294
+limit buy 217.87 30
+market sell 240
+limit offer buy 110
+market sell 238
+limit buy 219.39 109
+limit sell 219.49 377
+market buy 121
+limit sell 226.16 314
+limit buy 233.85 134
+market sell 290
+limit buy 215.8 211
+market sell 171
+peg offer sell 316
+limit buy 205.12 119
+limit bid buy 30
+limit buy 230.18 215
+peg bid sell 42
+limit bid sell 202
+peg bid buy 316
+market buy 113
+market buy 205
+limit bid sell 246
+market buy 366
+market buy 315
+peg bid buy 360
+market sell 75
+limit bid buy 155
+limit sell 221.13 261
+peg bid buy 208
+peg bid buy 76
+market sell 38
+peg offer buy 259
+limit buy 211.57 148
+market sell 210
+limit offer buy 89
+limit buy 203.21 71
+limit buy 207.93 199
+limit buy 226.16 130
+limit bid buy 18
+limit sell 230.75 47
+limit sell 220.33 398
+peg bid buy 80
+limit buy 228.0 111
+market sell 101
+limit offer sell 48
+market buy 296
+limit bid sell 257
+limit buy 213.58 119
+peg offer sell 150
+limit sell 226.97 215
+limit offer sell 109
+peg offer sell 394
+limit buy 195.17 189
+market sell 206
+limit buy 211.45 294
+limit buy 208.52 308
+peg bid sell 123
+limit buy 219.19 94
+limit sell 231.08 381
+market buy 46
+market sell 206
+limit offer buy 232
+market buy 235
+market sell 31
+peg bid buy 98
+limit buy 217.96 327
+limit bid sell 110
+peg bid sell 27
+limit sell 234.4 326
+market buy 277
+limit buy 207.72 165
+limit sell 221.94 353
+market sell 283
+limit buy 204.9 131
+peg offer sell 142
+market buy 308
+limit sell 201.84 298
+limit sell 224.24 79
+limit sell 227.75 303
+limit offer buy 257
+peg bid buy 356
+limit bid sell 377
+limit offer buy 21
+peg offer buy 324
+limit offer buy 160
+market sell 365
+limit buy 214.73 398
+peg bid sell 79
+peg bid buy 141
+limit sell 227.28 398
+peg bid buy 194
+market sell 145
+peg offer buy 93
+limit sell 204.25 268
+peg bid sell 326
+peg bid buy 128
+market sell 42
+market sell 173
+peg bid sell 105
+peg offer sell 301
+market sell 369
+peg bid buy 17
+limit buy 223.53 158
+limit sell 228.06 376
+limit sell 223.52 269
+market buy 351
+limit buy 219.15 304
+market buy 95
+market sell 370
+market buy 173
+peg bid buy 271
+market buy 330
+limit sell 221.68 162
+limit bid sell 219
+market sell 313
+limit sell 219.04 92
+peg offer buy 399
+market buy 83
+limit sell 215.98 225
+market sell 52
+limit sell 228.2 223
+peg bid buy 272
+limit sell 217.39 166
+limit buy 224.63 167
+limit buy 236.33 323
+market sell 85
+market buy 55
+limit bid sell 274
+limit sell 228.61 27
+limit sell 215.46 92
+limit sell 232.74 198
+limit offer sell 30
+market buy 216
+limit buy 232.48 320
+limit sell 228.32 400
+market sell 286
+market buy 194
+peg bid buy 262
+limit buy 207.77 146
+limit buy 234.84 203
+limit sell 209.4 336
+limit buy 228.63 389
+market sell 306
+peg bid buy 53
+peg bid sell 308
+market sell 25
+peg offer sell 247
+limit sell 214.32 273
+peg bid buy 229
+market sell 267
+limit offer sell 162
+limit sell 231.9 159
+limit sell 216.48 380
+market sell 132
+limit buy 204.51 61
+peg bid buy 78
+limit sell 205.86 163
+peg offer sell 90
+limit offer sell 273
+limit buy 208.72 29
+peg offer buy 236
+limit bid sell 151
+market buy 299
+limit offer buy 102
+peg bid sell 310
+market buy 59
+peg bid sell 82
+limit buy 202.57 61
+peg offer buy 372
+limit buy 219.75 29
+limit sell 239.77 290
+market buy 157
+peg bid sell 173
+limit sell 237.64 269
+limit buy 223.17 359
+peg bid buy 191
+market sell 189
+market buy 87
+limit buy 217.81 274
+peg offer sell 84
+market buy 165
+limit bid sell 92
+limit offer sell 262
+limit sell 235.58 233
+market buy 117
+market sell 137
+peg offer buy 279
+peg bid sell 173
+peg offer sell 24
+market buy 367
+market buy 373
+limit bid sell 15
+limit buy 229.99 119
+market sell 203
+limit buy 227.57 390
+limit buy 227.37 155
+limit sell 225.81 57
+limit sell 224.15 37
+limit buy 210.03 89
+limit buy 213.16 131
+market sell 391
+limit sell 222.01 312
+limit bid sell 186
+market buy 240
+limit buy 213.69 172
+market sell 376
+market sell 73
+market sell 387
+peg offer sell 140
+limit sell 200.78 234
+limit buy 224.08 175
+peg offer buy 343
+peg bid buy 23
+peg bid buy 365
+limit sell 224.0 33
+limit buy 223.02 388
+limit offer sell 186
+peg offer buy 246
+limit sell 211.94 126
+peg offer sell 237
+peg offer buy 364
+limit buy 228.43 255
+peg bid buy 393
+limit buy 211.4 362
+limit buy 218.75 30
+limit buy 212.5 331
+limit buy 225.79 193
+market sell 350
+market sell 293
+limit buy 224.88 383
+peg offer sell 308
+limit offer sell 375
+peg bid buy 50
+limit sell 220.33 130
+limit buy 209.72 349
+market sell 276
+limit buy 209.67 335
+peg offer sell 137
+limit buy 219.96 230
+limit sell 225.73 220
+limit sell 228.4 342
+limit buy 223.44 85
+peg offer sell 62
+limit buy 197.66 112
+market buy 353
+market buy 84
+limit buy 210.1 16
+limit sell 223.11 150
+peg bid buy 185
+peg bid buy 203
+limit offer buy 144
+peg bid sell 66
+limit sell 226.99 283
+limit buy 232.03 196
+limit buy 214.39 125
+limit bid sell 139
+market buy 113
+limit sell 212.83 92
+limit sell 205.24 210
+limit buy 215.92 30
+limit offer buy 165
+limit sell 223.62 393
+peg bid sell 79
+peg bid sell 272
+limit sell 237.16 193
+limit sell 218.86 154
+market sell 332
+peg bid sell 185
+market sell 319
+limit buy 193.94 42
+market buy 297
+market sell 307
+peg offer sell 36
+limit sell 227.01 289
+limit sell 212.76 88
+market sell 327
+peg bid sell 338
+limit sell 215.13 331
+peg bid buy 333
+peg offer buy 322
+limit buy 211.81 147
+limit buy 227.29 382
+limit buy 223.12 34
+limit bid sell 60
+limit sell 211.09 252
+limit offer buy 297
+limit buy 226.03 350
+market sell 189
+limit bid sell 257
+limit bid sell 370
+limit sell 231.47 127
+peg offer buy 241
+limit sell 215.78 107
+peg offer sell 41
+limit offer buy 56
+limit bid buy 142
+peg offer sell 260
+peg offer sell 374
+market buy 160
+peg offer buy 272
+limit bid sell 186
+peg offer buy 379
+peg offer sell 42
+peg bid sell 240
+market buy 247
+market sell 308
+limit buy 221.72 219
+limit offer sell 311
+limit buy 208.48 385
+limit sell 208.98 194
+limit buy 223.89 368
+market sell 55
+limit sell 229.94 326
+limit buy 216.36 47
+market sell 157
+market buy 62
+market sell 100
+peg offer buy 114
+limit sell 231.51 242
+peg bid buy 148
+limit sell 221.66 230
+limit offer buy 142
+market buy 66
+market sell 20
+limit buy 215.44 92
+limit bid buy 42
+limit sell 220.52 400
+limit sell 212.65 342
+limit sell 219.41 164
+limit bid buy 253
+market buy 89
+market sell 74
+limit sell 228.54 26
+peg offer sell 161
+peg bid sell 137
+peg bid sell 376
+market sell 266
+peg bid sell 345
+market buy 311
+limit buy 221.02 205
+peg offer buy 178
+market buy 381
+limit buy 224.03 237
+market sell 34
+peg offer buy 39
+market buy 113
+limit buy 225.63 22
+peg bid buy 206
+market buy 258
+limit offer buy 389
+limit sell 219.47 344
+limit offer buy 98
+limit buy 221.92 363
+limit buy 218.11 240
+peg bid sell 313
+limit offer buy 127
+limit sell 223.44 86
+limit sell 214.23 343
+peg bid buy 218
+limit buy 209.14 166
+limit offer sell 284
+peg bid buy 297
+market buy 334
+market buy 308
+peg bid sell 207
+peg bid sell 264
+limit sell 237.69 30
+peg bid sell 280
+market sell 144
+peg bid buy 168
+limit buy 215.29 74
+market buy 218
+limit buy 231.49 373
+market buy 274
+market sell 101
+peg bid sell 264
+limit buy 214.83 370
+market buy 16
+limit sell 231.85 316
+peg bid sell 294
+limit sell 217.98 281
+peg offer buy 182
+market buy 205
+limit offer buy 185
+peg offer buy 295
+limit buy 205.19 161
+limit buy 232.89 32
+market buy 207
+market sell 118
+peg offer buy 352
+market sell 386
+market buy 379
+market sell 204
+limit sell 224.31 47
+limit sell 225.08 169
+peg bid sell 252
+market sell 320
+peg bid sell 245
+market sell 41
+peg offer sell 24
+market sell 77
+limit buy 203.42 192
+market buy 246
+limit sell 227.44 355
+market sell 376
+limit buy 218.43 305
+market sell 399
+limit buy 212.82 391
+limit buy 221.91 369
+limit buy 226.19 339
+limit buy 224.62 221
+limit sell 206.74 316
+market buy 176
+market sell 236
+market sell 199
+limit sell 236.76 214
+peg offer buy 333
+market buy 106
+limit buy 223.79 176
+limit buy 207.89 111
+limit sell 232.23 268
+market sell 141
+limit buy 207.25 236
+limit buy 211.74 50
+limit sell 219.32 357
+peg bid sell 49
+limit buy 220.67 192
+limit sell 213.61 184
+limit sell 218.13 118
+peg bid buy 129
+limit sell 219.77 282
+market buy 51
+limit buy 225.11 367
+limit sell 226.02 225
+market buy 24
+limit bid sell 52
+limit sell 221.94 176
+limit buy 226.68 82
+market buy 109
+limit buy 212.46 182
+market sell 30
+market buy 305
+market sell 160
+peg offer sell 255
+peg offer buy 250
+limit buy 221.66 35
+market sell 286
+limit buy 219.86 379
+market sell 400
+limit buy 225.34 259
+limit offer sell 316
+limit offer sell 173
+limit sell 203.61 161
+market buy 338
+limit sell 219.74 390
+peg bid buy 220
+market sell 83
+limit sell 223.01 17
+market sell 298
+market buy 177
+market buy 343
+limit offer buy 246
+limit buy 228.34 69
+limit buy 205.51 348
+limit sell 222.18 33
+peg offer sell 261
+limit sell 221.99 92
+market buy 380
+market buy 344
+limit sell 239.57 23
+market buy 362
+peg bid buy 214
+peg bid sell 86
+limit sell 209.79 326
+peg bid buy 175
+peg offer sell 118
+market sell 22
+peg bid buy 38
+limit sell 231.27 161
+limit buy 230.25 149
+peg offer buy 41
+market buy 97
+market buy 143
+limit sell 214.22 374
+market buy 348
+peg bid sell 111
+limit bid buy 50
+limit buy 223.35 333
+limit sell 225.77 103
+limit buy 224.97 250
+limit offer sell 320
+peg bid buy 248
+market buy 245
+limit buy 209.23 371
+limit buy 206.84 155
+peg bid sell 240
+peg bid sell 257
+market buy 45
+limit sell 230.65 354
+market sell 276
+limit buy 221.33 299
+limit buy 215.81 62
+peg offer buy 282
+limit offer sell 383
+market buy 333
+limit buy 224.1 375
+limit buy 210.2 65
+limit offer buy 296
+limit sell 231.0 42
+peg bid buy 232
+market buy 308
+limit buy 223.13 246
+limit sell 226.94 369
+limit buy 220.39 70
+market sell 120
+market sell 177
+limit buy 216.8 354
+market buy 354
+peg offer sell 57
+peg bid sell 63
+market buy 140
+limit sell 221.11 124
+market sell 262
+peg offer sell 355
+limit buy 222.24 359
+market buy 288
+limit buy 223.88 117
+limit buy 213.23 226
+limit sell 211.79 164
+market buy 229
+market buy 383
+limit sell 226.44 51
+limit sell 226.53 34
+limit bid sell 362
+market sell 129
+peg bid sell 111
+market sell 42
+limit sell 230.94 186
+market sell 347
+limit sell 218.29 311
+limit sell 212.16 148
+limit sell 230.76 196
+limit sell 228.28 285
+market sell 312
+limit buy 213.66 49
+market buy 294
+limit offer sell 61
+limit buy 225.16 201
+market buy 191
+market buy 226
+limit bid sell 264
+limit sell 212.77 214
+market buy 113
+limit buy 220.13 184
+limit buy 218.36 159
+limit sell 225.81 197
+peg offer buy 269
+market sell 29
+limit sell 230.35 138
+market sell 148
+limit sell 227.83 213
+peg bid sell 344
+limit buy 221.1 381
+peg bid buy 224
+market sell 292
+market sell 381
+market buy 120
+limit sell 211.16 398
+limit sell 216.31 87
+market sell 250
+limit buy 209.06 122
+limit buy 224.44 53
+market sell 338
+market sell 327
+limit sell 222.16 61
+market sell 99
+limit buy 201.81 51
+limit buy 215.66 366
+limit bid buy 22
+limit sell 235.59 165
+market sell 94
+limit buy 205.43 306
+limit offer buy 292
+limit sell 225.37 265
+peg bid sell 135
+limit bid buy 320
+limit buy 221.99 134
+peg offer sell 335
+market buy 337
+peg bid buy 387
+limit sell 214.49 194
+limit sell 232.54 242
+market buy 228
+limit bid sell 267
+limit buy 221.01 245
+market buy 314
+peg offer buy 96
+limit buy 221.43 286
+market sell 145
+peg bid sell 39
+market buy 299
+limit offer sell 125
+limit sell 212.87 324
+peg bid sell 101
+peg bid sell 335
+limit buy 209.83 164
+limit sell 212.5 266
+peg offer buy 118
+peg offer buy 319
+market sell 328
+peg bid buy 360
+limit offer sell 399
+limit offer buy 67
+market buy 204
+peg bid buy 340
+market sell 177
+limit sell 225.59 108
+limit sell 221.19 132
+market sell 31
+market buy 113
+limit buy 223.27 124
+limit sell 230.15 28
+limit buy 224.83 170
+limit offer sell 156
+limit buy 221.64 187
+peg bid sell 92
+limit buy 209.48 43
+peg offer sell 313
+peg bid sell 206
+peg bid sell 377
+limit buy 221.62 27
+market buy 312
+limit buy 225.83 376
+market buy 209
+market sell 369
+peg bid buy 104
+peg offer buy 240
+limit sell 241.99 294
+limit sell 213.7 115
+limit buy 213.47 281
+market sell 140
+limit sell 211.37 130
+limit buy 217.33 41
+limit buy 233.56 158
+limit buy 219.19 374
+limit sell 227.18 198
+peg bid buy 35
+market buy 323
+market sell 251
+market buy 183
+limit offer sell 63
+peg bid buy 189
+limit offer sell 157
+market buy 107
+limit sell 208.89 159
+market buy 175
+market sell 240
+limit sell 214.7 91
+market sell 100
+market buy 348
+limit buy 241.78 254
+peg offer buy 209
+market buy 342
+limit buy 227.57 272
+limit buy 206.56 259
+market sell 61
+limit bid sell 213
+limit sell 218.17 140
+limit sell 234.39 131
+limit sell 222.36 68
+market sell 179
+peg offer sell 291
+limit bid sell 165
+limit sell 220.65 167
+limit buy 209.71 78
+limit buy 234.02 376
+limit sell 229.4 111
+limit buy 210.16 191
+limit buy 224.58 328
+limit sell 216.88 382
+market buy 304
+limit sell 224.14 201
+market buy 87
+peg bid buy 143
+market buy 61
+market sell 207
+peg bid buy 364
+market sell 154
+peg offer buy 219
+peg offer buy 18
+limit buy 210.74 360
+limit sell 221.85 270
+peg bid buy 360
+limit sell 204.46 277
+limit buy 214.71 324
+market sell 247
+limit sell 224.05 83
+market buy 166
+peg bid sell 118
+limit buy 217.08 16
+limit offer sell 138
+limit sell 227.28 225
+market buy 73
+limit sell 219.57 357
+market buy 40
+limit buy 226.82 344
+limit buy 226.6 329
+limit sell 217.31 301
+limit offer buy 61
+limit sell 220.18 161
+limit bid sell 270
+limit buy 224.7 276
+market sell 227
+limit sell 211.85 221
+limit buy 228.84 214
+limit buy 217.34 115
+peg bid buy 139
+limit sell 213.59 261
+peg offer sell 21
+market buy 77
+market sell 279
+peg offer sell 245
+market buy 72
+market sell 374
+limit buy 234.09 394
+market sell 31
+market buy 65
+limit buy 225.9 284
+market buy 330
+peg offer buy 350
+peg bid buy 246
+limit buy 221.07 389
+market buy 286
+limit sell 219.21 316
+limit sell 222.97 25
+limit buy 231.01 333
+market buy 119
+limit buy 220.61 323
+peg offer buy 161
+limit buy 227.34 359
+market sell 349
+peg bid sell 89
+limit buy 219.17 227
+limit sell 229.11 191
+peg bid sell 212
+market sell 339
+market buy 190
+limit offer buy 287
+peg bid sell 271
+peg offer sell 155
+peg bid sell 318
+peg offer sell 399
+limit buy 199.42 385
+limit buy 215.6 108
+limit sell 231.06 311
+limit sell 233.93 330
+peg offer sell 264
+limit bid buy 76
+market sell 112
+peg offer sell 321
+limit offer buy 194
+limit buy 225.34 214
+peg offer buy 368
+limit buy 230.02 356
+limit buy 229.68 21
+limit bid sell 80
+limit buy 202.76 200
+limit offer buy 211
+limit buy 201.42 202
+limit buy 223.95 293
+market buy 41
+limit buy 213.01 353
+limit sell 211.52 195
+limit offer buy 383
+limit sell 243.95 160
+market buy 94
+limit sell 204.25 142
+peg bid sell 160
+market sell 263
+limit sell 204.8 37
+peg bid sell 352
+limit buy 215.66 131
+limit buy 218.39 396
+market sell 371
+limit offer sell 81
+limit buy 206.89 24
+limit sell 201.26 230
+limit sell 225.19 52
+market sell 298
+peg offer sell 157
+limit buy 218.74 399
+limit bid buy 218
+market buy 181
+limit sell 211.89 82
+peg offer sell 24
+market buy 143
+limit buy 207.77 167
+peg bid sell 348
+limit buy 216.07 129
+limit offer sell 112
+market buy 106
+market buy 270
+market buy 56
+peg bid buy 164
+limit buy 213.37 167
+peg offer sell 365
+market sell 217
+limit buy 206.36 258
+peg offer buy 104
+market buy 129
+limit sell 236.58 57
+limit sell 219.65 291
+peg bid sell 202
+limit buy 218.67 277
+market sell 49
+market buy 118
+limit sell 214.03 71
+market buy 262
+limit bid buy 242
+peg bid buy 117
+peg offer buy 114
+market buy 92
+limit sell 228.77 314
+market buy 130
+limit sell 231.64 326
+limit sell 234.87 375
+limit sell 203.46 354
+market buy 330
+limit sell 228.66 170
+market buy 214
+market buy 144
+market buy 197
+market buy 68
+limit buy 210.26 169
+peg bid buy 291
+market buy 297
+limit buy 216.79 280
+limit buy 224.76 327
+limit sell 219.32 277
+limit bid buy 55
+market buy 267
+limit sell 208.67 57
+market sell 122
+limit sell 219.72 242
+limit sell 212.43 174
+market sell 275
+peg offer buy 45
+limit buy 237.57 18
+limit bid buy 149
+market sell 211
+limit sell 216.44 261
+limit buy 206.6 337
+limit buy 224.85 377
+limit bid sell 113
+limit sell 223.1 164
+market buy 23
+limit offer sell 214
+limit buy 211.35 110
+market sell 139
+limit sell 223.38 329
+market buy 307
+peg offer sell 162
+limit sell 220.86 212
+market sell 398
+market buy 200
+limit buy 217.09 156
+market sell 342
+peg bid sell 114
+limit sell 216.62 246
+limit sell 223.21 97
+limit buy 214.31 324
+peg offer buy 167
+market buy 339
+limit sell 221.16 373
+market buy 210
+market buy 225
+peg bid sell 247
+market buy 74
+limit buy 207.06 94
+market sell 275
+peg bid sell 161
+limit sell 218.68 343
+peg offer buy 264
+limit sell 221.19 65
+limit buy 225.7 156
+market buy 144
+limit buy 220.45 351
+limit buy 207.67 332
+limit offer sell 221
+market sell 129
+limit sell 226.91 194
+limit buy 216.47 394
+limit sell 215.09 75
+peg bid sell 204
+limit buy 238.55 394
+limit buy 227.19 361
+limit bid buy 142
+peg offer sell 362
+limit buy 216.32 374
+limit buy 226.84 322
+market buy 79
+limit sell 227.85 181
+limit sell 227.24 396
+market buy 36
+market sell 352
+limit offer buy 76
+peg offer sell 182
+market buy 174
+limit bid buy 219
+limit sell 223.17 105
+peg bid sell 134
+market buy 125
+limit sell 230.9 83
+market sell 201
+market buy 335
+peg offer sell 148
+market buy 190
+market sell 124
+market buy 186
+limit sell 232.37 126
+limit bid buy 169
+limit sell 217.28 106
+limit sell 235.23 377
+market buy 190
+peg bid buy 58
+peg offer buy 74
+limit buy 222.0 208
+peg bid sell 157
+market sell 126
+peg bid sell 216
+limit bid sell 190
+market buy 161
+limit bid sell 310
+peg offer buy 373
+peg offer buy 345
+market sell 87
+market buy 71
+limit buy 215.27 302
+peg bid buy 90
+peg bid buy 142
+peg offer sell 73
+limit sell 230.85 61
+peg bid buy 233
+peg offer sell 261
+market sell 20
+limit buy 211.38 382
+limit sell 232.9 237
+market buy 146
+peg bid sell 49
+peg bid sell 214
+limit buy 228.31 160
+peg bid buy 200
+market sell 278
+peg bid sell 187
+market sell 221
+limit sell 233.95 309
+limit sell 214.17 276
+limit sell 227.57 95
+limit buy 225.71 38
+market sell 218
+limit buy 208.78 97
+limit sell 222.58 274
+market sell 346
+limit sell 217.88 38
+market sell 331
+limit sell 227.23 295
+limit sell 214.81 15
+limit bid sell 332
+limit bid buy 357
+limit buy 215.96 329
+limit sell 228.67 33
+market sell 277
+peg offer buy 369
+market sell 63
+limit buy 221.11 192
+peg bid sell 36
+market buy 36
+limit buy 224.67 136
+peg offer sell 387
+peg offer buy 287
+limit sell 229.67 290
+peg bid buy 232
+peg offer buy 104
+limit sell 220.17 171
+peg bid buy 112
+limit sell 222.73 197
+market sell 168
+peg offer buy 262
+market buy 257
+market sell 63
+limit bid buy 244
+limit buy 215.9 155
+peg offer sell 170
+limit offer buy 87
+market sell 139
+market buy 268
+peg offer sell 158
+limit offer sell 71
+limit buy 201.07 256
+market buy 17
+market buy 212
+market buy 108
+limit buy 218.66 273
+peg offer sell 325
+market sell 211
+market buy 362
+peg bid buy 210
+market sell 172
+limit offer buy 312
+market sell 64
+market buy 227
+limit buy 219.03 339
+peg offer buy 375
+limit buy 234.81 225
+peg bid buy 130
+limit sell 216.16 303
+limit sell 220.88 80
+limit buy 200.88 31
+limit offer buy 246
+peg bid buy 173
+limit sell 221.35 335
+market sell 213
+limit sell 205.1 84
+limit buy 234.69 142
+peg bid sell 149
+peg bid buy 345
+market sell 283
+limit sell 212.32 136
+peg offer buy 125
+limit sell 230.73 372
+limit offer buy 46
+market sell 118
+limit buy 223.06 155
+limit sell 200.93 221
+peg bid buy 239
+market sell 243
+market buy 345
+peg bid sell 346
+peg offer sell 69
+limit buy 216.08 92
+market buy 359
+market buy 86
+limit sell 220.23 383
+market sell 393
+limit buy 224.56 132
+market sell 378
+market sell 144
+limit buy 219.46 261
+limit buy 219.47 77
+limit buy 223.01 375
+limit sell 231.61 138
+limit sell 212.13 306
+market buy 133
+peg offer buy 190
+limit buy 221.04 199
+limit buy 212.25 208
+limit sell 202.26 344
+limit sell 233.92 203
+limit buy 202.84 343
+market sell 189
+limit buy 206.84 168
+limit sell 239.65 182
+market sell 302
+limit buy 222.47 141
+limit sell 219.25 248
+limit buy 221.87 85
+peg offer buy 212
+limit sell 216.41 28
+peg offer sell 191
+limit sell 221.39 102
+limit buy 214.77 389
+limit sell 224.8 393
+limit sell 224.77 321
+limit bid sell 162
+limit bid sell 60
+market buy 279
+limit sell 220.86 358
+market sell 195
+market sell 176
+limit sell 215.23 81
+market buy 354
+limit sell 221.33 67
+limit buy 215.79 66
+limit sell 233.19 131
+limit sell 214.95 314
+limit buy 212.8 86
+market sell 137
+peg bid buy 347
+market sell 182
+market buy 124
+limit buy 203.82 229
+limit buy 201.6 151
+limit bid sell 363
+limit buy 210.46 355
+limit bid sell 358
+market buy 18
+market sell 285
+limit buy 225.81 75
+limit sell 214.79 48
+peg bid buy 228
+limit sell 225.11 351
+limit buy 225.33 277
+peg offer sell 120
+market sell 234
+peg offer sell 283
+limit sell 205.1 198
+market sell 156
+limit offer sell 144
+limit bid buy 110
+limit offer sell 217
+limit sell 208.49 227
+limit sell 233.52 276
+limit buy 224.31 103
+market buy 148
+limit buy 230.25 399
+market sell 263
+peg bid sell 383
+limit sell 238.17 315
+limit buy 215.65 319
+limit sell 230.3 281
+limit sell 213.56 300
+limit buy 210.78 238
+limit buy 205.11 156
+market buy 175
+limit buy 224.52 327
+peg bid buy 23
+limit sell 215.67 324
+limit sell 224.76 360
+limit offer buy 172
+limit sell 222.42 197
+market sell 225
+limit buy 224.13 387
+limit buy 215.42 328
+limit offer buy 299
+market buy 290
+limit buy 213.22 395
+limit buy 207.39 64
+market buy 275
+peg bid buy 75
+limit buy 202.44 297
+peg offer sell 195
+market sell 246
+market sell 119
+market sell 106
+peg offer sell 16
+peg offer buy 381
+market buy 319
+peg offer sell 85
+market sell 89
+limit bid sell 268
+limit sell 223.63 384
+market buy 126
+limit buy 224.61 367
+peg offer sell 290
+market buy 174
+market buy 276
+peg offer buy 325
+peg offer sell 384
+peg bid sell 63
+limit bid buy 37
+limit sell 226.55 183
+market sell 326
+market sell 135
+limit sell 231.34 162
+market sell 132
+limit sell 210.95 350
+limit bid sell 352
+market sell 400
+peg offer buy 353
+market buy 161
+market sell 321
+peg offer buy 208
+market sell 71
+limit bid sell 112
+market buy 110
+limit sell 216.88 351
+limit buy 208.11 243
+market buy 371
+market buy 21
+market sell 323
+market sell 345
+market buy 340
+peg offer buy 395
+market sell 368
+peg bid sell 225
+peg offer buy 198
+limit bid buy 259
+limit buy 206.58 68
+market buy 218
+market sell 241
+limit sell 207.11 246
+market buy 173
+market sell 286
+peg offer sell 83
+market sell 202
+limit sell 211.76 295
+market sell 249
+market buy 365
+limit buy 205.8 369
+market buy 347
+limit sell 208.25 208
+limit buy 216.99 47
+market sell 166
+limit buy 216.78 53
+market buy 22
+market buy 266
+limit sell 222.5 19
+limit sell 216.11 217
+peg offer buy 153
+limit sell 224.96 146
+peg offer sell 345
+limit buy 210.8 66
+limit buy 206.0 351
+limit buy 205.05 183
+limit buy 207.96 263
+market sell 269
+limit buy 221.51 69
+market sell 178
+limit sell 233.86 317
+limit buy 212.96 311
+limit buy 218.17 50
+market buy 20
+limit sell 213.88 81
+peg bid buy 370
+market sell 128
+limit sell 217.21 260
+limit offer sell 221
+market sell 112
+market buy 288
+limit sell 227.21 46
+market sell 160
+limit bid sell 41
+market sell 298
+limit buy 226.2 86
+peg offer buy 38
+limit sell 233.96 110
+market buy 268
+market buy 35
+market buy 98
+market sell 391
+market buy 391
+limit sell 229.17 300
+limit sell 223.98 117
+market buy 349
+limit buy 219.0 272
+limit sell 218.91 98
+limit bid buy 33
+market buy 118
+limit sell 231.63 200
+market sell 258
+peg bid sell 127
+peg offer buy 131
+market buy 333
+peg offer buy 351
+peg offer buy 307
+limit offer sell 72
+limit buy 221.84 335
+limit buy 219.43 310
+peg bid sell 126
+limit bid sell 367
+limit sell 225.17 275
+peg bid sell 296
+market sell 126
+peg bid buy 64
+market buy 283
+limit buy 226.29 244
+market buy 243
+market sell 340
+limit sell 219.0 258
+peg bid buy 139
+limit sell 240.54 371
+peg offer sell 250
+limit buy 220.25 97
+limit buy 231.2 296
+limit sell 213.24 92
+peg bid sell 338
+peg offer sell 305
+limit sell 232.42 61
+market buy 163
+limit buy 216.18 130
+market buy 248
+limit buy 227.41 307
+limit buy 225.64 70
+market sell 198
+limit sell 211.49 133
+limit sell 223.78 322
+limit sell 221.5 108
+peg bid sell 238
+peg offer buy 63
+market sell 128
+peg offer buy 147
+limit sell 220.82 328
+limit buy 216.13 39
+peg offer sell 184
+limit sell 217.14 34
+limit offer buy 44
+peg offer sell 64
+peg bid sell 237
+peg offer buy 31
+peg bid buy 126
+peg bid buy 118
+limit buy 216.4 281
+peg offer buy 56
+limit bid sell 235
+limit buy 213.79 398
+market buy 351
+limit bid buy 190
+peg bid sell 157
+peg bid buy 66
+market buy 97
+market buy 167
+limit buy 209.46 356
+limit buy 231.71 317
+limit sell 216.72 218
+limit bid buy 98
+market buy 30
+limit buy 209.18 29
+market sell 24
+limit buy 213.29 16
+limit buy 210.62 339
+limit buy 212.19 307
+limit buy 212.8 358
+limit buy 223.36 390
+peg offer sell 298
+limit sell 224.56 283
+limit offer sell 213
+peg bid buy 183
+peg bid buy 230
+market sell 116
+peg offer buy 345
+limit buy 209.59 207
+market sell 126
+limit buy 203.5 172
+peg offer buy 350
+limit buy 213.12 368
+market buy 363
+market sell 377
+market sell 62
+limit buy 207.49 186
+limit sell 216.64 384
+peg bid buy 119
+limit sell 218.14 142
+limit bid buy 169
+market buy 315
+limit sell 214.02 317
+market buy 171
+limit buy 215.38 118
+limit buy 218.43 315
+limit sell 231.94 324
+peg offer buy 304
+market sell 68
+limit offer sell 359
+limit sell 225.4 134
+limit buy 210.62 35
+market buy 141
+market buy 150
+limit sell 225.32 141
+market buy 225
+limit buy 207.53 134
+market buy 113
+limit sell 234.38 58
+limit sell 218.96 262
+limit sell 222.35 284
+market sell 146
+market buy 182
+limit buy 213.33 304
+market sell 298
+market sell 214
+peg offer sell 80
+limit sell 233.57 248
+limit sell 221.05 324
+limit sell 199.21 368
+peg bid sell 282
+market buy 150
+market sell 69
+limit bid sell 199
+limit sell 219.08 345
+peg offer buy 122
+limit sell 223.44 50
+market sell 73
+peg bid buy 304
+peg bid buy 19
+peg offer buy 324
+market sell 226
+market buy 396
+limit buy 204.85 165
+limit sell 231.33 156
+limit bid buy 326
+limit offer buy 399
+limit sell 222.63 249
+limit buy 225.94 219
+limit sell 222.54 111
+limit offer sell 76
+market sell 122
+peg offer buy 313
+peg bid buy 223
+limit buy 227.5 33
+peg offer buy 361
+peg offer buy 315
+market buy 232
+limit sell 233.3 226
+limit buy 211.43 160
+market buy 395
+market buy 55
+peg bid sell 177
+market sell 321
+market sell 175
+limit bid buy 123
+market buy 145
+limit sell 225.28 73
+limit sell 214.24 394
+limit buy 215.55 392
+peg offer sell 345
+limit buy 202.59 274
+limit sell 224.54 357
+market sell 247
+peg bid sell 335
+limit sell 218.43 394
+limit sell 228.89 68
+market sell 197
+peg bid sell 336
+limit sell 219.52 388
+peg bid buy 330
+peg offer sell 264
+peg offer buy 151
+limit bid sell 283
+market sell 71
+market sell 383
+limit sell 230.17 126
+limit buy 212.75 384
+limit buy 212.03 290
+peg bid buy 285
+peg offer sell 208
+market sell 101
+limit bid buy 254
+limit sell 202.75 306
+market buy 251
+market buy 231
+peg bid buy 399
+market sell 124
+limit sell 232.85 299
+peg offer sell 394
+limit sell 211.29 71
+peg offer buy 374
+limit sell 218.72 306
+limit sell 226.68 386
+market buy 208
+limit buy 199.69 214
+peg offer sell 381
+limit buy 226.89 291
+limit buy 215.58 367
+peg offer buy 173
+market sell 202
+peg offer sell 28
+limit sell 233.29 228
+market sell 124
+limit sell 217.08 244
+limit sell 228.04 94
+limit buy 222.91 43
+market buy 23
+limit sell 228.87 220
+limit sell 224.35 76
+limit buy 221.75 93
+market sell 300
+limit offer sell 69
+market sell 296
+market buy 103
+market sell 145
+peg bid buy 281
+limit sell 214.05 196
+limit bid buy 327
+peg bid sell 210
+peg bid sell 148
+limit buy 213.36 223
+peg offer sell 230
+peg bid buy 244
+limit offer sell 306
+limit buy 215.66 305
+limit buy 218.44 56
+peg bid buy 17
+market sell 252
+market buy 261
+market buy 198
+market sell 187
+peg offer buy 263
+market buy 379
+limit buy 206.25 47
+limit sell 216.31 141
+limit buy 231.52 195
+limit bid buy 237
+peg bid buy 360
+market buy 174
+limit buy 220.49 352
+market buy 198
+limit buy 220.15 221
+market buy 182
+limit offer buy 102
+limit buy 226.98 268
+peg bid sell 254
+limit sell 226.94 323
+limit sell 228.78 312
+market buy 315
+peg bid buy 231
+limit buy 206.7 287
+market sell 15
+limit buy 226.45 110
+peg bid sell 127
+limit offer sell 381
+peg offer buy 214
+limit bid buy 387
+limit buy 222.99 195
+market sell 98
+market sell 67
+market sell 58
+limit bid sell 189
+market buy 144
+market sell 26
+market sell 320
+limit buy 216.45 355
+limit buy 213.63 251
+market sell 378
+limit bid buy 52
+peg offer sell 335
+limit buy 226.82 343
+peg offer buy 77
+limit buy 225.56 267
+market sell 149
+peg offer buy 237
+limit sell 224.29 22
+limit sell 223.24 57
+market buy 161
+limit sell 220.19 206
+limit bid buy 151
+limit bid buy 248
+limit offer sell 374
+limit buy 225.27 143
+market buy 84
+market sell 105
+limit bid sell 224
+peg bid buy 338
+limit buy 207.42 234
+limit buy 199.35 137
+market buy 77
+peg bid buy 235
+limit sell 219.32 214
+market buy 113
+market sell 359
+limit sell 218.92 225
+peg bid buy 209
+peg bid buy 178
+market sell 306
+market sell 351
+market sell 282
+limit buy 207.97 171
+limit bid buy 311
+limit buy 199.25 327
+peg offer buy 39
+peg bid sell 186
+limit buy 197.54 392
+peg offer sell 312
+market sell 155
+peg offer sell 161
+peg bid sell 281
+peg bid sell 242
+peg bid sell 390
+limit buy 216.6 325
+limit sell 235.59 139
+limit buy 228.0 380
+limit sell 211.73 68
+limit buy 207.07 268
+limit offer sell 74
+peg offer sell 233
+market buy 246
+peg offer buy 207
+peg offer sell 306
+peg bid buy 163
+limit sell 205.04 83
+limit offer buy 385
+limit sell 219.11 43
+limit sell 215.25 91
+limit sell 223.14 23
+limit sell 230.49 111
+limit buy 211.84 342
+peg bid buy 125
+peg bid buy 108
+market sell 358
+limit sell 238.86 353
+market sell 296
+market buy 47
+limit buy 210.61 241
+limit buy 211.44 389
+limit buy 221.77 97
+limit buy 225.7 216
+market sell 234
+limit buy 217.68 172
+market sell 253
+peg offer sell 29
+limit buy 217.45 167
+market buy 164
+peg offer buy 365
+limit offer sell 361
+market sell 216
+peg bid buy 375
+peg bid buy 328
+limit sell 197.25 315
+limit sell 210.06 121
+limit buy 208.91 323
+limit sell 215.59 130
+market buy 46
+market sell 88
+peg offer buy 351
+market sell 210
+market sell 375
+market buy 339
+limit offer buy 109
+market sell 292
+limit offer sell 17
+peg bid sell 143
+limit buy 217.54 162
+limit buy 222.63 280
+limit sell 221.9 271
+market buy 157
+peg bid buy 86
+peg bid buy 346
+limit sell 223.75 148
+market buy 75
+peg offer sell 44
+peg bid sell 94
+limit sell 203.72 381
+peg offer sell 264
+limit sell 205.75 344
+market sell 396
+limit sell 210.15 204
+limit sell 216.22 320
+market buy 393
+limit buy 204.54 352
+peg bid buy 260
+market sell 161
+peg bid sell 87
+limit sell 211.3 141
+peg offer buy 22
+peg bid buy 63
+market sell 365
+limit buy 220.25 184
+peg bid sell 387
+peg offer buy 275
+peg bid buy 299
+peg bid buy 235
+limit offer sell 285
+limit buy 212.57 319
+market buy 78
+limit bid buy 213
+limit buy 230.69 317
+market buy 250
+limit sell 220.76 46
+limit buy 220.37 270
+limit bid sell 289
+limit bid buy 182
+market sell 69
+limit sell 235.15 157
+limit sell 227.98 26
+market sell 342
+market sell 163
+peg bid sell 57
+market sell 241
+limit offer sell 33
+limit bid sell 78
+limit buy 211.9 370
+market buy 18
+peg offer sell 15
+limit buy 213.77 129
+peg offer sell 38
+limit buy 233.42 43
+limit sell 217.78 257
+market sell 342
+peg offer buy 249
+peg bid sell 83
+limit offer sell 30
+limit bid buy 370
+limit sell 221.01 368
+peg offer buy 24
+limit offer buy 396
+limit sell 228.67 98
+market buy 39
+limit buy 216.73 352
+limit bid sell 140
+limit bid buy 87
+limit offer sell 144
+market sell 166
+market sell 343
+peg bid buy 68
