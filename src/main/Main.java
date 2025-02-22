@@ -1,5 +1,3 @@
-package main;
-
 import java.util.Scanner;
 
 public class Main {
@@ -23,5 +21,6 @@ public class Main {
                 System.out.print("> ");
             }
         }
+        if (System.console() == null) System.out.println();
     }
 }

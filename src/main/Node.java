@@ -1,5 +1,3 @@
-package main;
-
 /**
  * Node generic representation
  * @param <T> data type to save at node

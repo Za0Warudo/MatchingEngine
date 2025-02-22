@@ -24,8 +24,8 @@ if __name__ == "__main__":
     file_name = input("File name: ")
     seed = int(input("Seed: "))
     output_size = int(input("Output size: "))
-    mass_center = float(input("Mass center: "))
-    gap = float(input("Gap: "))
+    mass_center = float(input("Mass center: ")) # middle between the two normal distributions
+    gap = float(input("Gap: ")) # diff
     std = float(input("Standard deviation: "))
 
     random.seed(seed)
